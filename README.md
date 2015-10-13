@@ -150,7 +150,7 @@ The input files that do not belong to us are governed by their respective licens
 
 <a name="footnote2"><sup>2</sup></a> We needed to specify two different *Fonetikode* feature systems, one for the *Phoible* and on for the *Ruheln* databases, because these two use different transcription conventions and it was not always trivial to determine the correspondence between them, or actual the meaning of several symbols in the *Ruhlen* database. [↩](#origin2)
 
-<a name="footnote3"><sup>3</sup></a>: Please note that some of these "counts" are in fact ratios of counts (e.g., "ratio.voiced.voiceless.obstruents"). [↩](#origin3)
+<a name="footnote3"><sup>3</sup></a> Please note that some of these "counts" are in fact ratios of counts (e.g., "ratio.voiced.voiceless.obstruents"). [↩](#origin3)
 
 
 ## Bibliography
