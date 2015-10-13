@@ -64,7 +64,7 @@ For each inventory in the two databases, we categorized each segment in terms of
 ## Methods and outputs
 
 We implemented the procedure as an [`R`](https://www.r-project.org/) (R Core Team, 2015) script available as `./code/Extract features.r`.
-This script uses libraries `stringr` (Wickhamm, 2015), `dplyr` (Wickham & Francois, 2015), and `parallel' and `compiler` (part of standard `R`).
+This script uses libraries `stringr` (Wickhamm, 2015), `dplyr` (Wickham & Francois, 2015), and `parallel` and `compiler` (part of standard `R`).
 The script has **XXX** sections.
 
 ### Assembling the languages
