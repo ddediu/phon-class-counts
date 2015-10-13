@@ -1,6 +1,6 @@
 # Features (and feature counts) from PHOIBLE and Ruhlen's databases
 
-**Dan Dediu** ([Dan.Dediu@mpi.nl](mailto:Dan.Dediu@mpi.nl)) and **Scott Moisik** ([Scott.Moisik@mpi.nl](mailto:Scott.Moisik@mpi.nl))[^0]
+**Dan Dediu** ([Dan.Dediu@mpi.nl](mailto:Dan.Dediu@mpi.nl)) and **Scott Moisik** ([Scott.Moisik@mpi.nl](mailto:Scott.Moisik@mpi.nl))<a name="origin1"><sup>[1](#footnote1)</sup></a>
 
 Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands
 
@@ -85,7 +85,7 @@ Finally, we built a list of the unique segments that appear in both databases, c
 
 ### The feature systems
 
-We imported the *Phoible*, *Fonetikode* for *Phoible*, and *Fonetikode* for *Ruhlen*[^1] feature systems, defined in the files `./input/phoible-segments-features.tsv`, `./input/phoible_Features_Fonetikode.csv`, and `./input/Ruhlen_Features_Fonetikode.csv` respectively (each row represents one segment the columns the features, and the cells the actual values), and merged them, identifying duplicates or undefined segments, and retaining only the featural defintions for the segments actually present in the inventories.
+We imported the *Phoible*, *Fonetikode* for *Phoible*, and *Fonetikode* for *Ruhlen*<a name="origin2"><sup>[2](#footnote2)</sup></a> feature systems, defined in the files `./input/phoible-segments-features.tsv`, `./input/phoible_Features_Fonetikode.csv`, and `./input/Ruhlen_Features_Fonetikode.csv` respectively (each row represents one segment the columns the features, and the cells the actual values), and merged them, identifying duplicates or undefined segments, and retaining only the featural defintions for the segments actually present in the inventories.
 In total, we have 2008 segments defined in the *Phoible* system, 2004 in the *Fonetikode* for *Phoible*, and 414 in the *Fonetikode* for *Ruhlen*.
 
 ### Defining classes of segments
@@ -100,7 +100,7 @@ Each class is thus encapsulated by a function with a pretty transparent definiti
 
 ### Counting classes of segments
 
-For each inventory in each of the two databases using the appropriate feature systems, the number of segments in each class is counted, resulting in three CSV (TAB-separated, no quotes) files `./output/counts-fonetikode.csv` (*Fonetikode* system on *Phoible* database), `./output/counts-moran.csv` (*Phoible* system on *Phoible* database) and `./output/counts-ruhlen.csv` (*Fonetikode* system on *Ruhlen* database) containing the languages as rows (identified by their UULID) and the classes as columns, each cell giving the count[^2] of a class for an inventory.
+For each inventory in each of the two databases using the appropriate feature systems, the number of segments in each class is counted, resulting in three CSV (TAB-separated, no quotes) files `./output/counts-fonetikode.csv` (*Fonetikode* system on *Phoible* database), `./output/counts-moran.csv` (*Phoible* system on *Phoible* database) and `./output/counts-ruhlen.csv` (*Fonetikode* system on *Ruhlen* database) containing the languages as rows (identified by their UULID) and the classes as columns, each cell giving the count<a name="origin3"><sup>[3](#footnote3)</sup></a> of a class for an inventory.
 
 We merged these counts in the CSV (TAB-separated, no quotes) file `./output/counts-merged.csv` where the class names have suffixes "_F" (for *Fonetikode* system on *Phoible* database), "_P" (for *Phoible* system on *Phoible* database), and "_R" (for *Fonetikode* system on *Ruhlen* database). 
 Moreover, the CSV (TAB-separated, no quotes) file `./output/counts-merged-separate-codes.csv` also splits the UULIDs into its component codes (ISO 639-3, WALS, AUTOTYP and Glottolog) for easier processing and cross-database matching.
@@ -146,11 +146,11 @@ The input files that do not belong to us are governed by their respective licens
 
 
 
-[^0]: **Author contributions:** DD and SM desgined the research; SM defined the *Fonetikode* feature system and applied it to the *Phoible* and *Ruhlen* databases; SM defined the segment classes and their specification in both feature systems; DD wrote the `R` script and generated the UULIDs; DD and SM checked the results; DD wrote this report.
+<a name="footnote1"><sup>1</sup></a> **Author contributions:** DD and SM desgined the research; SM defined the *Fonetikode* feature system and applied it to the *Phoible* and *Ruhlen* databases; SM defined the segment classes and their specification in both feature systems; DD wrote the `R` script and generated the UULIDs; DD and SM checked the results; DD wrote this report. [↩](#origin1)
 
-[^1]: We needed to specify two different *Fonetikode* feature systems, one for the *Phoible* and on for the *Ruheln* databases, because these two use different transcription conventions and it was not always trivial to determine the correspondence between them, or actual the meaning of several symbols in the *Ruhlen* database.
+<a name="footnote2"><sup>2</sup></a> We needed to specify two different *Fonetikode* feature systems, one for the *Phoible* and on for the *Ruheln* databases, because these two use different transcription conventions and it was not always trivial to determine the correspondence between them, or actual the meaning of several symbols in the *Ruhlen* database. [↩](#origin2)
 
-[^2]: Please note that some of these "counts" are in fact ratios of counts (e.g., "ratio.voiced.voiceless.obstruents").
+<a name="footnote3"><sup>3</sup></a>: Please note that some of these "counts" are in fact ratios of counts (e.g., "ratio.voiced.voiceless.obstruents"). [↩](#origin3)
 
 
 ## Bibliography
