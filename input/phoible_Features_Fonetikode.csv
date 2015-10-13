@@ -1,0 +1,2129 @@
+ID	Name	General Class	V-V.	V-H.	V-C.	C-P.	C-M.	C-S.	Phon.	Init.	Pri.	2nd	Pros.	Tone.	Notes
+276	d̤	c				a	s	s	b	p	none	none	none	none	
+2520	d̤ɮ̤	c				a	af	c	b	p	none	l	none	none	
+1671	dz̤	c				a	af	c	b	p	none	none	none	none	
+2856	d̤z	c				a	af	c	b	p	none	none	none	none	
+2509	d̤z̤	c				a	af	c	b	p	none	none	none	none	
+1679	ɡ̤ǃ	c				a	clk	c	b	vi	none	none	none	none	
+2527	ɡ̤ǁ	c				a	clk	c	b	vi	none	l	none	none	
+603	l̤	c				a	a	c	b	p	none	l	none	none	
+1734	l̠̤	c				a	a	c	b	p	ret	l	none	none	
+2536	ɮ̤	c				a	f	s	b	p	none	none	none	none	
+1346	n̤	c				a	n	s	b	p	none	none	none	none	
+2516	n̤d̤	c				a	s	prn	b	p	none	none	none	none	
+2510	n̤d̤ɮ̤	c				a	af	prn	b	p	none	none	none	none	
+2529	n̤d̤z̤	c				a	af	prn	b	p	none	none	none	none	
+2778	n̤ʰ	c				a	n	poa	b	p	none	none	none	none	
+2775	n̤s	c				a	f	prn	b	p	none	none	none	none	
+2772	n̤tʰ	c				a	s	poa	b	p	none	none	none	none	
+2761	n̤ʷ	c				a	n	s	b	p	none	w	none	none	
+2537	ŋ̤ǁ	c				a	clk	prn	b	vi	none	l	none	none	
+2521	ŋ̤ɡǃ	c				a	clk	prn	b	vi	none	none	none	none	
+2518	r̤	c				a	tr	s	b	p	none	none	none	none	
+1347	ɾ̤	c				a	t	s	b	p	none	none	none	none	
+2546	z̤	c				a	f	s	b	p	none	none	none	none	
+202	d̰	c				a	s	s	c	p	none	none	none	none	
+1727	d̠̰	c				a	s	s	c	p	ret	none	none	none	
+1648	ɡ̰ǃx	c				a	clk	c	c	vi	none	none	none	none	
+813	l̰	c				a	a	c	c	p	none	l	none	none	
+381	n̰	c				a	n	s	c	p	none	none	none	none	
+2103	r̰	c				a	tr	s	c	p	none	none	none	none	
+1704	ɺ̠̰	c				a	t	s	c	p	none	ret	none	none	
+1919	ɹ̰ˤ	c				a	a	pog	c	ge	none	ph	none	none	
+1590	ɾ̰	c				a	t	s	c	p	none	none	none	none	
+2054	s̰	c				a	f	s	c	p	none	none	none	none	
+1909	t̰	c				a	s	s	c	p	none	none	none	none	
+2274	tɬ̰	c				a	af	c	c	p	none	l	none	none	
+1910	ts̰	c				a	af	c	c	p	none	none	none	none	
+54	d	c				a	s	s	vd	p	none	none	none	none	
+1428	ᴅ	c				a	t	s	vd	p	none	none	none	none	alveolar flap (not official IPA)
+1933	d̃	c				a	s	s	vd	p	nas	none	none	none	
+774	dˀ	c				a	s	pog	vd	ge	none	none	none	none	
+393	ɗ	c				a	s	s	vd	gi	none	none	none	none	
+1637	dʼ	c				a	s	pog	vd	ge	none	none	none	none	
+2801	d̞	c				a	a	s	vd	p	lwd	none	none	none	
+1505	d̠	c				a	s	s	vd	p	ret	none	none	none	
+1066	d̩	c				a	s	s	vd	p	none	none	syl	none	
+2766	d̺	c				a	s	s	vd	p	ap	none	none	none	
+149	d̻	c				a	s	s	vd	p	lam	none	none	none	
+597	d͈	c				a	s	s	vd	p	dvb	none	none	none	
+980	dˤ	c				a	s	s	vd	p	none	ph	none	none	
+1540	ɗ̠	c				a	s	s	vd	gi	ret	none	none	none	
+329	ˀd	c				a	s	prg	vd	p	none	none	none	none	
+1961	ˀɗ	c				a	s	prg	vd	gi	none	none	none	none	
+296	dː	c				a	s	s	vd	p	none	none	long	none	
+2765	d̺ː	c				a	s	s	vd	p	ap	none	long	none	
+1304	d̻ː	c				a	s	s	vd	p	lam	none	long	none	
+968	d͈ː	c				a	s	s	vd	p	dvb	none	long	none	
+1018	dˤː	c				a	s	s	vd	p	none	ph	long	none	
+1256	dˠ	c				a	s	s	vd	p	none	v	none	none	
+1979	dʰ	c				a	s	poa	vd	p	none	none	none	none	
+1930	ɗʰ	c				a	s	poa	vd	gi	none	none	none	none	
+61	dʲ	c				a	s	s	vd	p	none	j	none	none	
+1246	d̻ʲ	c				a	s	s	vd	p	lam	j	none	none	
+1878	dʲʷ	c				a	s	s	vd	p	none	jw	none	none	
+2574	dʼkxʼ	c				a	af	pog	vd	ge	none	none	none	none	
+660	dl	c				a	s	c	vd	p	none	l	none	none	
+1413	dɮ	c				a	af	c	vd	p	none	l	none	none	
+2760	dlʷ	c				a	s	c	vd	p	none	w	none	none	
+607	dⁿ	c				a	s	pon	vd	p	none	none	none	none	
+1408	d̠ⁿ	c				a	s	pon	vd	p	ret	none	none	none	
+1815	dr	c				a	s	c	vd	p	none	r	none	none	
+2704	dɾ	c				a	s	c	vd	p	none	r	none	none	
+1820	dʷ	c				a	s	s	vd	p	none	w	none	none	
+192	dz	c				a	af	c	vd	p	none	none	none	none	
+1985	dz̃	c				a	af	c	vd	p	nas	none	none	none	
+1628	dzʼ	c				a	af	pog	vd	ge	none	none	none	none	
+146	d̻z̻	c				a	af	c	vd	p	lam	none	none	none	
+287	dzː	c				a	af	c	vd	p	none	none	long	none	
+1633	dzˠ	c				a	af	c	vd	p	none	v	none	none	
+1980	dzʰ	c				a	s	poa	vd	p	none	none	none	none	
+1289	dzʲ	c				a	af	c	vd	p	none	j	none	none	
+1880	dzʷ	c				a	af	c	vd	p	none	w	none	none	
+2628	ɢǃ	c				a	clk	c	vd	vi	none	none	none	none	
+1623	ɡǃ	c				a	clk	c	vd	vi	none	none	none	none	
+1760	ɡǃ̠	c				a	clk	c	vd	vi	ret	none	none	none	
+2662	ɡǃʰ	c				a	clk	poa	vd	vi	none	none	none	none	
+2595	ɡǃkxʼ	c				a	clk	pog	vd	ge	none	none	none	none	
+2611	ɡǃqʰ	c				a	clk	poa	vd	vi	none	none	none	none	
+1622	ɡǃx	c				a	clk	c	vd	vi	none	none	none	none	
+2663	ɡǃxʼ	c				a	clk	pog	vd	ge	none	none	none	none	
+2626	ɢǁ	c				a	clk	c	vd	vi	none	l	none	none	
+2578	ɡǁ	c				a	clk	c	vd	vi	none	l	none	none	
+1758	ɡǁ͓	c				a	clk	c	vd	vi	mc	l	none	none	
+2614	ɡǁkxʼ	c				a	clk	pog	vd	ge	none	l	none	none	
+2616	ɡǁqʰ	c				a	clk	poa	vd	vi	none	l	none	none	
+2592	ɡǁx	c				a	clk	c	vd	vi	none	l	none	none	
+2681	ɡǁxʼ	c				a	clk	pog	vd	ge	none	l	none	none	
+2877	ʰd	c				a	s	pra	vd	p	none	none	none	none	
+2870	ʰn	c				a	n	pra	vd	p	none	none	none	none	
+2857	ʰɾ	c				a	t	pra	vd	p	none	none	none	none	
+35	l	c				a	a	s	vd	p	none	l	none	none	
+556	l̃	c				a	a	s	vd	p	nas	l	none	none	
+2151	ɫ	c				a	a	s	vd	p	none	lv	none	none	
+2763	lˀ	c				a	a	pog	vd	ge	none	none	none	none	
+1920	lʼ	c				a	a	pog	vd	ge	none	l	none	none	
+1409	l̠	c				a	a	c	vd	p	ret	l	none	none	
+348	l̩	c				a	a	c	vd	p	none	l	syl	none	
+999	ɮ	c				a	f	s	vd	p	none	l	none	none	
+971	lˤ	c				a	a	c	vd	p	none	lph	none	none	
+2862	l̠˞	c				a	af	c	vd	p	ret	r	none	none	
+364	ˀl	c				a	a	prg	vd	p	none	l	none	none	
+240	lː	c				a	a	c	vd	p	none	l	long	none	
+2568	lʼː	c				a	a	pog	vd	ge	none	none	long	none	
+69	lˠ	c				a	a	c	vd	p	none	lv	none	none	
+2345	lɦ	c				a	a	poa	vd	p	none	l	none	none	
+2464	lᶣ	c				a	a	s	vd	p	none	none	none	none	
+2083	lʰ	c				a	a	poa	vd	p	none	l	none	none	
+36	lʲ	c				a	a	c	vd	p	none	j	none	none	
+182	ɮʲ	c				a	f	s	vd	p	none	lj	none	none	
+2737	lʲʷ	c				a	a	s	vd	p	none	w	none	none	
+496	lʷ	c				a	a	c	vd	p	none	lw	none	none	
+1836	lʔ	c				a	a	pog	vd	ge	none	l	none	none	
+39	n	c				a	n	s	vd	p	none	none	none	none	
+335	nˀ	c				a	n	pog	vd	ge	none	none	none	none	
+1918	nʼ	c				a	n	pog	vd	ge	none	none	none	none	
+1410	n̠	c				a	n	s	vd	p	ret	none	none	none	
+349	n̩	c				a	n	s	vd	p	none	none	syl	none	
+807	n͉	c				a	n	s	vd	p	ola	none	none	none	
+2068	n̺	c				a	n	s	vd	p	ap	none	none	none	
+177	n̻	c				a	n	s	vd	p	lam	none	none	none	
+1061	nˤ	c				a	n	s	vd	p	none	ph	none	none	
+1737	n̠̤	c				a	n	s	vd	p	ret	none	none	none	
+358	ˀn	c				a	n	prg	vd	p	none	none	none	none	
+2669	ʼn	c				a	s	prg	vd	p	none	none	none	none	
+278	nː	c				a	n	s	vd	p	none	none	long	none	
+1303	n̻ː	c				a	n	s	vd	p	lam	none	long	none	
+981	n͈ː	c				a	n	s	vd	p	dvb	none	long	none	
+1035	nˤː	c				a	n	s	vd	p	none	ph	long	none	
+41	nd	c				a	s	prn	vd	p	none	none	none	none	
+2888	n̠d	c				a	s	prn	vd	p	ret	none	none	none	
+1421	n̠d̠	c				a	s	prn	vd	p	ret	none	none	none	
+2468	ndː	c				a	s	prn	vd	p	none	none	long	none	
+483	ndʲ	c				a	s	prn	vd	p	none	j	none	none	
+2524	ndl	c				a	s	prn	vd	p	none	l	none	none	
+1816	ndr	c				a	s	prn	vd	p	none	r	none	none	
+2705	ndɾ	c				a	s	prn	vd	p	none	r	none	none	
+1822	ndʷ	c				a	s	prn	vd	p	none	w	none	none	
+512	ndz	c				a	af	prn	vd	p	none	none	none	none	
+1859	ndʑ	c				a	af	prn	vd	p	none	none	none	none	
+2886	ndzʲ	c				a	af	prn	vd	p	none	j	none	none	
+2839	ndzʷ	c				a	s	prn	vd	p	none	w	none	none	
+360	n̠d̠ʒ	c				a	af	prn	vd	p	ret	none	none	none	
+2538	n̠̤d̠̤ʒ	c				a	af	prn	vd	p	ret	none	none	none	
+2517	n̠̩d̠ʒ	c				a	af	c	vd	p	none	none	syl	none	
+1829	n̠d̠ʒʷ	c				a	af	prn	vd	p	ret	w	none	none	
+1151	nˠ	c				a	n	s	vd	p	none	v	none	none	
+2607	ɴɢǁqʰ	c				a	clk	poa	vd	vi	none	none	none	none	
+1857	nh	c				a	n	poa	vd	p	none	none	none	none	
+2346	nɦ	c				a	n	s	vd	p	none	none	none	none	
+1931	nʰ	c				a	n	poa	vd	p	none	none	none	none	
+42	nʲ	c				a	n	s	vd	p	none	j	none	none	
+1244	n̻ʲ	c				a	n	s	vd	p	lam	j	none	none	
+2735	nʲʷ	c				a	n	s	vd	p	none	w	none	none	
+1858	nl	c				a	a	prn	vd	p	none	l	none	none	
+1550	nr	c				a	tr	prn	vd	p	none	none	none	none	
+2830	nɾ	c				a	t	prn	vd	p	none	r	none	none	
+1103	nʷ	c				a	n	s	vd	p	none	w	none	none	
+916	nz	c				a	f	prn	vd	p	none	none	none	none	
+2826	nzɾ	c				a	f	prn	vd	p	none	r	none	none	
+1821	nzʷ	c				a	f	prn	vd	p	none	w	none	none	
+396	ɹ	c				a	a	s	vd	p	none	none	none	none	
+1010	ɹ̩	c				a	a	s	vd	p	none	none	syl	none	
+1916	ɹˤ	c				a	a	pog	vd	ge	none	ph	none	none	
+80	r	c				a	tr	s	vd	p	none	none	none	none	
+2797	rˀ	c				a	tr	pog	vd	ge	none	none	none	none	
+2569	rʼ	c				a	tr	pog	vd	ge	none	none	none	none	
+355	r̩	c				a	tr	s	vd	p	none	none	syl	none	
+568	ɺ	c				a	t	s	vd	p	none	none	none	none	
+37	ɾ	c				a	t	s	vd	p	none	none	none	none	
+974	rˤ	c				a	tr	s	vd	p	none	ph	none	none	
+534	ɾˀ	c				a	t	pog	vd	ge	none	none	none	none	
+1044	ɾˤ	c				a	t	s	vd	p	none	ph	none	none	
+2124	r̃	c				a	tr	s	vd	p	nas	none	none	none	
+1861	r̝	c				a	tr	s	vd	p	rzd	none	none	none	
+247	r̠	c				a	tr	s	vd	p	ret	none	none	none	
+2067	r̺	c				a	tr	s	vd	p	ap	none	none	none	
+557	ɾ̃	c				a	t	s	vd	p	nas	none	none	none	
+1525	r̠̙	c				a	tr	s	vd	p	ret	none	none	none	
+2135	ɹ̝	c				a	a	s	vd	p	rzd	none	none	none	
+936	ɺ̠	c				a	t	s	vd	p	none	ret	none	none	
+1546	ɾ̠	c				a	t	s	vd	p	none	ret	none	none	
+650	ɾ͓	c				a	t	s	vd	p	mc	none	none	none	
+361	ˀr	c				a	tr	prg	vd	p	none	none	none	none	
+275	rː	c				a	tr	s	vd	p	none	none	long	none	
+2567	rʼː	c				a	tr	pog	vd	ge	none	none	long	none	
+965	r͈ː	c				a	tr	s	vd	p	dvb	none	long	none	
+934	ɺː	c				a	t	s	vd	p	none	none	long	none	
+843	ɾː	c				a	t	s	vd	p	none	none	long	none	
+1052	rˤː	c				a	tr	s	vd	p	none	ph	long	none	
+1806	r̪ˠ	c				a	tr	s	vd	p	none	v	none	none	
+1146	ɾˠ	c				a	t	s	vd	p	none	v	none	none	
+1891	rʰ	c				a	tr	poa	vd	p	none	none	none	none	
+1928	ɾʰ	c				a	t	poa	vd	p	none	none	none	none	
+319	rʲ	c				a	tr	s	vd	p	none	j	none	none	
+2844	r̠ʲ	c				a	tr	s	vd	p	ret	j	none	none	
+1750	r̪ʲ	c				a	tr	s	vd	p	none	j	none	none	
+923	ɺʲ	c				a	t	s	vd	p	none	j	none	none	
+1109	ɾʲ	c				a	t	s	vd	p	none	j	none	none	
+2734	ɾʲʷ	c				a	t	s	vd	p	none	jw	none	none	
+1847	rʷ	c				a	tr	s	vd	p	none	w	none	none	
+1977	ɾʷ	c				a	t	s	vd	p	none	w	none	none	
+48	z	c				a	f	s	vd	p	none	none	none	none	
+1116	z̃	c				a	f	s	vd	p	nas	none	none	none	
+2799	zˀ	c				a	f	pog	vd	ge	none	none	none	none	
+1073	z̩	c				a	f	s	vd	p	none	none	syl	none	
+2330	z̺	c				a	f	s	vd	p	ap	none	none	none	
+174	z̻	c				a	f	s	vd	p	lam	none	none	none	
+525	z͇	c				a	f	s	vd	p	dhb	none	none	none	
+964	zˤ	c				a	f	s	vd	p	none	ph	none	none	
+448	z̞̩	c				a	a	s	vd	p	lwd	none	syl	none	
+1518	z͇̪	c				a	f	s	vd	p	dhb	none	none	none	
+748	zː	c				a	f	s	vd	p	none	none	long	none	
+970	z͈ː	c				a	f	s	vd	p	dvb	none	long	none	
+1022	zˤː	c				a	f	s	vd	p	none	ph	long	none	
+1271	zˠ	c				a	f	s	vd	p	none	v	none	none	
+304	zʲ	c				a	f	s	vd	p	none	j	none	none	
+2813	zɾ	c				a	f	s	vd	p	none	r	none	none	
+1828	zʷ	c				a	f	s	vd	p	none	w	none	none	
+1111	ɗ̥	c				a	s	s	vl	gi	none	none	none	none	
+473	d̤̥	c				a	s	s	vl	p	none	none	none	none	
+785	ʰt	c				a	s	pra	vl	p	none	none	none	none	
+765	ʰts	c				a	af	pra	vl	p	none	none	none	none	
+2650	kǃʼ	c				a	clk	pog	vl	ge	none	none	none	none	
+1568	kǃ̠	c				a	clk	c	vl	vi	ret	none	none	none	
+1810	kǃ͓	c				a	clk	c	vl	vi	mc	none	none	none	
+1690	kǃʰ	c				a	clk	poa	vl	vi	none	none	none	none	
+2680	kǃʰʼ	c				a	clk	poag	vl	ge	none	none	none	none	
+1659	kǃx	c				a	clk	c	vl	vi	none	none	none	none	
+2631	kǃxʼ	c				a	clk	pog	vl	ge	none	none	none	none	
+1706	kǃxʰ	c				a	clk	poa	vl	vi	none	none	none	none	
+1709	kǃ̠xʰ	c				a	clk	poa	vl	vi	ret	none	none	none	
+1120	kǁ	c				a	clk	c	vl	vi	none	l	none	none	
+2584	kǁʼ	c				a	clk	pog	vl	ge	none	l	none	none	
+1562	kǁ͓	c				a	clk	c	vl	vi	mc	l	none	none	
+1759	kǁ͓ˀ	c				a	clk	pog	vl	ge	none	l	none	none	
+2541	kǁʰ	c				a	clk	poa	vl	vi	none	l	none	none	
+2660	kǁʼʰ	c				a	clk	poag	vl	ge	none	l	none	none	
+1567	kǁ͓ʰ	c				a	clk	poa	vl	vi	none	l	none	none	
+2597	kǁx	c				a	clk	c	vl	vi	none	l	none	none	
+2589	kǁxʼ	c				a	clk	pog	vl	ge	none	l	none	none	
+1710	kǁ͓xʰ	c				a	clk	poa	vl	vi	none	l	none	none	Affricated with x
+376	l̥	c				a	a	c	vl	p	none	l	none	none	
+550	ɬ	c				a	f	s	vl	p	none	l	none	none	
+786	ɬʼ	c				a	f	pog	vl	ge	none	l	none	none	
+880	ɬ̻	c				a	f	s	vl	p	lam	l	none	none	
+2295	ˀl̪̥	c				a	a	prg	vl	p	none	l	none	none	
+2501	l̥ː	c				a	af	c	vl	p	none	none	long	none	
+672	ɬː	c				a	f	s	vl	p	none	l	long	none	
+94	l̥ʲ	c				a	a	c	vl	p	none	l	none	none	
+178	ɬʲ	c				a	f	s	vl	p	none	lj	none	none	
+159	ɬʲʼ	c				a	f	pog	vl	ge	none	lj	none	none	
+1501	ɬʟ̥͓	c				a	f	c	vl	p	mc	l	none	none	
+2759	ɬʷ	c				a	f	s	vl	p	none	w	none	none	
+86	n̥	c				a	n	s	vl	p	none	none	none	none	
+1519	n̠̥	c				a	n	s	vl	p	ret	none	none	none	
+2637	ˀnǁ	c				a	clk	prg	vl	p	none	none	none	none	
+1152	n̥ˠ	c				a	n	s	vl	p	none	v	none	none	
+96	n̥ʲ	c				a	n	s	vl	p	none	j	none	none	
+2719	nɬ	c				a	f	prn	vl	p	none	l	none	none	
+2721	nɮ	c				a	f	prn	vl	p	none	l	none	none	
+1823	ns	c				a	f	prn	vl	p	none	none	none	none	
+2821	nsɾ	c				a	f	prn	vl	p	none	r	none	none	
+1817	nsʷ	c				a	f	prn	vl	p	none	w	none	none	
+574	nt	c				a	s	prn	vl	p	none	none	none	none	
+2526	ntʼ	c				a	s	pog	vl	ge	none	none	none	none	
+2878	n̠t	c				a	s	prn	vl	p	ret	none	none	none	
+1584	n̠t̠	c				a	s	prn	vl	p	ret	none	none	none	
+913	ntʰ	c				a	s	poa	vl	p	none	none	none	none	
+2542	ntlʼ	c				a	af	pog	vl	ge	none	l	none	none	
+2815	ntɾ	c				a	s	prn	vl	p	none	r	none	none	
+581	nts	c				a	af	prn	vl	p	none	none	none	none	
+2535	ntsʼ	c				a	af	pog	vl	ge	none	none	none	none	
+1819	ntʷ	c				a	s	prn	vl	p	none	w	none	none	
+2530	ŋǁ	c				a	clk	prn	vl	vi	none	l	none	none	
+2534	ŋǁʼ	c				a	clk	pog	vl	ge	none	l	none	none	
+1569	ŋǁ͓	c				a	clk	prn	vl	vi	mc	l	none	none	
+2642	ŋ̥ǁ	c				a	clk	prn	vl	vi	none	l	none	none	
+1563	ŋ̥ǁ͓ˀ	c				a	n	prg	vl	p	mc	l	none	none	
+2644	qǁ	c				a	clk	c	vl	vi	none	none	none	none	
+2622	qǁʼ	c				a	clk	pog	vl	ge	none	none	none	none	
+2621	qǁʰ	c				a	clk	poa	vl	vi	none	none	none	none	
+161	r̥	c				a	tr	s	vl	p	none	none	none	none	
+905	ɺ̥	c				a	t	none	vl	p	none	l	none	none	
+558	ɾ̥	c				a	t	s	vl	p	none	none	none	none	
+2860	ɾ̪̊	c				a	t	s	vl	p	none	none	none	none	
+1149	ɾ̥ˠ	c				a	t	s	vl	p	none	v	none	none	
+1139	ɾ̥ʲ	c				a	t	s	vl	p	none	j	none	none	
+46	s	c				a	f	s	vl	p	none	none	none	none	
+16	sˀ	c				a	f	pog	vl	ge	none	none	none	none	
+750	sʼ	c				a	f	pog	vl	ge	none	none	none	none	
+214	s͉	c				a	f	s	vl	p	ola	none	none	none	
+2064	s̺	c				a	f	s	vl	p	ap	none	none	none	
+151	s̻	c				a	f	s	vl	p	lam	none	none	none	
+115	s͈	c				a	f	s	vl	p	dvb	none	none	none	
+991	sˤ	c				a	f	s	vl	p	none	ph	none	none	
+2742	ˀs	c				a	f	prg	vl	p	none	none	none	none	
+593	sː	c				a	f	s	vl	p	none	none	long	none	
+1017	sʼː	c				a	f	pog	vl	ge	none	none	long	none	
+675	s̻ː	c				a	f	s	vl	p	lam	none	long	none	
+742	s͈ː	c				a	f	s	vl	p	dvb	none	long	none	
+1023	sˤː	c				a	f	s	vl	p	none	ph	long	none	
+1267	sˠ	c				a	f	s	vl	p	none	v	none	none	
+2460	sᶣ	c				a	f	s	vl	p	none	none	none	none	
+521	sʰ	c				a	f	poa	vl	p	none	none	none	none	
+84	sʲ	c				a	f	s	vl	p	none	j	none	none	
+2485	sʲʷ	c				a	f	s	vl	p	none	jw	none	none	
+2824	sɾ	c				a	f	s	vl	p	none	r	none	none	
+853	st	c				a	f	c	vl	p	none	none	none	none	
+499	sʷ	c				a	f	s	vl	p	none	w	none	none	
+864	s̻θ	c				a	f	c	vl	p	lam	none	none	none	
+52	t	c				a	s	s	vl	p	none	none	none	none	
+1987	t̃	c				a	s	s	vl	p	nas	none	none	none	
+4	tˀ	c				a	s	pog	vl	ge	none	none	none	none	
+123	tʼ	c				a	s	pog	vl	ge	none	none	none	none	
+1411	t̠	c				a	s	s	vl	p	ret	none	none	none	
+570	t͉	c				a	s	s	vl	p	ola	none	none	none	
+2446	t̺	c				a	s	s	vl	p	ap	none	none	none	
+620	t̻	c				a	s	s	vl	p	lam	none	none	none	
+105	t͈	c				a	s	s	vl	p	dvb	none	none	none	
+977	tˤ	c				a	s	s	vl	p	none	ph	none	none	
+170	t̻ʼ	c				a	s	pog	vl	ge	lam	none	none	none	
+945	ˀt	c				a	s	prg	vl	p	none	none	none	none	
+277	tː	c				a	s	s	vl	p	none	none	long	none	
+836	tʼː	c				a	s	pog	vl	ge	none	none	long	none	
+2768	t̺ː	c				a	s	s	vl	p	ap	none	long	none	
+1301	t̻ː	c				a	s	s	vl	p	lam	none	long	none	
+743	t͈ː	c				a	s	s	vl	p	dvb	none	long	none	
+1025	tˤː	c				a	s	s	vl	p	none	ph	long	none	
+671	tːs	c				a	af	c	vl	p	none	none	long	none	
+1269	tˠ	c				a	s	s	vl	p	none	v	none	none	
+38	tʰ	c				a	s	poa	vl	p	none	none	none	none	
+2473	tʱ	c				a	s	poa	vl	p	none	none	none	none	
+2673	tʰʼ	c				a	s	poag	vl	ge	none	none	none	none	
+166	t̻ʰ	c				a	s	poa	vl	p	lam	none	none	none	
+1305	t̻ʰː	c				a	s	poa	vl	p	lam	none	long	none	
+2364	tʰʲ	c				a	s	poa	vl	p	none	j	none	none	
+1887	tʰʷ	c				a	s	poa	vl	p	none	w	none	none	
+83	tʲ	c				a	s	s	vl	p	none	j	none	none	
+1903	tʲʼ	c				a	s	pog	vl	ge	none	j	none	none	
+1359	t͉ʲ	c				a	s	s	vl	p	ola	j	none	none	
+1249	t̻ʲ	c				a	s	s	vl	p	lam	j	none	none	
+316	tʲʰ	c				a	s	poa	vl	p	none	j	none	none	
+2374	tl	c				a	af	c	vl	p	none	l	none	none	
+688	tɬ	c				a	af	c	vl	p	none	l	none	none	
+687	tɬʼ	c				a	af	pog	vl	ge	none	l	none	none	
+685	tɬʰ	c				a	af	poa	vl	p	none	l	none	none	
+2369	tn	c				a	s	pon	vl	p	none	none	none	none	
+2445	t̠n̠	c				a	s	pon	vl	p	ret	none	none	none	
+1814	tr	c				a	s	c	vl	p	none	r	none	none	
+2703	tɾ	c				a	s	c	vl	p	none	r	none	none	
+50	ts	c				a	af	c	vl	p	none	none	none	none	
+1591	tsˀ	c				a	af	pog	vl	ge	none	none	none	none	
+133	tsʼ	c				a	af	pog	vl	ge	none	none	none	none	
+1700	ts͇	c				a	af	c	vl	p	dhb	none	none	none	
+775	t͉s	c				a	af	c	vl	p	none	none	none	none	
+2065	t̺s̺	c				a	af	c	vl	p	ap	none	none	none	
+155	t̻s̻	c				a	af	c	vl	p	lam	none	none	none	
+142	t̻s̻ʼ	c				a	af	pog	vl	ge	lam	none	none	none	
+122	t͈s	c				a	af	c	vl	p	dvb	none	none	none	
+137	t̠͈ʃ	c				a	af	c	vl	p	dvb	none	none	none	
+279	tsː	c				a	af	c	vl	p	none	none	long	none	
+832	tsʼː	c				a	af	pog	vl	ge	none	none	long	none	
+1638	tsˠ	c				a	af	c	vl	p	none	v	none	none	
+139	tsʰ	c				a	af	poa	vl	p	none	none	none	none	
+2479	tsʱ	c				a	af	poa	vl	p	none	none	none	none	
+1786	ts͇ʰ	c				a	af	poa	vl	p	dhb	none	none	none	
+696	t̻s̻ʰ	c				a	af	poa	vl	p	lam	none	none	none	
+887	tsʰː	c				a	af	poa	vl	p	none	none	long	none	
+1883	tsʰʷ	c				a	af	poa	vl	p	none	w	none	none	
+485	tsʲ	c				a	af	c	vl	p	none	j	none	none	
+503	tsʲʰ	c				a	af	poa	vl	p	none	j	none	none	
+484	tsʷ	c				a	af	c	vl	p	none	w	none	none	
+126	tsʷʼ	c				a	af	pog	vl	ge	none	w	none	none	
+108	t͈sʷ	c				a	af	c	vl	p	dvb	w	none	none	
+129	tsʷʰ	c				a	af	poa	vl	p	none	w	none	none	
+500	tʷ	c				a	s	s	vl	p	none	w	none	none	
+497	tʷʰ	c				a	s	poa	vl	p	none	w	none	none	
+469	tz̤̥	c				a	af	c	vl	p	none	none	none	none	
+2324	z̥	c				a	f	s	vl	p	none	none	none	none	
+1854	dʑ	c				ap	af	c	vd	p	none	none	none	none	
+2461	dʑᶣ	c				ap	af	c	vd	p	none	none	none	none	
+1481	ʑ	c				ap	f	s	vd	p	none	none	none	none	
+1869	ʑː	c				ap	f	s	vd	p	none	none	long	none	
+2463	ʑᶣ	c				ap	f	s	vd	p	none	none	none	none	
+1478	ɕ	c				ap	f	s	vl	p	none	none	none	none	
+1607	ɕʼ	c				ap	f	pog	vl	ge	none	none	none	none	
+1868	ɕː	c				ap	f	s	vl	p	none	none	long	none	
+2459	ɕᶣ	c				ap	f	s	vl	p	none	none	none	none	
+1853	tɕ	c				ap	af	c	vl	p	none	none	none	none	
+2458	tɕᶣ	c				ap	af	c	vl	p	none	none	none	none	
+1970	tɕʰ	c				ap	af	poa	vl	p	none	none	none	none	
+2748	tɕʷ	c				ap	af	c	vl	p	none	w	none	none	
+2582	dx	c				av	af	c	vd	p	none	none	none	none	
+2606	tʼkxʼ	c				av	af	pog	vl	ge	none	none	none	none	
+2615	t̪ʼkxʼ	c				av	af	pog	vl	ge	none	none	none	none	
+686	tx	c				av	af	c	vl	p	none	none	none	none	
+234	b̤	c				b	s	s	b	p	none	none	none	none	
+1342	b̤ː	c				b	s	s	b	p	none	none	long	none	
+1108	b̤ʲ	c				b	s	s	b	p	none	j	none	none	
+1308	m̤	c				b	n	s	b	p	none	none	none	none	
+2508	m̤b̤	c				b	s	prn	b	p	none	none	none	none	
+2547	m̤b̤v̤	c				b	af	prn	b	p	none	none	none	none	
+2774	m̤ʰ	c				b	n	poa	b	p	none	none	none	none	
+2780	m̤pʰ	c				b	s	poa	b	p	none	none	none	none	
+189	b̰	c				b	s	s	c	p	none	none	none	none	
+380	m̰	c				b	n	s	c	p	none	none	none	none	
+1908	p̰	c				b	s	s	c	p	none	none	none	none	
+45	b	c				b	s	s	vd	p	none	none	none	none	
+2409	ʙ	c				b	tr	s	vd	p	none	none	none	none	
+1934	b̃	c				b	s	s	vd	p	nas	none	none	none	
+761	bˀ	c				b	s	pog	vd	ge	none	none	none	none	
+391	ɓ	c				b	s	s	vd	gi	none	none	none	none	
+1621	bʼ	c				b	s	pog	vd	ge	none	none	none	none	
+1070	b̩	c				b	s	s	vd	p	none	none	syl	none	
+1274	b̪	c				b	s	s	vd	p	d	none	none	none	Unclear how one can have a dental bilabial stop
+848	b͉	c				b	s	s	vd	p	ola	none	none	none	
+2060	b̻	c				b	s	s	vd	p	lam	none	none	none	
+598	b͈	c				b	s	s	vd	p	dvb	none	none	none	
+1048	bˤ	c				b	s	s	vd	p	none	ph	none	none	
+326	ˀb	c				b	s	prg	vd	p	none	none	none	none	
+2700	ˀb͉	c				b	s	prg	vd	p	none	none	none	none	
+295	bː	c				b	s	s	vd	p	none	none	long	none	
+2457	ɓː	c				b	s	s	vd	gi	none	none	long	none	
+969	b͈ː	c				b	s	s	vd	p	dvb	none	long	none	
+1032	bˤː	c				b	s	s	vd	p	none	ph	long	none	
+2476	bɡ	c				b	s	c	vd	p	none	none	none	none	
+1254	bˠ	c				b	s	s	vd	p	none	v	none	none	
+2348	bɦ	c				b	s	poa	vd	p	none	none	none	none	
+1923	bʰ	c				b	s	poa	vd	p	none	none	none	none	
+313	bʲ	c				b	s	s	vd	p	none	j	none	none	
+1794	ɓʲ	c				b	s	s	vd	gi	none	j	none	none	
+606	bⁿ	c				b	s	pon	vd	p	none	none	none	none	
+2465	br	c				b	s	c	vd	p	none	r	none	none	
+2817	bɾ	c				b	s	c	vd	p	none	r	none	none	
+612	bʷ	c				b	s	s	vd	p	none	w	none	none	
+1990	b̃ʷ	c				b	s	s	vd	p	nas	w	none	none	
+993	ɓʷ	c				b	s	s	vd	gi	none	w	none	none	
+1040	bʷː	c				b	s	s	vd	p	none	w	long	none	
+1141	bʷˠ	c				b	s	s	vd	p	none	wv	none	none	
+659	bβ	c				b	af	c	vd	p	none	none	none	none	
+2580	ɢʘ	c				b	clk	c	vd	vi	none	none	none	none	
+2630	ɡʘ	c				b	clk	c	vd	vi	none	none	none	none	
+2613	ɡʘkxʼ	c				b	clk	pog	vd	ge	none	none	none	none	
+2596	ɡʘqʰ	c				b	clk	pra	vd	vi	none	none	none	none	
+2623	ɡʘx	c				b	clk	c	vd	vi	none	none	none	none	
+2893	ʰb	c				b	s	pra	vd	p	none	none	none	none	
+2250	ʰm	c				b	n	pra	vd	p	none	none	none	none	
+33	m	c				b	n	s	vd	p	none	none	none	none	
+514	mˀ	c				b	n	pog	vd	ge	none	none	none	none	
+1914	mʼ	c				b	n	pog	vd	ge	none	none	none	none	
+347	m̩	c				b	n	s	vd	p	none	none	syl	none	
+2562	m̪	c				b	n	s	vd	p	none	none	none	none	
+806	m͉	c				b	n	s	vd	p	ola	none	none	none	
+1029	mˤ	c				b	n	s	vd	p	none	ph	none	none	
+365	ˀm	c				b	n	prg	vd	p	none	none	none	none	
+2670	ʼm	c				b	n	pog	vd	ge	none	none	none	none	
+288	mː	c				b	n	s	vd	p	none	none	long	none	
+990	m͈ː	c				b	n	s	vd	p	dvb	none	long	none	
+1056	mˤː	c				b	n	s	vd	p	none	ph	long	none	
+2109	mːʷˠ	c				b	n	s	vd	p	none	wv	long	none	
+34	mb	c				b	s	prn	vd	p	none	none	none	none	
+2572	mɓ	c				b	s	prn	vd	gi	none	none	none	none	
+2467	mbː	c				b	s	prn	vd	p	none	none	long	none	
+2788	mbˠ	c				b	s	prn	vd	p	none	v	none	none	
+492	mbʲ	c				b	s	prn	vd	p	none	j	none	none	
+2820	mbɾ	c				b	s	prn	vd	p	none	r	none	none	
+491	mbʷ	c				b	s	prn	vd	p	none	w	none	none	
+1263	mˠ	c				b	n	s	vd	p	none	v	none	none	
+2349	mɦ	c				b	n	poa	vd	p	none	none	none	none	
+1927	mʰ	c				b	n	poa	vd	p	none	none	none	none	
+300	mʲ	c				b	n	s	vd	p	none	j	none	none	
+2827	mɾ	c				b	n	s	vd	p	none	r	none	none	
+1944	mw	c				b	n	s	vd	p	none	w	none	none	
+613	mʷ	c				b	n	s	vd	p	none	w	none	none	
+2002	m̃ʷ	c				b	n	s	vd	p	none	w	none	none	
+1050	mʷː	c				b	n	s	vd	p	none	w	long	none	
+1166	mʷˠ	c				b	n	s	vd	p	none	wv	none	none	
+2109	mʷˠː	c				b	n	s	vd	p	none	wv	long	none	
+79	β	c				b	f	s	vd	p	none	none	none	none	
+1949	β̃	c				b	f	s	vd	p	nas	none	none	none	
+284	β̞	c				b	a	s	vd	p	lwd	none	none	none	
+1795	β̞ˠ	c				b	a	s	vd	p	lwd	v	none	none	
+812	βʲ	c				b	f	s	vd	p	none	j	none	none	
+1776	β̞ʲ	c				b	a	s	vd	p	lwd	j	none	none	
+1876	βʷ	c				b	f	s	vd	p	none	w	none	none	
+1011	ɓ̥	c				b	s	s	vl	gi	none	none	none	none	
+468	b̤̥	c				b	s	s	vl	p	none	none	none	none	
+2731	ɓ̥ː	c				b	s	s	vl	gi	none	none	long	none	
+782	ʰp	c				b	s	pra	vl	p	none	none	none	none	
+2612	kʘ	c				b	clk	c	vl	vi	none	none	none	none	
+2617	kʘʼ	c				b	clk	pog	vl	ge	none	none	none	none	
+2619	kʘʰ	c				b	clk	poa	vl	vi	none	none	none	none	
+2648	kʘx	c				b	clk	c	vl	vi	none	none	none	none	
+2579	kʘxʼ	c				b	clk	pog	vl	ge	none	none	none	none	
+63	m̥	c				b	n	s	vl	p	none	none	none	none	
+795	ˀm̥	c				b	n	prg	vl	p	none	none	none	none	
+575	mp	c				b	s	prn	vl	p	none	none	none	none	
+2533	mpʼ	c				b	s	pog	vl	ge	none	none	none	none	
+2725	m̥p	c				b	s	prn	vl	p	none	none	none	none	
+925	mpʰ	c				b	s	poa	vl	p	none	none	none	none	
+2722	mpʲ	c				b	s	prn	vl	p	none	j	none	none	
+2809	mpɾ	c				b	s	prn	vl	p	none	r	none	none	
+2812	mpʷ	c				b	s	prn	vl	p	none	w	none	none	
+614	m̥ʷ	c				b	n	s	vl	p	none	w	none	none	
+2590	ˀnʘ	c				b	clk	prg	vl	p	none	none	none	none	
+2583	ŋʘ	c				b	clk	prn	vl	vi	none	none	none	none	
+2591	ŋ̥ʘ	c				b	clk	prn	vl	vi	none	none	none	none	
+43	p	c				b	s	s	vl	p	none	none	none	none	
+1986	p̃	c				b	s	s	vl	p	naas	none	none	none	
+2	pˀ	c				b	s	pog	vl	ge	none	none	none	none	
+104	pʼ	c				b	s	pog	vl	ge	none	none	none	none	
+1272	p̪	c				b	s	s	vl	p	none	none	none	none	
+569	p͉	c				b	s	s	vl	p	ola	none	none	none	
+2062	p̻	c				b	s	s	vl	p	lam	none	none	none	
+106	p͈	c				b	s	s	vl	p	dvb	none	none	none	
+200	ɸ	c				b	f	s	vl	p	none	none	none	none	
+1870	pˤ	c				b	s	s	vl	p	none	ph	none	none	
+1169	ɸ̃	c				b	f	s	vl	p	none	none	none	none	
+776	ɸʼ	c				b	f	pog	vl	ge	none	none	none	none	
+1714	ɸ̞	c				b	a	s	vl	p	lwd	none	none	none	
+566	ˀp	c				b	s	prg	vl	p	none	none	none	none	
+235	pː	c				b	s	s	vl	p	none	none	long	none	
+840	pʼː	c				b	s	pog	vl	ge	none	none	long	none	
+736	p͈ː	c				b	s	s	vl	p	dvb	none	long	none	
+681	ɸː	c				b	f	s	vl	p	none	none	long	none	
+2108	pːʷˠ	c				b	s	s	vl	p	none	wv	long	none	
+20	pʰ	c				b	s	poa	vl	p	none	none	none	none	
+2477	pʱ	c				b	s	s	vl	p	none	none	none	none	
+2718	ɸʰ	c				b	f	poa	vl	p	none	none	none	none	
+841	pʰː	c				b	s	poa	vl	p	none	none	long	none	
+1995	pʰʷ	c				b	s	poa	vl	p	none	w	none	none	
+78	pʲ	c				b	s	s	vl	p	none	j	none	none	
+1358	p͉ʲ	c				b	s	s	vl	p	none	j	none	none	
+921	ɸʲ	c				b	f	s	vl	p	none	j	none	none	
+312	pʲʰ	c				b	s	poa	vl	p	none	j	none	none	
+2043	pm	c				b	s	pon	vl	p	none	none	none	none	
+630	pɸ	c				b	af	c	vl	p	none	none	none	none	
+498	pʷ	c				b	s	s	vl	p	none	w	none	none	
+653	ɸʷ	c				b	f	s	vl	p	none	w	none	none	
+1160	pʷˠ	c				b	s	s	vl	p	none	wv	none	none	
+1156	ɸʷˠ	c				b	f	s	vl	p	none	wv	none	none	
+2108	pʷˠː	c				b	s	s	vl	p	none	wv	long	none	
+1159	pʷˠʰ	c				b	s	poa	vl	p	none	wv	none	none	
+2587	qʘ	c				b	clk	c	vl	vi	none	none	none	none	
+2603	qʘʼ	c				b	clk	pog	vl	ge	none	none	none	none	
+2600	qʘʰ	c				b	clk	poa	vl	vi	none	none	none	none	
+2522	b̤z̤	c				ba	af	c	b	p	none	none	none	none	
+2107	bz	c				ba	af	c	vd	p	none	none	none	none	
+2758	bzʷ	c				ba	af	c	vd	p	none	w	none	none	
+2512	mbz	c				ba	af	prn	vd	p	none	none	none	none	
+2876	t̪ʙ	c				ba	tr	c	vd	p	none	none	none	none	
+2823	pɾ	c				ba	s	c	vl	p	none	r	none	none	
+2474	ps	c				ba	af	c	vl	p	none	none	none	none	
+2514	psʰ	c				ba	af	poa	vl	p	none	none	none	none	
+2757	psʷ	c				ba	af	c	vl	p	none	w	none	none	
+2756	psʷʰ	c				ba	af	poa	vl	p	none	w	none	none	
+2782	pt	c				ba	s	c	vl	p	none	none	none	none	
+2525	b̤v̤	c				bld	af	c	b	p	none	none	none	none	
+531	bv	c				bld	af	c	vd	p	none	none	none	none	
+2739	bvʷ	c				bld	af	c	vd	p	none	w	none	none	
+2513	mbv	c				bld	af	prn	vd	p	none	none	none	none	
+230	pf	c				bld	af	c	vl	p	none	none	none	none	
+1122	pfʼ	c				bld	af	pog	vl	ge	none	none	none	none	
+530	pfʰ	c				bld	af	poa	vl	p	none	none	none	none	
+2104	pʃʼ	c				bpa	af	pog	vl	ge	none	none	none	none	
+2105	pʃʰ	c				bpa	af	poa	vl	p	none	none	none	none	
+252	d̪̤	c				d	s	s	b	p	none	none	none	none	
+1319	d̪̤ː	c				d	s	s	b	p	none	none	long	none	
+1715	d̪z̪̤	c				d	af	c	b	p	none	none	none	none	
+2550	ɡ̤ǀ	c				d	clk	c	b	vi	none	none	none	none	
+1684	ɡ̤ǀ͓	c				d	clk	c	b	vi	mc	none	none	none	
+1334	n̪̤	c				d	n	s	b	p	none	none	none	none	
+2528	ŋ̤ǀ	c				d	clk	prn	b	vi	none	none	none	none	
+1658	ŋ̤ǀ͓	c				d	clk	prn	b	vi	none	none	none	none	
+1610	ᴅ̪̰	c				d	t	s	c	p	none	none	none	none	
+1696	d̪̰	c				d	s	s	c	p	none	none	none	none	
+1649	ɡ̰ǀ͓x	c				d	clk	c	c	vi	none	none	none	none	
+1558	l̪̰	c				d	a	c	c	p	none	l	none	none	
+789	l̻̰	c				d	a	c	c	p	lam	l	none	none	
+1557	n̪̰	c				d	n	s	c	p	none	none	none	none	
+2851	t̪̰	c				d	s	s	c	p	none	none	none	none	
+2145	t̰s̰	c				d	af	c	c	p	none	none	none	none	
+1559	l̪̤	c				d	a	c	v	p	none	l	none	none	
+236	d̪	c				d	s	s	vd	p	none	none	none	none	
+1613	ᴅ̪	c				d	t	s	vd	p	none	none	none	none	
+1466	d̪ˤ	c				d	s	pog	vd	ge	none	ph	none	none	
+1536	ɗ̪	c				d	s	s	vd	gi	none	none	none	none	
+1138	d̪̚	c				d	s	s	vd	p	none	none	none	none	
+1129	ˀd̪	c				d	s	prg	vd	p	none	none	none	none	
+253	d̪ː	c				d	s	s	vd	p	none	none	long	none	
+298	d̪ð	c				d	af	c	vd	p	none	none	none	none	
+2730	dᶣ	c				d	s	s	vd	p	none	none	none	none	
+2351	d̪ɦ	c				d	s	poa	vd	p	none	none	none	none	
+1926	d̪ʰ	c				d	s	poa	vd	p	none	none	none	none	
+299	d̪ʲ	c				d	s	s	vd	p	none	j	none	none	
+2575	d̪ʼkxʼ	c				d	clk	pog	vd	ge	none	none	none	none	
+1604	d̪l̪	c				d	s	c	vd	p	none	l	none	none	
+1539	d̪ɮ̪	c				d	af	c	vd	p	none	l	none	none	
+1199	d̪ⁿ	c				d	s	pon	vd	p	none	none	none	none	
+1432	d̪ʷ	c				d	s	s	vd	p	none	w	none	none	
+2365	dz̪	c				d	af	c	vd	p	none	none	none	none	
+1405	d̪z̪	c				d	af	c	vd	p	none	none	none	none	
+1775	d̪z̪ʲ	c				d	af	c	vd	p	none	j	none	none	
+2625	ɢǀ	c				d	clk	c	vd	vi	none	none	none	none	
+1875	ɡǀ	c				d	clk	c	vd	vi	none	none	none	none	
+1635	ɡǀ͓	c				d	clk	c	vd	vi	mc	none	none	none	
+2676	ɡǀʰ	c				d	clk	poa	vd	vi	none	none	none	none	
+2585	ɡǀkxʼ	c				d	clk	pog	vd	ge	none	none	none	none	
+2598	ɡǀqʰ	c				d	clk	poa	vd	vi	none	none	none	none	
+2624	ɡǀx	c				d	clk	c	vd	vi	none	none	none	none	
+2656	ɡǀxʼ	c				d	clk	pog	vd	ge	none	none	none	none	
+1669	ɡǀ͓x	c				d	clk	c	vd	vi	mc	none	none	none	
+2249	ʰn̪	c				d	n	pra	vd	p	none	none	none	none	
+2248	ʰɾ̪	c				d	t	pra	vd	p	none	none	none	none	
+293	l̪	c				d	a	c	vd	p	none	l	none	none	
+2219	l͉	c				d	a	c	vd	p	none	l	none	none	
+622	l̻	c				d	a	c	vd	p	lam	l	none	none	
+1207	l̪̩	c				d	a	c	vd	p	none	l	syl	none	
+1449	ɮ̪	c				d	f	s	vd	p	none	l	none	none	
+1766	l̪ˤ	c				d	a	pog	vd	ge	none	lph	none	none	
+1033	l̪ː	c				d	a	c	vd	p	none	l	long	none	
+1306	l̻ː	c				d	a	c	vd	p	lam	l	long	none	
+989	l͈ː	c				d	a	c	vd	p	dvb	l	long	none	
+1034	lˤː	c				d	a	pog	vd	ge	none	lph	long	none	
+2207	ld	c				d	s	c	vd	p	none	l	none	none	
+1153	l̪ˠ	c				d	a	c	vd	p	none	lv	none	none	
+516	l̪ʲ	c				d	a	c	vd	p	none	lj	none	none	
+1596	ɮ̪ʲ	c				d	f	s	vd	p	none	lj	none	none	
+2555	l̪ʷ	c				d	af	c	vd	p	none	w	none	none	
+264	n̪	c				d	n	s	vd	p	none	none	none	none	
+1318	n̪ː	c				d	n	s	vd	p	none	none	long	none	
+2378	nd̪	c				d	s	prn	vd	p	none	none	none	none	
+1330	n̪d̪	c				d	s	prn	vd	p	none	none	none	none	
+1521	n̪d̪ʲ	c				d	s	prn	vd	p	none	j	none	none	
+1784	n̪d̪ʷ	c				d	s	prn	vd	p	none	w	none	none	
+1713	n̪d̪z̪	c				d	af	prn	vd	p	none	none	none	none	
+2593	ɴɢǀqʰ	c				d	clk	poa	vd	vi	none	none	none	none	
+1581	n̪ʲ	c				d	n	s	vd	p	none	j	none	none	
+1724	n̪ʷ	c				d	n	s	vd	p	none	w	none	none	
+1802	n̪z̪	c				d	f	prn	vd	p	none	none	none	none	
+1430	ɹ̪	c				d	a	s	vd	p	none	none	none	none	
+1407	r̪	c				d	tr	s	vd	p	none	none	none	none	
+1535	ɺ̪	c				d	t	s	vd	p	none	none	none	none	
+1422	ɾ̪	c				d	t	s	vd	p	none	none	none	none	
+2709	r̪ː	c				d	tr	s	vd	p	none	none	long	none	
+1148	ɾ̪ˠ	c				d	t	s	vd	p	none	v	none	none	
+1572	ɾ̪ʲ	c				d	t	s	vd	p	none	j	none	none	
+583	z̪	c				d	f	s	vd	p	none	none	none	none	
+1464	z̪ˤ	c				d	f	s	vd	p	none	ph	none	none	
+1039	z̪ː	c				d	f	s	vd	p	none	none	long	none	
+1443	z̪ʷ	c				d	f	s	vd	p	none	w	none	none	
+2769	ǀ	c				d	clk	c	vl	vi	none	none	none	none	
+602	d̪̤̥	c				d	s	s	vl	p	none	none	none	none	
+2861	ʰl	c				d	af	pra	vl	p	none	none	none	none	
+1882	kǃ̪	c				d	clk	c	vl	vi	none	none	none	none	
+2544	kǀʼ	c				d	clk	pog	vl	ge	none	none	none	none	
+1537	kǀ͓	c				d	clk	c	vl	vi	mc	none	none	none	
+1879	kǀ̪	c				d	clk	c	vl	vi	none	none	none	none	
+1757	kǀ͓ˀ	c				d	clk	pog	vl	ge	mc	none	none	none	
+1707	kǀ͓ˠʰ	c				d	clk	poa	vl	vi	mc	v	none	none	
+1877	kǀʰ	c				d	clk	poa	vl	vi	none	none	none	none	
+2672	kǀʰʼ	c				d	clk	poa	vl	ge	none	none	none	none	
+1566	kǀ͓ʰ	c				d	clk	poa	vl	vi	mc	none	none	none	
+1886	kǀʰʷ	c				d	clk	poa	vl	vi	none	w	none	none	
+1881	kǀʷ	c				d	clk	c	vl	vi	none	w	none	none	
+2629	kǀx	c				d	clk	c	vl	vi	none	none	none	none	
+2632	kǀxʼ	c				d	clk	pog	vl	ge	none	none	none	none	
+1636	kǀ͓x	c				d	clk	c	vl	vi	mc	none	none	none	Affricated with x
+1791	ɬ̪ʼ	c				d	f	pog	vl	ge	none	l	none	none	
+1513	l̪̥	c				d	a	c	vl	p	none	l	none	none	
+1419	ɬ̪	c				d	f	s	vl	p	none	l	none	none	
+1446	ɬ̪ː	c				d	f	s	vl	p	none	l	long	none	
+70	l̥ˠ	c				d	a	c	vl	p	none	lv	none	none	
+1523	ɬ̪ʲ	c				d	f	s	vl	p	none	lj	none	none	
+1595	ɬ̪ʲʼ	c				d	f	pog	vl	ge	none	lj	none	none	
+1442	ɬ̪ʷ	c				d	f	s	vl	p	none	lw	none	none	
+1451	ɬ̪ʷː	c				d	f	s	vl	p	none	lw	long	none	
+1420	n̪̥	c				d	n	s	vl	p	none	none	none	none	
+2298	ˀn̪̥	c				d	n	prg	vl	p	none	none	none	none	
+2638	ˀnǀ	c				d	clk	prg	vl	p	none	none	none	none	
+1477	n̪s̪	c				d	f	prn	vl	p	none	none	none	none	
+879	n̪t̪	c				d	s	prn	vl	p	none	none	none	none	
+1528	n̪t̪ʰ	c				d	s	poa	vl	p	none	none	none	none	
+1531	n̪t̪s̪	c				d	af	prn	vl	p	none	none	none	none	
+1532	n̪t̪s̪ʰ	c				d	af	poa	vl	p	none	none	none	none	
+2549	ŋǀ	c				d	clk	prn	vl	vi	none	none	none	none	
+1538	ŋǀ͓	c				d	clk	prn	vl	vi	mc	none	none	none	
+2602	ŋ̥ǀ	c				d	clk	prn	vl	vi	none	none	none	none	
+1564	ŋ̥ǀ͓ˀ	c				d	clk	pog	vl	p	mc	none	none	none	
+2666	ʼŋǀ	c				d	clk	prg	vl	ge	none	none	none	none	
+2668	ŋǀʰ	c				d	clk	poa	vl	vi	none	none	none	none	
+1677	ŋ̥ǀ͓ʰ	c				d	clk	poa	vl	vi	mc	none	none	none	
+1631	ŋ̥ǀ͓xˀ	c				d	clk	prg	vl	vi	mc	none	none	none	
+2645	qǀ	c				d	clk	c	vl	vi	none	none	none	none	
+2586	qǀʼ	c				d	clk	pog	vl	ge	none	none	none	none	
+2588	qǀʰ	c				d	clk	poa	vl	vi	none	none	none	none	
+1544	ɹ̪̥	c				d	a	s	vl	p	none	none	none	none	
+2859	ɾ̪̊ʰ	c				d	t	poa	vl	p	none	none	none	none	
+242	s̪	c				d	f	s	vl	p	none	none	none	none	
+1612	s̪ʼ	c				d	f	pog	vl	ge	none	none	none	none	
+1465	s̪ˤ	c				d	f	s	vl	p	none	ph	none	none	
+237	s̪ː	c				d	f	s	vl	p	none	none	long	none	
+1498	s̪ʲ	c				d	f	s	vl	p	none	j	none	none	
+1427	s̪ʷ	c				d	f	s	vl	p	none	w	none	none	
+1431	s̪ʷː	c				d	f	s	vl	p	none	w	long	none	
+269	t̪	c				d	s	s	vl	p	none	none	none	none	
+1503	t̪ˀ	c				d	s	prg	vl	p	none	none	none	none	
+798	t̪ʼ	c				d	s	pog	vl	ge	none	none	none	none	
+1463	t̪ˤ	c				d	s	s	vl	p	none	ph	none	none	
+2297	ˀt̪	c				d	s	prg	vl	p	none	none	none	none	
+249	t̪ː	c				d	s	s	vl	p	none	none	long	none	
+2732	t̪ʼː	c				d	s	pog	vl	ge	none	none	long	none	
+257	t̪ʰ	c				d	s	poa	vl	p	none	none	none	none	
+1321	t̪ʰː	c				d	s	poa	vl	p	none	none	long	none	
+800	t̪ʲ	c				d	s	s	vl	p	none	j	none	none	
+308	t̪ʲʰ	c				d	s	poa	vl	p	none	j	none	none	
+1515	t̪ɬ̪	c				d	af	c	vl	p	none	l	none	none	
+1769	t̪ɬ̪ˀ	c				d	af	pog	vl	ge	none	l	none	none	
+1458	t̪ɬ̪ʼ	c				d	af	pog	vl	ge	none	l	none	none	
+2299	ˀt̪ɬ	c				d	af	prg	vl	p	none	l	none	none	
+1472	t̪ɬ̪ː	c				d	af	c	vl	p	none	l	long	none	
+1471	t̪ɬ̪ʼː	c				d	af	pog	vl	ge	none	l	long	none	
+2515	tlʰ	c				d	clk	poa	vl	vi	none	l	none	none	
+1457	t̪ɬ̪ʰ	c				d	af	poa	vl	p	none	l	none	none	
+1437	t̪ɬ̪ʷʼ	c				d	af	pog	vl	ge	none	w	none	none	
+1436	t̪ɬ̪ʷʰ	c				d	af	poa	vl	p	none	w	none	none	
+2367	t̪n̪	c				d	s	pon	vl	p	none	none	none	none	
+2125	ts̪	c				d	af	c	vl	p	none	none	none	none	
+2293	t̪s	c				d	af	c	vl	p	none	none	none	none	
+1045	t̪s̪	c				d	af	c	vl	p	none	none	none	none	
+1453	t̪s̪ʼ	c				d	af	pog	vl	ge	none	none	none	none	
+2302	ˀt̪s	c				d	af	prg	vl	p	none	none	none	none	
+1468	t̪s̪ː	c				d	af	c	vl	p	none	none	long	none	
+1441	t̪s̪ʼː	c				d	af	pog	vl	ge	none	none	long	none	
+1406	t̪s̪ʰ	c				d	af	poa	vl	p	none	none	none	none	
+1499	t̪s̪ʲ	c				d	af	c	vl	p	none	j	none	none	
+1461	t̪s̪ʷʼ	c				d	af	pog	vl	ge	none	w	none	none	
+1460	t̪s̪ʷʰ	c				d	af	poa	vl	p	none	w	none	none	
+1578	t̪ʷ	c				d	s	s	vl	p	none	w	none	none	
+1455	t̪ʷʰ	c				d	s	poa	vl	p	none	w	none	none	
+523	t̪θ	c				d	af	c	vl	p	none	none	none	none	
+689	t̪θʼ	c				d	af	pog	vl	ge	none	none	none	none	
+690	t̪θʰ	c				d	af	poa	vl	p	none	none	none	none	
+2605	d̪x	c				dv	af	c	vd	p	none	none	none	none	
+2634	t̪x	c				dv	af	c	vl	p	none	none	none	none	
+2016	ʡ	c				e	s	s	vl	p	none	none	none	none	
+2511	ɦ̤	c				g	f	s	b	p	none	none	none	none	
+28	ɦ	c				g	f	s	vd	p	none	none	none	none	
+2484	ɦʷ	c				g	f	s	vd	p	none	w	none	none	
+1807	ʔ̬	c				g	s	s	vd	p	none	none	none	none	
+26	h	c				g	f	s	vl	p	none	none	none	none	
+811	h̃	c				g	f	s	vl	p	nas	none	none	none	
+1705	hˀ	c				g	f	pog	vl	ge	none	none	none	none	
+2697	hʼ	c				g	f	pog	vl	ge	none	none	none	none	
+749	hː	c				g	f	s	vl	p	none	none	long	none	
+2785	hᶣ	c				g	f	s	vl	p	none	none	none	none	
+562	hʲ	c				g	f	s	vl	p	none	j	none	none	
+2736	hʲʷ	c				g	f	s	vl	p	none	w	none	none	
+502	hʷ	c				g	f	s	vl	p	none	w	none	none	
+3	ʔ	c				g	s	s	vl	p	none	none	none	none	
+729	ʔˤ	c				g	s	s	vl	p	none	ph	none	none	
+829	ʔː	c				g	s	s	vl	p	none	none	long	none	
+564	ʔʲ	c				g	s	s	vl	p	none	j	none	none	
+2469	ʔʲː	c				g	s	s	vl	p	none	j	long	none	
+2875	ʔɾ	c				g	s	c	vl	p	none	r	none	none	
+2134	ʔw	c				g	s	c	vl	p	none	w	none	none	
+143	ʔʷ	c				g	s	s	vl	p	none	w	none	none	
+2129	θ̰	c				i	f	s	c	p	none	none	none	none	
+291	ð	c				i	f	s	vd	p	none	none	none	none	
+1221	ð̞	c				i	a	s	vd	p	lwd	none	none	none	
+1238	ð͉	c				i	s	s	vd	p	ola	none	none	none	
+1021	ðˤ	c				i	f	s	vd	p	none	ph	none	none	
+2706	ðː	c				i	f	s	vd	p	none	none	long	none	
+2262	ðˠ	c				i	f	s	vd	p	none	v	none	none	
+668	ðʲ	c				i	f	s	vd	p	none	j	none	none	
+2684	nθ	c				i	f	prn	vl	p	none	none	none	none	
+522	θ	c				i	f	s	vl	p	none	none	none	none	
+2771	ɱ̤f	c				ld	f	prn	b	p	none	none	none	none	
+1580	v̤	c				ld	f	s	b	p	none	none	none	none	
+2128	f̰	c				ld	f	s	c	p	none	none	none	none	
+2728	hv	c				ld	f	s	vd	p	none	none	none	none	
+453	ɱ	c				ld	n	s	vd	p	none	none	none	none	
+2502	ɱð	c				ld	f	prn	vd	p	none	none	none	none	
+1818	ɱf	c				ld	f	prn	vd	p	none	none	none	none	
+1825	ɱfʷ	c				ld	f	prn	vd	p	none	w	none	none	
+532	mv	c				ld	f	c	vd	p	none	w	none	none	
+1548	ɱv	c				ld	f	prn	vd	p	none	none	none	none	
+2818	ɱvʲ	c				ld	f	prn	vd	p	none	j	none	none	
+2808	ɱvɾ	c				ld	f	prn	vd	p	none	r	none	none	
+180	v	c				ld	f	s	vd	p	none	none	none	none	
+954	ṽ	c				ld	f	s	vd	p	nas	none	none	none	
+458	v̩	c				ld	f	s	vd	p	none	none	syl	none	
+389	ʋ	c				ld	a	s	vd	p	none	none	none	none	
+1352	vː	c				ld	f	s	vd	p	none	none	long	none	
+1310	ʋː	c				ld	a	s	vd	p	none	none	long	none	
+2051	vʰ	c				ld	f	poa	vd	p	none	none	none	none	
+320	vʲ	c				ld	f	s	vd	p	none	j	none	none	
+2828	vɾ	c				ld	f	s	vd	p	none	r	none	none	
+501	vʷ	c				ld	f	s	vd	p	none	w	none	none	
+1000	ⱱ	c				ld	t	s	vd	p	none	none	none	none	
+2169	ⱱ̟	c				ld	t	s	vd	p	adv	none	none	none	
+175	f	c				ld	f	s	vl	p	none	none	none	none	
+145	fʼ	c				ld	f	pog	vl	ge	none	none	none	none	
+1063	f͉	c				ld	f	s	vl	p	ola	none	none	none	
+680	fː	c				ld	f	s	vl	p	none	none	long	none	
+979	f͈ː	c				ld	f	s	vl	p	dvb	none	long	none	
+1862	fʰ	c				ld	f	poa	vl	p	none	none	none	none	
+494	fʲ	c				ld	f	s	vl	p	none	j	none	none	
+2832	fɾ	c				ld	f	s	vl	p	none	r	none	none	
+2106	fʃ	c				ld	f	c	vl	p	none	none	none	none	Sequence of ld fric. & pa. fric.
+495	fʷ	c				ld	f	s	vl	p	none	w	none	none	
+1037	fʷː	c				ld	f	s	vl	p	none	w	long	none	
+2027	ɱ̥f	c				ld	f	prn	vl	p	none	none	none	none	
+2783	ɱfʲ	c				ld	f	prn	vl	p	none	j	none	none	
+2819	ɱfɾ	c				ld	f	prn	vl	p	none	r	none	none	
+2738	mpf	c				ld	af	prn	vl	p	none	none	none	none	
+2539	mpfʼ	c				ld	af	pog	vl	ge	none	none	none	none	
+2654	qm	c				lu	s	pon	vl	p	none	none	none	none	
+1992	ɠɓ	c				lv	s	c	vd	gi	none	none	none	none	
+1064	ɡb	c				lv	s	c	vd	p	none	none	none	none	
+2571	ɡɓ	c				lv	s	c	vd	gi	none	none	none	none	
+1078	ɡb̩	c				lv	s	c	vd	p	none	none	syl	none	
+1842	ɡbˤ	c				lv	s	pog	vd	ge	none	ph	none	none	
+2744	ˀɡb	c				lv	s	prg	vd	p	none	none	none	none	
+2276	ɡbː	c				lv	s	c	vd	p	none	none	long	none	
+2234	ɡbʲ	c				lv	s	c	vd	p	none	j	none	none	
+2701	ɡbr	c				lv	s	c	vd	p	none	r	none	none	
+2814	ɡbɾ	c				lv	s	c	vd	p	none	r	none	none	
+1574	ɡbʷ	c				lv	s	c	vd	p	none	w	none	none	
+2723	ɡm	c				lv	s	pon	vd	p	none	none	none	none	
+2869	ʰw	c				lv	a	pra	vd	p	none	none	none	none	
+1935	ŋb	c				lv	s	prn	vd	p	none	none	none	none	
+2781	ŋɡmb	c				lv	s	prn	vd	p	none	none	none	none	
+411	ŋm	c				lv	n	c	vd	p	none	none	none	none	
+1841	ŋmˤ	c				lv	n	c	vd	p	none	ph	none	none	
+1127	ŋmɡb	c				lv	s	prn	vd	p	none	none	none	none	
+2236	ŋmʲ	c				lv	n	c	vd	p	none	j	none	none	
+2724	km	c				lv	s	pon	vl	p	none	none	none	none	
+1065	kp	c				lv	s	c	vl	p	none	none	none	none	
+1843	kpˤ	c				lv	s	pog	vl	ge	none	ph	none	none	
+2750	ˀkp	c				lv	s	prg	vl	p	none	none	none	none	
+2277	kpː	c				lv	s	c	vl	p	none	none	long	none	
+1476	kpʰ	c				lv	s	poa	vl	p	none	none	none	none	
+2235	kpʲ	c				lv	s	c	vl	p	none	j	none	none	
+2702	kpr	c				lv	s	c	vl	p	none	none	none	none	
+2811	kpɾ	c				lv	s	c	vl	p	none	r	none	none	
+1573	kpʷ	c				lv	s	c	vl	p	none	w	none	none	
+1863	ŋmkp	c				lv	s	prn	vl	p	none	none	none	none	
+2835	ŋmkpɾ	c				lv	s	prn	vl	p	none	r	none	none	
+2475	pkʰ	c				lv	s	poa	vl	p	none	none	none	none	
+2604	pʼkxʼ	c				lv	af	pog	vl	ge	none	none	none	none	
+472	c̤	c				p	s	s	b	p	none	none	none	none	
+1678	ɡ̤ǂ	c				p	clk	c	b	vi	none	none	none	none	
+1653	ɡ̤ǂ͓ˡ	c				p	clk	c	b	vi	mc	l	none	none	
+2553	ɟ̤	c				p	s	s	b	p	none	none	none	none	
+2847	ɟ̤ʝ	c				p	af	c	b	p	none	none	none	none	
+2552	ɲ̤	c				p	n	s	b	p	none	none	none	none	
+2776	ɲ̤cʰ	c				p	s	poa	b	p	none	none	none	none	
+2777	ɲ̤ʰ	c				p	n	poa	b	p	none	none	none	none	
+2543	ɲ̤ɟ̤	c				p	s	prn	b	p	none	none	none	none	
+1667	ŋ̤ǂ	c				p	clk	prn	b	vi	none	none	none	none	
+2069	c̰	c				p	f	s	c	p	none	none	none	none	
+1665	ɡ̰ǂ͓ˡx	c				p	clk	s	c	vi	mc	l	none	none	
+1676	ɡ̰ǂx	c				p	clk	s	c	vi	none	none	none	none	
+379	j̰	c				p	a	s	c	p	none	none	none	none	
+197	ɟ̰	c				p	s	s	c	p	none	none	none	none	
+2121	ɟ̩̰	c				p	s	s	c	p	none	none	syl	none	
+2176	ˀj̰	c				p	a	prg	c	p	none	none	none	none	
+1698	ɲ̰	c				p	n	s	c	p	none	none	none	none	
+2627	ɢǂ	c				p	clk	c	vd	vi	none	none	none	none	
+1624	ɡǂ	c				p	clk	c	vd	vi	none	none	none	none	
+2601	ɡǂkxʼ	c				p	clk	pog	vd	ge	none	none	none	none	
+1655	ɡǂ͓ˡ	c				p	clk	c	vd	vi	mc	l	none	none	
+1673	ɡǂ͓ˡx	c				p	clk	c	vd	vi	mc	l	none	none	
+2581	ɡǂqʰ	c				p	clk	poa	vd	vi	none	none	none	none	
+1643	ɡǂx	c				p	clk	c	vd	vi	none	none	none	none	
+445	ɥ	c				p	a	s	vd	p	none	none	none	none	
+1175	ɥ̃	c				p	a	s	vd	p	nas	none	none	none	
+2226	ʰj	c				p	a	pra	vd	p	none	none	none	none	
+2892	ʰɟ	c				p	s	pra	vd	p	none	none	none	none	
+32	j	c				p	a	s	vd	p	none	none	none	none	
+267	j̃	c				p	a	s	vd	p	nas	none	none	none	
+209	ɟ	c				p	s	s	vd	p	none	none	none	none	
+907	jˀ	c				p	a	pog	vd	ge	none	none	none	none	
+994	ʄ	c				p	i	s	vd	gi	none	none	none	none	
+1570	j̟	c				p	a	s	vd	p	adv	none	none	none	
+66	ʝ	c				p	f	s	vd	p	none	none	none	none	
+1872	jˤ	c				p	a	pog	vd	ge	none	ph	none	none	
+144	ʝ̟	c				p	f	s	vd	p	adv	none	none	none	
+713	ˀj	c				p	a	prg	vd	p	none	none	none	none	
+1962	ˀɟ	c				p	s	prg	vd	p	none	none	none	none	
+244	jː	c				p	a	s	vd	p	none	none	long	none	
+1080	ɟː	c				p	s	s	vd	p	none	none	long	none	
+1922	jʰ	c				p	a	poa	vd	p	none	none	none	none	
+2347	ɟɦ	c				p	af	poa	vd	p	none	none	none	none	
+1968	ɟʰ	c				p	s	poa	vd	p	none	none	none	none	
+433	ɟʝ	c				p	af	c	vd	p	none	none	none	none	
+1383	ɟʲ	c				p	s	s	vd	p	none	j	none	none	
+1349	ɟʝː	c				p	af	c	vd	p	none	none	long	none	
+1102	ɟʝʷ	c				p	af	c	vd	p	none	w	none	none	
+1826	jʷ	c				p	a	s	vd	p	none	w	none	none	
+1884	ɟʷ	c				p	s	s	vd	p	none	w	none	none	
+1614	ɟʑ	c				p	af	c	vd	p	none	none	none	none	
+2111	jʔ	c				p	a	pog	vd	p	none	none	none	none	
+294	ɲ	c				p	n	s	vd	p	none	none	none	none	
+2313	ɲʼ	c				p	n	pog	vd	ge	none	none	none	none	
+213	ɲ̟	c				p	n	s	vd	p	adv	none	none	none	
+350	ɲ̩	c				p	n	s	vd	p	none	none	syl	none	
+946	ɲː	c				p	n	s	vd	p	none	none	long	none	
+2462	ɲᶣ	c				p	n	s	vd	p	none	none	none	none	
+2312	ɲʰ	c				p	n	poa	vd	p	none	none	none	none	
+2004	nɟ	c				p	s	prn	vd	p	none	none	none	none	
+2241	ɲj	c				p	a	prn	vd	p	none	none	none	none	
+487	ɲɟ	c				p	s	prn	vd	p	none	none	none	none	
+2379	ɲʄ	c				p	s	prn	vd	gi	none	none	none	none	
+647	ɲ̟ʝ̟	c				p	s	prn	vd	p	adv	none	none	none	
+919	ɲɟʝ	c				p	s	prn	vd	p	none	none	none	none	
+1712	ɲɟʑ	c				p	s	prn	vd	p	none	none	none	none	
+1417	ɲʷ	c				p	n	s	vd	p	none	w	none	none	
+1840	ɲʒ	c				p	f	prn	vd	p	none	none	none	none	
+927	ʎ	c				p	a	s	vd	p	none	none	none	none	
+2310	ʎʼ	c				p	a	pog	vd	ge	none	none	none	none	
+645	ʎ̟	c				p	a	s	vd	p	adv	none	none	none	
+2311	ʎʰ	c				p	a	poa	vd	p	none	none	none	none	
+208	c	c				p	s	s	vl	p	none	none	none	none	
+27	ç	c				p	f	s	vl	p	none	none	none	none	
+1480	ç	c				p	f	s	vl	p	none	none	none	none	
+198	cʼ	c				p	s	pog	vl	ge	none	none	none	none	
+642	c̟	c				p	s	s	vl	p	adv	none	none	none	
+179	ç̟	c				p	f	s	vl	p	adv	none	none	none	
+2741	ˀc	c				p	s	prg	vl	p	none	none	none	none	
+1803	cː	c				p	s	s	vl	p	none	none	long	none	
+1401	çː	c				p	f	s	vl	p	none	none	long	none	
+2565	cʼː	c				p	s	pog	vl	ge	none	none	long	none	
+432	cç	c				p	af	c	vl	p	none	none	none	none	
+1414	cç	c				p	af	c	vl	p	none	none	none	none	
+2698	cçʼ	c				p	af	pog	vl	ge	none	none	none	none	
+1493	cɕ	c				p	s	s	vl	p	none	none	none	none	
+1787	cɕʼ	c				p	af	pog	vl	ge	none	none	none	none	
+1350	cçː	c				p	af	c	vl	p	none	none	long	none	
+444	cçʰ	c				p	af	poa	vl	p	none	none	none	none	
+1520	cçʰ	c				p	af	poa	vl	p	none	none	none	none	
+1522	cɕʰ	c				p	af	poa	vl	p	none	none	none	none	
+1415	cçʷ	c				p	af	c	vl	p	none	w	none	none	
+2699	cçʷ	c				p	af	c	vl	p	none	w	none	none	
+1095	cçʷʰ	c				p	af	poa	vl	p	none	w	none	none	
+194	cʰ	c				p	s	poa	vl	p	none	none	none	none	
+1381	cʲ	c				p	s	s	vl	p	none	j	none	none	
+922	çʲ	c				p	f	s	vl	p	none	j	none	none	
+2368	cɲ	c				p	s	pon	vl	p	none	none	none	none	
+1956	cʷ	c				p	s	s	vl	p	none	w	none	none	
+1097	çʷ	c				p	f	s	vl	p	none	w	none	none	
+1416	çʷ	c				p	f	s	vl	p	none	w	none	none	
+1888	cʷʰ	c				p	s	poa	vl	p	none	w	none	none	
+1230	ɥ̥	c				p	a	s	vl	p	none	none	none	none	
+2894	ʰc	c				p	s	pra	vl	p	none	none	none	none	
+510	j̥	c				p	a	s	vl	p	none	none	none	none	
+1860	ʄ̥	c				p	s	s	vl	gi	none	none	none	none	
+788	ˀj̥	c				p	a	prg	vl	p	none	none	none	none	
+2749	j̥ʷ	c				p	a	s	vl	p	none	w	none	none	
+1135	kǂ	c				p	clk	c	vl	vi	none	none	none	none	
+2618	kǂʼ	c				p	clk	pog	vl	ge	none	none	none	none	
+1663	kǂʰ	c				p	clk	poa	vl	vi	none	none	none	none	
+1686	kǂ͓ˡ	c				p	clk	c	vl	vi	mc	l	none	none	
+1657	kǂ͓ˡʰ	c				p	clk	poa	vl	vi	none	l	none	none	
+1687	kǂ͓ˡx	c				p	clk	c	vl	vi	mc	l	none	none	Affricated with x
+1689	kǂx	c				p	clk	c	vl	vi	none	none	none	none	Affricated with x
+2594	kǂxʼ	c				p	clk	pog	vl	ge	none	none	none	none	
+362	ɲ̥	c				p	n	s	vl	p	none	none	none	none	
+2640	ˀnǂ	c				p	clk	prg	vl	vi	none	none	none	none	
+1524	ɲc	c				p	s	prn	vl	p	none	none	none	none	
+2545	ɲcʼ	c				p	s	pog	vl	ge	none	none	none	none	
+1553	ɲcɕ	c				p	s	prn	vl	p	none	none	none	none	
+1955	ɲcʲ	c				p	s	prn	vl	p	none	j	none	none	
+1683	ŋǂ	c				p	clk	prn	vl	vi	none	none	none	none	
+2641	ŋ̥ǂ	c				p	clk	prn	vl	vi	none	none	none	none	
+1625	ŋ̥ǂˀ	c				p	clk	prg	vl	vi	none	none	none	none	
+1632	ŋ̥ǂʰ	c				p	clk	poa	vl	vi	none	none	none	none	
+1642	ŋǂ͓ˡ	c				p	clk	prn	vl	vi	mc	l	none	none	
+1691	ŋ̤ǂ͓ˡ	c				p	clk	prn	vl	vi	mc	l	none	none	
+1680	ŋ̥ǂ͓ˡˀ	c				p	clk	prg	vl	vi	mc	l	none	none	
+1672	ŋ̥ǂ͓ˡʰ	c				p	clk	poa	vl	vi	mc	l	none	none	
+1666	ŋ̥ǂ͓ˡxˀ	c				p	clk	prg	vl	vi	mc	l	none	none	
+1645	ŋ̥ǂxˀ	c				p	clk	pog	vl	ge	none	none	none	none	
+2647	qǂ	c				p	clk	c	vl	vi	none	none	none	none	
+2610	qǂʼ	c				p	clk	pog	vl	ge	none	none	none	none	
+2609	qǂʰ	c				p	clk	poa	vl	vi	none	none	none	none	
+1921	ʎ̥	c				p	a	s	vl	p	none	none	none	none	
+238	d̠ʒ̤	c				pa	af	c	b	p	ret	none	none	none	
+2519	d̤ʒ̤	c				pa	af	c	b	p	none	none	none	none	
+1341	d̠ʒ̤ː	c				pa	af	c	b	p	ret	none	long	none	
+1668	ŋ̤ǃ	c				pa	clk	prn	b	vi	none	none	none	none	
+1735	ʒ̤	c				pa	f	s	b	p	none	none	none	none	
+1906	t̠ʃ̰	c				pa	af	c	c	p	ret	none	none	none	
+2871	dʒ	c				pa	af	c	vd	p	none	none	none	none	
+51	d̠ʒ	c				pa	af	c	vd	p	ret	none	none	none	
+1651	d̠ʒʼ	c				pa	af	pog	vd	ge	ret	none	none	none	
+2531	d̠̤ʒ̤	c				pa	af	c	vd	p	ret	none	none	none	
+594	d̠͈ʒ	c				pa	af	c	vd	p	ret	none	none	none	
+334	ˀd̠ʒ	c				pa	af	prg	vd	p	ret	none	none	none	
+270	d̠ʒː	c				pa	af	c	vd	p	ret	none	long	none	
+1661	d̠ʒˠ	c				pa	af	c	vd	p	ret	v	none	none	
+1924	d̠ʒʰ	c				pa	af	poa	vd	p	ret	none	none	none	
+165	d̠ʒʲ	c				pa	af	c	vd	p	ret	j	none	none	
+2833	d̠ʒɾ	c				pa	af	c	vd	p	ret	r	none	none	
+1104	d̠ʒʷ	c				pa	af	c	vd	p	ret	w	none	none	
+2620	ɴɢǃqʰ	c				pa	clk	poa	vd	vi	none	none	none	none	
+914	n̠ʒ	c				pa	f	prn	vd	p	ret	none	none	none	
+99	ʒ	c				pa	f	s	vd	p	none	none	none	none	
+2800	ʒˀ	c				pa	f	pog	vd	ge	none	none	none	none	
+2887	ʒ̺	c				pa	f	s	vd	p	ap	none	none	none	
+746	ʒː	c				pa	f	s	vd	p	none	none	long	none	
+973	ʒ͈ː	c				pa	f	s	vd	p	dvb	none	long	none	
+1253	ʒˠ	c				pa	f	s	vd	p	none	v	none	none	
+926	ʒʲ	c				pa	f	s	vd	p	none	j	none	none	
+1454	ʒʷ	c				pa	f	s	vd	p	none	w	none	none	
+2770	ǃ	c				pa	clk	s	vl	vi	none	none	none	none	
+1848	ɗʒ	c				pa	af	c	vl	gi	none	none	none	none	
+2659	d̠ʒxʼ	c				pa	af	pog	vl	ge	ret	none	none	none	
+1726	ʰʃ	c				pa	f	pra	vl	p	none	none	none	none	
+784	ʰt̠ʃ	c				pa	af	pra	vl	p	ret	none	none	none	
+1761	kǃ̠ˀ	c				pa	clk	pog	vl	ge	ret	none	none	none	
+1561	kǃ̠ʰ	c				pa	clk	poa	vl	vi	ret	none	none	none	
+2639	ˀnǃ	c				pa	clk	prg	vl	vi	none	none	none	none	
+1824	n̠ʃ	c				pa	f	prn	vl	p	ret	none	none	none	
+2024	n̥ʃ	c				pa	f	prn	vl	p	none	none	none	none	
+1827	n̠ʃʷ	c				pa	af	prn	vl	p	ret	w	none	none	
+908	n̠t̠ʃ	c				pa	af	prn	vl	p	ret	none	none	none	
+2540	n̠t̠ʃʼ	c				pa	af	pog	vl	ge	ret	none	none	none	
+2026	n̠̥t̠ʃ	c				pa	af	prn	vl	p	ret	none	none	none	
+915	n̠t̠ʃʰ	c				pa	af	poa	vl	p	ret	none	none	none	
+2816	n̠t̠ʃɾ	c				pa	af	prn	vl	p	ret	r	none	none	
+2566	n̠t̠ʃʷ	c				pa	af	prn	vl	p	ret	w	none	none	
+1682	ŋǃ	c				pa	clk	prn	vl	vi	none	none	none	none	
+2532	ŋǃʼ	c				pa	clk	pog	vl	ge	none	none	none	none	
+1560	ŋǃ̠	c				pa	clk	prn	vl	vi	none	none	none	none	
+1675	ŋ̥ǃ	c				pa	clk	prn	vl	vi	none	none	none	none	
+1685	ŋ̥ǃˀ	c				pa	clk	pog	vl	vi	none	none	none	none	
+1565	ŋ̥ǃ̠ˀ	c				pa	clk	pog	vl	vi	none	none	none	none	
+2665	ʼŋǃ	c				pa	clk	prg	vl	ge	none	none	none	none	
+1634	ŋ̥ǃˠˀ	c				pa	clk	prg	vl	vi	none	none	none	none	
+2674	ŋǃʰ	c				pa	clk	poa	vl	vi	none	none	none	none	
+2646	qǃ	c				pa	clk	c	vl	vi	none	none	none	none	
+2643	qǃʼ	c				pa	clk	pog	vl	ge	none	none	none	none	
+2636	qǃʰ	c				pa	clk	poa	vl	vi	none	none	none	none	
+47	ʃ	c				pa	f	s	vl	p	none	none	none	none	
+2796	ʃˀ	c				pa	f	pog	vl	ge	none	none	none	none	
+171	ʃʼ	c				pa	f	pog	vl	ge	none	none	none	none	
+188	ʃ͉	c				pa	f	s	vl	p	ola	none	none	none	
+2162	ʃ̺	c				pa	f	s	vl	p	ap	none	none	none	
+1593	ʃ͇	c				pa	f	s	vl	p	dhb	none	none	none	
+118	ʃ͈	c				pa	f	s	vl	p	dvb	none	none	none	
+673	ʃː	c				pa	f	s	vl	p	none	none	long	none	
+734	ʃ͈ː	c				pa	f	s	vl	p	dvb	none	long	none	
+1163	ʃˠ	c				pa	f	s	vl	p	none	v	none	none	
+2455	ʃʰ	c				pa	f	poa	vl	p	none	none	none	none	
+95	ʃʲ	c				pa	f	s	vl	p	none	j	none	none	
+2752	ʃt	c				pa	f	c	vl	p	none	none	none	none	
+138	ʃʷ	c				pa	f	s	vl	p	none	w	none	none	
+136	ʃ͈ʷ	c				pa	f	s	vl	p	dvb	w	none	none	
+2751	ˀʃʷ	c				pa	f	prg	vl	p	none	w	none	none	
+1433	ʃʷː	c				pa	f	s	vl	p	none	w	long	none	
+869	t̠ːʃ	c				pa	af	c	vl	p	ret	none	long	none	
+2361	tç	c				pa	af	c	vl	p	none	none	none	none	
+2366	tçʰ	c				pa	af	poa	vl	p	none	none	none	none	
+2866	tʃ	c				pa	af	c	vl	p	none	none	none	none	
+2872	tʃʼ	c				pa	af	pog	vl	ge	none	none	none	none	
+49	t̠ʃ	c				pa	af	c	vl	p	ret	none	none	none	
+19	t̠ʃˀ	c				pa	af	pog	vl	ge	ret	none	none	none	
+103	t̠ʃʼ	c				pa	af	pog	vl	ge	ret	none	none	none	
+766	t̠ʃ͉	c				pa	af	c	vl	p	ret	none	none	none	
+2688	t̪ʃ	c				pa	af	c	vl	p	none	none	none	none	
+268	t̠ʃː	c				pa	af	c	vl	p	ret	none	long	none	
+831	t̠ʃʼː	c				pa	af	pog	vl	ge	ret	none	long	none	
+737	t̠͈ʃː	c				pa	af	c	vl	p	dvb	none	long	none	
+1660	t̠ʃˠ	c				pa	af	c	vl	p	ret	v	none	none	
+2868	tʃʰ	c				pa	af	poa	vl	p	none	none	none	none	
+1	t̠ʃʰ	c				pa	af	poa	vl	p	ret	none	none	none	
+2471	t̠ʃʱ	c				pa	af	c	vl	p	ret	none	none	none	
+2159	t̠ʃ̺ʰ	c				pa	af	poa	vl	p	ret	none	none	none	
+883	t̠ʃʰː	c				pa	af	poa	vl	p	ret	none	long	none	
+85	t̠ʃʲ	c				pa	af	c	vl	p	ret	j	none	none	
+2834	t̠ʃɾ	c				pa	af	c	vl	p	ret	r	none	none	
+1105	t̠ʃʷ	c				pa	af	c	vl	p	ret	w	none	none	
+100	t̠ʃʷʼ	c				pa	af	pog	vl	ge	ret	w	none	none	
+127	t̠͈ʃʷ	c				pa	af	c	vl	p	dvb	w	none	none	
+97	t̠ʃʷʰ	c				pa	af	poa	vl	p	ret	w	none	none	
+2679	t̠ʃx	c				pa	af	c	vl	p	ret	none	none	none	
+2356	ɧ	c				pav	f	c	vl	p	none	none	none	none	simultaneous esh + x
+2102	ʕ̰	c				ph	a	s	c	p	none	none	none	none	
+2101	ʕ̰ʷ	c				ph	a	s	c	p	none	w	none	none	
+181	ʕ	c				ph	a	s	vd	p	none	none	none	none	
+1911	ʕʼ	c				ph	s	pog	vd	ge	none	none	none	none	
+1470	ʕ̝	c				ph	f	s	vd	p	rzd	none	none	none	
+1020	ʕː	c				ph	a	s	vd	p	none	none	long	none	
+1915	ʕʷ	c				ph	a	s	vd	p	none	w	none	none	
+1917	ʕʷʼ	c				ph	a	pog	vd	ge	none	w	none	none	
+112	ħ	c				ph	f	s	vl	p	none	none	none	none	
+1024	ħː	c				ph	f	s	vl	p	none	none	long	none	
+983	ħ͈ː	c				ph	f	s	vl	p	dvb	none	long	none	
+1027	ħʷ	c				ph	f	s	vl	p	none	w	none	none	
+246	ɖ̤	c				r	s	s	b	p	none	none	none	none	
+1339	ɖ̤ː	c				r	s	s	b	p	none	none	long	none	
+2849	ɭ̤	c				r	af	c	b	p	none	none	none	none	
+2863	ɳ̤	c				r	n	s	b	p	none	none	none	none	
+338	ɽ̤	c				r	t	s	b	p	none	none	none	none	
+1778	ɖ̰	c				r	s	s	c	p	none	none	none	none	
+1800	ʐ̰	c				r	f	s	c	p	none	none	none	none	
+1001	ᶑ	c				r	i	s	vd	gi	none	none	none	none	
+2563	ᶑʼ	c				r	s	pog	vd	ge	none	none	none	none	
+2456	ɗː	c				r	s	s	vd	gi	none	none	long	none	
+1004	ᶑː	c				r	s	s	vd	gi	none	none	long	none	
+2564	ᶑʼː	c				r	s	pog	vd	ge	none	none	long	none	
+2687	ɗʲ	c				r	s	s	vd	gi	none	j	none	none	
+2507	ɗʷ	c				r	s	s	vd	gi	none	w	none	none	
+229	ɖ	c				r	s	s	vd	p	none	none	none	none	
+325	ˀɖ	c				r	s	prg	vd	p	none	none	none	none	
+256	ɖː	c				r	s	s	vd	p	none	none	long	none	
+2350	ɖɦ	c				r	s	poa	vd	p	none	none	none	none	
+2050	ɖʰ	c				r	s	poa	vd	p	none	none	none	none	
+1214	ɖⁿ	c				r	s	pon	vd	p	none	none	none	none	
+2482	ɖr	c				r	s	c	vd	p	none	r	none	none	
+2708	ɖɽ	c				r	s	c	vd	p	none	r	none	none	
+585	ɖr̠	c				r	s	c	vd	p	none	r	none	none	
+1730	ɖr̠͓	c				r	s	c	vd	p	none	r	none	none	
+220	ɖʐ	c				r	af	c	vd	p	none	none	none	none	
+2755	ɖʐʷ	c				r	af	c	vd	p	none	w	none	none	
+2677	ɡǃǃ	c				r	clk	c	vd	vi	none	none	none	none	
+2657	ɡǃǃʰ	c				r	clk	poa	vd	vi	none	none	none	none	
+2678	ɡǃǃx	c				r	clk	c	vd	vi	none	none	none	none	
+2667	ɡǃǃxʼ	c				r	clk	pog	vd	ge	none	none	none	none	
+283	ɭ	c				r	a	s	vd	p	none	l	none	none	
+1718	ɭ͓	c				r	a	s	vd	p	none	l	none	none	
+357	ɭ̩	c				r	a	s	vd	p	none	l	syl	none	
+297	ɭː	c				r	a	s	vd	p	none	l	long	none	
+2838	ɭʷ	c				r	af	c	vd	p	none	w	none	none	
+232	ɳ	c				r	n	s	vd	p	none	none	none	none	
+2570	nɗ	c				r	s	prn	vd	gi	none	none	none	none	
+646	ɳɖ	c				r	s	prn	vd	p	none	none	none	none	
+2556	ɳɖr	c				r	s	prn	vd	p	none	r	none	none	
+2707	ɳɖɽ	c				r	s	prn	vd	p	none	r	none	none	
+586	ɳɖr̠	c				r	s	prn	vd	p	ret	r	none	none	
+909	ɳɖʐ	c				r	af	prn	vd	p	none	none	none	none	
+2352	ɳɦ	c				r	n	poa	vd	p	none	none	none	none	
+2077	ɳʰ	c				r	n	poa	vd	p	none	none	none	none	
+1583	ɳʈ	c				r	n	prn	vd	p	none	none	none	none	
+289	ɽ	c				r	t	s	vd	p	none	none	none	none	
+330	ɽ̃	c				r	t	s	vd	p	nas	none	none	none	
+479	ɻ	c				r	a	s	vd	p	none	none	none	none	
+2854	ɽ̩	c				r	t	s	vd	p	none	none	syl	none	
+2110	ɻː	c				r	a	s	vd	p	none	none	long	none	
+1958	ɽʰ	c				r	t	poa	vd	p	none	none	none	none	
+1873	ɻʲ	c				r	a	s	vd	p	none	j	none	none	
+1874	ɻʷ	c				r	a	s	vd	p	none	w	none	none	
+2222	ʂ͉	c				r	f	s	vd	p	ola	none	none	none	
+592	ʂ͇	c				r	f	s	vd	p	dhb	none	none	none	
+221	ʐ	c				r	f	s	vd	p	none	none	none	none	
+225	ʐ͇	c				r	f	s	vd	p	dhb	none	none	none	
+2754	ʐʷ	c				r	f	s	vd	p	none	w	none	none	
+2655	kǃǃ	c				r	clk	c	vl	vi	none	none	none	none	
+2652	kǃǃʼ	c				r	clk	pog	vl	ge	none	none	none	none	
+2653	kǃǃʰ	c				r	clk	poa	vl	vi	none	none	none	none	
+2675	kǃǃʰʼ	c				r	clk	pog	vl	ge	none	none	none	none	
+2658	kǃǃx	c				r	clk	c	vl	vi	none	none	none	none	
+2671	kǃǃxʼ	c				r	clk	pog	vl	ge	none	none	none	none	
+629	ɭ̥	c				r	a	s	vl	p	none	l	none	none	
+631	ɳ̥	c				r	n	s	vl	p	none	none	none	none	
+580	ɳʈr̠̥	c				r	s	prn	vl	p	ret	r	none	none	
+910	ɳʈʂ	c				r	af	prn	vl	p	none	none	none	none	
+1527	ɳʈʂʰ	c				r	af	prn	vl	p	none	none	none	none	
+2682	ŋǃǃ	c				r	clk	prn	vl	vi	none	none	none	none	
+2651	ŋǃǃʰ	c				r	clk	poa	vl	vi	none	none	none	none	
+216	ʂ	c				r	f	s	vl	p	none	none	none	none	
+1608	ʂʼ	c				r	f	pog	vl	ge	none	none	none	none	
+218	ʈ	c				r	s	s	vl	p	none	none	none	none	
+1777	ʈˀ	c				r	s	pog	vl	ge	none	none	none	none	
+878	ʈʼ	c				r	s	pog	vl	ge	none	none	none	none	
+904	ʈ͉	c				r	s	s	vl	p	ola	none	none	none	
+255	ʈː	c				r	s	s	vl	p	none	none	long	none	
+224	ʈʰ	c				r	s	poa	vl	p	none	none	none	none	
+1302	ʈʰː	c				r	s	poa	vl	p	none	none	long	none	
+2371	ʈɳ	c				r	s	prn	vl	p	none	none	none	none	
+2483	ʈr	c				r	s	c	vl	p	none	r	none	none	
+1731	ʈɹ̠̥	c				r	s	c	vl	p	ret	none	none	none	
+663	ʈɽ	c				r	s	c	vl	p	none	r	none	none	
+572	ʈr̥̠	c				r	s	c	vl	p	ret	r	none	none	
+223	ʈʂ	c				r	af	s	vl	p	none	none	none	none	
+693	ʈʂʼ	c				r	af	pog	vl	ge	none	none	none	none	
+573	ʈʂ͇	c				r	af	c	vl	p	dhb	none	none	none	
+233	ʈʂʰ	c				r	af	poa	vl	p	none	none	none	none	
+2762	ʈʂʷ	c				r	af	c	vl	p	none	w	none	none	
+1781	*R̪̰	c				u	tr	s	c	p	none	none	none	none	
+185	q̰	c				u	s	s	c	p	none	none	none	none	
+2053	q̰ʷ	c				u	s	s	c	p	none	w	none	none	
+1767	ʁ̞̰ʷ	c				u	a	s	c	p	lwd	w	none	none	
+1482	*R	c				u	tr	s	vd	p	none	none	none	none	
+1404	*R̪	c				u	tr	s	vd	p	d	none	none	none	
+91	ɢ	c				u	s	s	vd	p	none	none	none	none	
+1756	ɢˤ	c				u	f	pog	vd	ge	none	ph	none	none	
+1005	ɢː	c				u	s	s	vd	p	none	none	long	none	
+2577	ɢʰ	c				u	s	poa	vd	p	none	none	none	none	
+102	ɢʷ	c				u	s	s	vd	p	none	w	none	none	
+1751	ɢʷˤ	c				u	s	pog	vd	ge	none	wph	none	none	
+212	ɴ	c				u	n	s	vd	p	none	none	none	none	
+2867	N	c				u	n	s	vd	p	none	none	none	none	
+683	ɴː	c				u	n	s	vd	p	none	none	long	none	
+2399	ɴɢ	c				u	n	prn	vd	p	none	none	none	none	
+88	ʁ	c				u	f	s	vd	p	none	none	none	none	
+429	ʁ̞	c				u	a	s	vd	p	lwd	none	none	none	
+1026	ʁˤ	c				u	f	pog	vd	ge	none	ph	none	none	
+89	ʀ	c				u	tr	s	vd	p	none	none	none	none	
+1019	ʁː	c				u	f	s	vd	p	none	none	long	none	
+153	ʁʷ	c				u	f	s	vd	p	none	w	none	none	
+1435	ʁʷˤ	c				u	f	pog	vd	ge	none	wph	none	none	
+1771	ʁ̞ʷ	c				u	a	s	vd	p	lwd	w	none	none	
+1507	*R̪̥	c				u	tr	s	vl	p	d	none	none	none	
+1582	ʛ̥	c				u	s	s	vl	gi	none	none	none	none	
+900	ʰq	c				u	s	pra	vl	p	none	none	none	none	
+1526	ɴq	c				u	s	prn	vl	p	none	none	none	none	
+1529	ɴqʰ	c				u	s	poa	vl	p	none	none	none	none	
+87	q	c				u	s	s	vl	p	none	none	none	none	
+1770	qˀ	c				u	s	pog	vl	ge	none	none	none	none	
+113	qʼ	c				u	s	pog	vl	ge	none	none	none	none	
+797	q̚	c				u	s	s	vl	p	none	none	none	none	
+128	q͈	c				u	s	s	vl	p	dvb	none	none	none	
+1753	qˤʼ	c				u	s	pog	vl	ge	none	ph	none	none	
+2296	ˀq	c				u	s	prg	vl	p	none	none	none	none	
+677	qː	c				u	s	s	vl	p	none	none	long	none	
+2794	qʼː	c				u	s	pog	vl	ge	none	none	long	none	
+110	qʰ	c				u	s	poa	vl	p	none	none	none	none	
+1752	qˤʰ	c				u	s	poa	vl	p	none	ph	none	none	
+2664	qn	c				u	s	pon	vl	p	none	none	none	none	
+723	qʷ	c				u	s	s	vl	p	none	w	none	none	
+1768	qʷˀ	c				u	s	pog	vl	ge	none	w	none	none	
+134	qʷʼ	c				u	s	pog	vl	ge	none	w	none	none	
+1754	qʷˤʼ	c				u	s	pog	vl	ge	none	wph	none	none	
+2017	qʼʷ	c				u	s	pog	vl	ge	none	w	none	none	
+131	q͈ʷ	c				u	s	s	vl	p	dvb	w	none	none	
+117	qʷʰ	c				u	s	poa	vl	p	none	w	none	none	
+1755	qʷˤʰ	c				u	s	poa	vl	p	none	wph	none	none	
+93	qχ	c				u	af	c	vl	p	none	none	none	none	
+163	qχʼ	c				u	af	pog	vl	ge	none	none	none	none	
+1439	qχˤ	c				u	af	c	vl	p	none	ph	none	none	
+1452	qχˤʼ	c				u	af	pog	vl	ge	none	ph	none	none	
+1469	qχː	c				u	af	c	vl	p	none	none	long	none	
+1438	qχʼː	c				u	af	pog	vl	ge	none	none	long	none	
+1447	qχˤː	c				u	af	c	vl	p	none	ph	long	none	
+167	qχʷ	c				u	af	c	vl	p	none	w	none	none	
+150	qχʷʼ	c				u	af	pog	vl	ge	none	w	none	none	
+1459	qχʷˤ	c				u	af	c	vl	p	none	wph	none	none	
+1434	qχʷˤʼ	c				u	af	pog	vl	ge	none	wph	none	none	
+92	χ	c				u	f	s	vl	p	none	none	none	none	
+1788	χʼ	c				u	f	pog	vl	ge	none	none	none	none	
+120	χ͈	c				u	f	s	vl	p	dvb	none	none	none	
+1042	χˤ	c				u	f	s	vl	p	none	ph	none	none	
+678	χː	c				u	f	s	vl	p	none	none	long	none	
+1053	χˤː	c				u	f	s	vl	p	none	ph	long	none	
+109	χʷ	c				u	f	s	vl	p	none	w	none	none	
+1789	χʷʼ	c				u	f	pog	vl	ge	none	w	none	none	
+1444	χʷˤ	c				u	f	s	vl	p	none	wph	none	none	
+132	χ͈ʷ	c				u	f	s	vl	p	dvb	w	none	none	
+1448	χʷː	c				u	f	s	vl	p	none	w	long	none	
+1450	χʷˤː	c				u	f	s	vl	p	none	wph	long	none	
+2753	w̤	c				v	a	s	b	p	none	w	none	none	
+2548	ɣ̤	c				v	f	s	b	p	none	none	none	none	
+254	ɡ̤	c				v	s	s	b	p	none	none	none	none	
+1324	ɡ̤ː	c				v	s	s	b	p	none	none	long	none	
+1107	ɡ̤ʷ	c				v	s	s	b	p	none	w	none	none	
+2523	n̤ɡ̤	c				v	s	prn	b	p	none	none	none	none	
+1739	ŋ̤	c				v	n	s	b	p	none	none	none	none	
+2554	ŋ̤ɡ̤	c				v	s	prn	b	p	none	none	none	none	
+2779	ŋ̤ʰ	c				v	n	poa	b	p	none	none	none	none	
+2773	ŋ̤kʰ	c				v	s	poa	b	p	none	none	none	none	
+383	w̰	c				v	a	s	c	p	none	w	none	none	
+2181	ˀw̰	c				v	a	prg	c	p	none	w	none	none	
+1785	ɣ̰	c				v	f	s	c	p	none	none	none	none	
+196	ɡ̰	c				v	s	s	c	p	none	none	none	none	
+1890	k̰	c				v	s	s	c	p	none	none	none	none	
+2055	k̰ʷ	c				v	s	s	c	p	none	w	none	none	
+1773	ɰ̰	c				v	a	s	c	p	none	none	none	none	
+372	ŋ̰	c				v	n	s	c	p	none	none	none	none	
+168	k̟ʲʰ	c				v	s	s	poa	p	adv	j	none	none	
+885	kʷʰː	c				v	s	poa	poa	p	none	w	long	none	
+55	w	c				v	a	s	vd	p	none	w	none	none	
+262	w̃	c				v	a	s	vd	p	nas	w	none	none	
+906	wˀ	c				v	a	prg	vd	p	none	w	none	none	
+1913	wʼ	c				v	a	pog	vd	ge	none	w	none	none	
+2237	w̞	c				v	a	s	vd	p	lwd	w	none	none	
+1871	wˤ	c				v	a	s	vd	p	none	wph	none	none	
+367	ˀw	c				v	a	prg	vd	p	none	w	none	none	
+2746	ˀʍ	c				v	a	prg	vl	p	none	w	none	none	
+271	wː	c				v	a	s	vd	p	none	w	long	none	
+1925	wʰ	c				v	a	poa	vd	p	none	w	none	none	
+2472	wʱ	c				v	a	s	vd	p	none	w	none	none	
+1993	wʲ	c				v	a	c	vd	p	none	jw	none	none	
+2747	ʍʲ	c				v	a	s	vl	p	none	jw	none	none	
+2743	ˀʍʲ	c				v	a	prg	vl	p	none	jw	none	none	
+68	ɡ̟	c				v	s	s	vd	p	adv	none	none	none	
+1117	ɠ	c				v	s	s	vd	gi	none	none	none	none	
+90	ɣ	c				v	f	s	vd	p	none	none	none	none	
+30	ɡ	c				v	s	s	vd	p	none	none	none	none	
+1988	ɡ̃	c				v	s	s	vd	p	none	none	none	none	
+2798	ɣˀ	c				v	f	pog	vd	ge	none	none	none	none	
+1626	ɡʼ	c				v	s	pog	vd	ge	none	none	none	none	
+1072	ɣ̩	c				v	f	s	vd	p	none	none	syl	none	
+1074	ɡ̩	c				v	s	s	vd	p	none	none	syl	none	
+328	ˀɡ	c				v	s	prg	vd	p	none	none	none	none	
+2795	ɠː	c				v	s	s	vd	gi	none	none	long	none	
+1813	ɣː	c				v	f	s	vd	p	none	none	long	none	
+282	ɡː	c				v	s	s	vd	p	none	none	long	none	
+986	ɣ͈ː	c				v	f	s	vd	p	dvb	none	long	none	
+966	ɡ͈ː	c				v	s	s	vd	p	dvb	none	long	none	
+310	ɡɣ	c				v	af	c	vd	p	none	none	none	none	
+2344	ɡɦ	c				v	af	poa	vd	p	none	none	none	none	
+2470	ɡᶣ	c				v	s	s	vd	p	none	none	none	none	
+1929	ɡʰ	c				v	s	poa	vd	p	none	none	none	none	
+982	ɣʲ	c				v	f	s	vd	p	none	j	none	none	
+311	ɡʲ	c				v	s	s	vd	p	none	j	none	none	
+1846	ɠ̥ʲ	c				v	s	s	vd	gi	none	j	none	none	
+172	ɣ̟ʲ	c				v	f	s	vd	p	adv	j	none	none	
+164	ɡ̟ʲ	c				v	s	s	vd	p	adv	j	none	none	
+2733	ɡʲʷ	c				v	s	s	vd	p	none	jw	none	none	
+2635	ɡʼkxʼ	c				v	af	pog	vd	ge	none	none	none	none	
+1542	ɡˡ	c				v	s	s	vd	p	none	l	none	none	
+605	ɡⁿ	c				v	s	pon	vd	p	none	none	none	none	
+2829	ɡɾ	c				v	s	c	vd	p	none	r	none	none	
+1865	ɣv	c				v	f	c	vd	p	none	v	none	none	
+1838	ɡv	c				v	f	c	vd	p	none	v	none	none	
+691	ɣʷ	c				v	f	s	vd	p	none	w	none	none	
+173	ɡʷ	c				v	s	s	vd	p	none	w	none	none	
+1845	ɠ̥ʷ	c				v	s	s	vd	gi	none	w	none	none	
+1079	ɡ̩ʷ	c				v	s	s	vd	p	none	w	syl	none	
+2740	ˀɡʷ	c				v	s	prg	vd	p	none	w	none	none	
+2858	ʰŋ	c				v	n	pra	vd	p	none	none	none	none	
+1805	ʟ	c				v	a	s	vd	p	none	l	none	none	
+428	ɰ	c				v	a	s	vd	p	none	none	none	none	
+1075	ɰ̃	c				v	af	c	vd	p	none	none	none	none	
+366	ˀɲ	c				v	n	prg	vd	p	none	none	none	none	
+1953	nɡ	c				v	s	prn	vd	p	none	none	none	none	
+2831	nɡɾ	c				v	s	prn	vd	p	none	r	none	none	
+14	ŋ	c				v	n	s	vd	p	none	none	none	none	
+2793	ŋ̞	c				v	a	s	vd	p	lwd	none	none	none	
+340	ŋ̩	c				v	n	s	vd	p	none	none	syl	none	
+912	ŋˑ	c				v	n	s	vd	p	none	none	hl	none	
+1641	ŋˤ	c				v	n	s	vd	p	none	ph	none	none	
+368	ˀŋ	c				v	n	prg	vd	p	none	none	none	none	
+331	ŋː	c				v	n	s	vd	p	none	none	long	none	
+2315	ŋːʷ	c				v	n	s	vd	p	none	w	long	none	
+1932	ŋɣ	c				v	f	prn	vd	p	none	none	none	none	
+370	ŋɡ	c				v	s	prn	vd	p	none	none	none	none	
+486	ŋɡ̟	c				v	s	prn	vd		adv	none	none	none	
+2466	ŋɡː	c				v	s	prn	vd	p	none	none	long	none	
+2787	ŋɣᶣ	c				v	f	prn	vd	p	none	none	none	none	
+2792	ŋɣʲ	c				v	f	prn	vd	p	none	j	none	none	
+577	ŋɡʲ	c				v	s	prn	vd	p	none	j	none	none	
+2791	ŋɣʷ	c				v	f	prn	vd	p	none	w	none	none	
+488	ŋɡʷ	c				v	s	prn	vd	p	none	w	none	none	
+2784	ŋh	c				v	n	poa	vd	p	none	none	none	none	
+2683	ŋʰ	c				v	n	poa	vd	p	none	none	none	none	
+2786	ŋhᶣ	c				v	n	s	vd	p	none	none	none	none	
+2789	ŋhʲ	c				v	n	poa	vd	p	none	j	none	none	
+2790	ŋhʷ	c				v	n	poa	vd	p	none	w	none	none	
+306	ŋʲ	c				v	n	s	vd	p	none	j	none	none	
+2745	ŋʲʷ	c				v	n	s	vd	p	none	w	none	none	
+2822	ŋkɾ	c				v	n	s	vd	p	none	r	none	none	
+2810	ŋɾ	c				v	n	s	vd	p	none	r	none	none	
+410	ŋʷ	c				v	n	s	vd	p	none	w	none	none	
+1067	ŋ̩ʷ	c				v	n	s	vd	p	none	w	syl	none	
+2315	ŋʷː	c				v	n	s	vd	p	none	w	long	none	
+1907	w̥	c				v	a	s	vl	p	none	w	none	none	
+201	ʍ	c				v	a	s	vl	p	none	w	none	none	
+791	ˀw̥	c				v	a	prg	vl	p	none	w	none	none	
+471	ɡ̤̥	c				v	s	s	vl	p	none	none	none	none	
+1844	ɠ̥	c				v	s	s	vl	gi	none	none	none	none	
+2397	ɣ̥	c				v	f	s	vl	p	none	none	none	none	
+781	ʰk	c				v	s	pra	vl	p	none	none	none	none	
+896	ʰkʷ	c				v	s	pra	vl	p	none	w	none	none	
+29	k	c				v	s	s	vl	p	none	none	none	none	
+1984	k̃	c				v	s	s	vl	p	nas	none	none	none	
+13	kˀ	c				v	s	pog	vl	ge	none	none	none	none	
+119	kʼ	c				v	s	pog	vl	ge	none	none	none	none	
+2845	k̙	c				v	s	s	vl	p	ret	none	none	none	
+67	k̟	c				v	s	s	vl	p	adv	none	none	none	
+292	k͉	c				v	s	s	vl	p	ola	none	none	none	
+2061	k̻	c				v	s	s	vl	p	lam	none	none	none	
+121	k͈	c				v	s	s	vl	p	dvb	none	none	none	
+984	kˤ	c				v	s	pog	vl	ge	none	ph	none	none	
+944	ˀk	c				v	s	prg	vl	p	none	none	none	none	
+1119	kǃ	c				v	clk	c	vl	vi	none	none	none	none	
+258	kː	c				v	s	s	vl	p	none	none	long	none	
+834	kʼː	c				v	s	pog	vl	ge	none	none	long	none	
+739	k͈ː	c				v	s	s	vl	p	dvb	none	long	none	
+2314	kːʷ	c				v	s	s	vl	p	none	w	long	none	
+1121	kǀ	c				v	clk	c	vl	vi	none	none	none	none	
+1839	kf	c				v	af	c	vl	p	none	none	none	none	Unusual affricate
+2729	kɡ	c				v	s	c	vl	p	none	none	none	none	
+1588	kɦ	c				v	af	poa	vl	p	none	none	none	none	
+2559	kᶣ	c				v	s	s	vl	p	none	none	none	none	
+8	kʰ	c				v	s	poa	vl	p	none	none	none	none	
+493	k̟ʰ	c				v	s	poa	vl	p	adv	none	none	none	
+833	kʰː	c				v	s	poa	vl	p	none	none	long	none	
+1950	kʰʲ	c				v	s	poa	vl	p	none	j	none	none	
+1885	kʰʷ	c				v	s	poa	vl	p	none	w	none	none	
+584	kʲ	c				v	s	s	vl	p	none	j	none	none	
+992	kʲʼ	c				v	s	pog	vl	ge	none	j	none	none	
+1951	kʼʲ	c				v	s	pog	vl	ge	none	j	none	none	
+140	k̟ʲʼ	c				v	s	pog	vl	ge	adv	j	none	none	
+303	kʲʰ	c				v	s	poa	vl	p	none	j	none	none	
+2890	kl	c				v	clk	c	vl	p	none	l	none	none	
+1504	kɬ	c				v	af	c	vl	p	none	none	none	none	
+1809	kʟ̥ʼ	c				v	clk	pog	vl	ge	none	none	none	none	
+1125	kʟ̥͓ʼ	c				v	af	pog	vl	ge	mc	none	none	none	
+2042	kŋ	c				v	s	pon	vl	p	none	none	none	none	
+2836	kɾ	c				v	s	c	vl	p	none	r	none	none	
+377	kʷ	c				v	s	s	vl	p	none	w	none	none	
+1772	kʷˀ	c				v	s	pog	vl	ge	none	w	none	none	
+107	kʷʼ	c				v	s	pog	vl	ge	none	w	none	none	
+2000	k̃ʷ	c				v	s	s	vl	p	nas	w	none	none	
+2015	kʼʷ	c				v	s	pog	vl	ge	none	w	none	none	
+2227	k͉ʷ	c				v	s	s	vl	p	ola	w	none	none	
+114	k͈ʷ	c				v	s	s	vl	p	dvb	w	none	none	
+2306	ˀkʷ	c				v	s	prg	vl	p	none	w	none	none	
+1054	kʷː	c				v	s	s	vl	p	none	w	long	none	
+884	kʷʼː	c				v	s	pog	vl	ge	none	w	long	none	
+101	kʷʰ	c				v	s	poa	vl	p	none	w	none	none	
+2478	kʷʱ	c				v	s	s	vl	p	none	w	none	none	
+2825	kʷɾ	c				v	s	c	vl	p	none	wr	none	none	
+423	kx	c				v	af	c	vl	p	none	none	none	none	
+1126	kxʼ	c				v	af	pog	vl	ge	none	none	none	none	
+1473	kxː	c				v	af	c	vl	p	none	none	long	none	
+1467	kxʼː	c				v	af	pog	vl	ge	none	none	long	none	
+1134	kxʰ	c				v	af	poa	vl	p	none	none	none	none	
+147	kxʷ	c				v	af	c	vl	p	none	w	none	none	
+1517	kxʷʰ	c				v	af	poa	vl	p	none	w	none	none	
+1801	ʟ̥͓	c				v	a	s	vl	p	mc	l	none	none	
+75	ŋ̥	c				v	n	s	vl	p	none	none	none	none	
+548	ŋ̥ʲ	c				v	n	s	vl	p	none	j	none	none	
+578	ŋk	c				v	s	prn	vl	p	none	none	none	none	
+2551	ŋkʼ	c				v	s	pog	vl	ge	none	none	none	none	
+920	ŋkʰ	c				v	s	poa	vl	p	none	none	none	none	
+579	ŋkʲ	c				v	s	prn	vl	p	none	j	none	none	
+938	ŋkʷ	c				v	s	prn	vl	p	none	w	none	none	
+2720	ŋkx	c				v	af	prn	vl	p	none	none	none	none	
+1543	ŋ̥ʷ	c				v	n	s	vl	p	none	w	none	none	
+116	x	c				v	f	s	vl	p	none	none	none	none	
+751	xʼ	c				v	f	pog	vl	ge	none	none	none	none	
+2398	x̥	c				v	f	s	vl	p	none	none	none	none	
+111	x͈	c				v	f	s	vl	p	dvb	none	none	none	
+676	xː	c				v	f	s	vl	p	none	none	long	none	
+975	x͈ː	c				v	f	s	vl	p	dvb	none	long	none	
+882	xh	c				v	f	poa	vl	p	none	none	none	none	
+956	xʲ	c				v	f	s	vl	p	none	j	none	none	
+148	x̟ʲ	c				v	f	s	vl		adv	j	none	none	
+130	xʷ	c				v	f	s	vl	p	none	w	none	none	
+1790	xʷʼ	c				v	f	pog	vl	ge	none	w	none	none	
+125	x͈ʷ	c				v	f	s	vl	p	dvb	w	none	none	
+2415	˧˩̤	ss							b	p	none	none	none	31	
+405	˨˩̤	ss							b	p	none	none	none	21	
+538	˧˨̤	ss							b	p	none	none	none	32	
+1345	a̤	v	o	f	none				b	p	none	none	none	none	
+2095	ɑ̤	v	o	b	none				b	p	none	none	none	none	
+1495	ɒ̤	v	o	b	none				b	p	none	none	none	none	
+2495	a̤ˑ	v	o	f	none				b	p	none	none	hl	none	
+1332	a̤ː	v	o	f	none				b	p	none	none	long	none	
+2099	ɑ̤ː	v	o	b	none				b	p	none	none	long	none	
+1316	æ̤	v	no	f	none				b	p	none	none	none	none	
+2018	æ̤ː	v	no	f	none				b	p	none	none	long	none	
+1745	a̤i̤	v	o c	f f	none				b	p	none	none	none	none	
+1744	a̤ɯ̤	v	o c	f b	none				b	p	none	none	none	none	
+1732	a̤ṳ	v	o c	f b	ur				b	p	none	none	none	none	
+1326	ɔ̤	v	om	b	r				b	p	none	none	none	none	
+2488	ɔ̤ˑ	v	om	b	none				b	p	none	none	hl	none	
+2022	ɔ̤ː	v	om	b	r				b	p	none	none	long	none	
+1742	ɔ̤i̤	v	om c	b f	ru				b	p	none	none	none	none	
+2497	ɛ̤ˑ	v	om	f	none				b	p	none	none	hl	none	
+1494	e̤	v	cm	f	none				b	p	none	none	none	none	
+2852	ë̞	v	cm	f	none				b	p	lwd	none	none	none	
+1497	ɛ̤	v	om	f	none				b	p	none	none	none	none	
+2843	ə̤	v	m	c	none				b	p	none	none	none	none	
+2493	e̤ˑ	v	cm	f	none				b	p	none	none	hl	none	
+1312	e̤ː	v	cm	f	none				b	p	none	none	long	none	
+2019	ɛ̤ː	v	om	f	none				b	p	none	none	long	none	
+1490	ɤ̤	v	cm	b	none				b	p	none	none	none	none	
+2097	ɤ̤ː	v	cm	b	none				b	p	none	none	long	none	
+1738	ɤ̤i̤	v	cm c	b f 	none				b	p	none	none	none	none	
+1335	ɪ̤	v	nc	nf	none				b	p	none	none	none	none	
+1496	i̤	v	c	f	none				b	p	none	none	none	none	
+2487	i̤ˑ	v	c	f	none				b	p	none	none	hl	none	
+1333	i̤ː	v	c	f	none				b	p	none	none	long	none	
+2096	i̤a	v	c o	f f	none				b	p	none	none	none	none	
+1736	i̤a̤	v	c o	f f	none				b	p	none	none	none	none	
+1741	i̤ɛ̤	v	c om	f f	none				b	p	none	none	none	none	
+1508	i̤ə̤	v	c m	f c	none				b	p	none	none	none	none	
+1747	i̤ṳ	v	c c	f b	ur				b	p	none	none	none	none	
+1491	ɯ̤	v	c	b	none				b	p	none	none	none	none	
+2094	ɯ̤ː	v	c	b	none				b	p	none	none	long	none	
+2100	ɯ̤a	v	c o	b b	none				b	p	none	none	none	none	
+1506	ɯ̤ə̤	v	c m	b c	none				b	p	none	none	none	none	
+1733	ɯ̤i̤	v	c c	b f	none				b	p	none	none	none	none	
+1344	o̤	v	cm	b	r				b	p	none	none	none	none	
+2021	ɵ̤	v	cm	c	r				b	p	none	none	none	none	
+2499	o̤ˑ	v	cm	b	r				b	p	none	none	hl	none	
+1317	o̤ː	v	cm	b	r				b	p	none	none	long	none	
+2558	œ̤	v	om	f	r				b	p	none	none	none	none	
+1746	o̤i̤	v	cm c	b f	ru				b	p	none	none	none	none	
+1492	ṳ	v	c	b	r				b	p	none	none	none	none	
+1338	ʊ̤	v	nc	nb	r				b	p	none	none	none	none	
+2489	ṳˑ	v		b	r				b	p	none	none	hl	none	
+1325	ṳː	v	c	b	r				b	p	none	none	long	none	
+2023	ʊ̤ː	v	nc	nb	r				b	p	none	none	long	none	
+1748	ṳa̤	v	c o	b f	ru				b	p	none	none	none	none	
+1512	ṳə̤	v	c m	b c	ru				b	p	none	none	none	none	
+1740	ṳi̤	v	c c	b f	ru				b	p	none	none	none	none	
+1489	ʌ̤	v	om	b	none				b	p	none	none	none	none	
+2098	ʌ̤ː	v	om	b	none				b	p	none	none	long	none	
+2557	y̤	v	c	f	r				b	p	none	none	none	none	
+2414	˥˧̰	ss							c	p	none	none	none	53	
+407	˦˥̰	ss							c	p	none	none	none	45	
+505	˧˩̰	ss							c	p	none	none	none	31	
+524	˥̰	ss							c	p	none	none	none	55	
+408	˩̰	ss							c	p	none	none	none	11	
+374	a̰	v	o	f	none				c	p	none	none	none	none	
+1703	ã̰	v	o	f	n				c	p	none	none	none	none	
+2175	ã̰	v	o	f	n				c	p	none	none	none	none	
+2486	a̰ˑ	v	o	f	none				c	p	none	none	hl	none	
+816	a̰ː	v	o	f					c	p	none	none	long	none	
+2633	a̰ʰ	v	o	f	none			poa	c	p	none	none	none	none	
+2422	a̰ḭ	v	o c	f f	none				c	p	none	none	none	none	
+2423	a̰ṵ	v	o c	f b	ur				c	p	none	none	none	none	
+373	ɔ̰	v	om	b	r				c	p	none	none	none	none	
+2494	ɔ̰ˑ	v	om	b	none				c	p	none	none	hl	none	
+2496	ɔ̰ː	v	om	b	r				c	p	none	none	long	none	
+2492	ɛ̰ˑ	v	om	f	none				c	p	none	none	hl	none	
+375	ḛ	v	cm	f	none				c	p	none	none	none	none	
+2891	ḛ̃	v	cm	f	n				c	p	none	none	none	none	
+822	e̞̰	v	cm	f	none				c	p	lwd	none	none	none	
+937	ẽ̞̰	v	cm	f	n				c	p	lwd	none	none	none	
+359	ɛ̰	v	om	f	none				c	p	none	none	none	none	
+823	ə̰	v	m	c	none				c	p	none	none	none	none	
+2498	ḛˑ	v	cm	f	none				c	p	none	none	hl	none	
+2290	ɛ̰̃	v	om	f	n				c	p	none	none	none	none	
+2288	ə̰̃	v	m	c	n				c	p	none	none	none	none	
+2282	ḛː	v	cm	f	none				c	p	none	none	long	none	
+2491	ɛ̰ː	v	om	f	none				c	p	none	none	long	none	
+371	ḭ	v	c	f	none				c	p	none	none	none	none	
+943	ḭ̃	v	c	f	n				c	p	none	none	none	none	
+1702	ḭ̃	v	c	f	n				c	p	none	none	none	none	
+941	ɨ̰	v	c	c	none				c	p	none	none	none	none	
+2500	ḭˑ	v	c	f	none				c	p	none	none	hl	none	
+814	ḭː	v	c	f	none				c	p	none	none	long	none	
+948	ɯ̰	v	c	b	none				c	p	none	none	none	none	
+369	o̰	v	cm	b	r				c	p	none	none	none	none	
+2289	õ̰	v	cm	b	nr				c	p	none	none	none	none	
+2490	o̰ˑ	v	cm	b	r				c	p	none	none	hl	none	
+2283	o̰ː	v	cm	b	r				c	p	none	none	long	none	
+2599	o̰ʰ	v	cm	b	r			poa	c	p	none	none	none	none	
+363	ṵ	v	c	b	r				c	p	none	none	none	none	
+2174	ṵ̃	v	c	b	nr				c	p	none	none	none	none	
+2608	ṵʰ	v	c	b	r			poa	c	p	none	none	none	none	
+219	˥˦	ss							vd	p	none	none	none	54	
+424	˦˥	ss							vd	p	none	none	none	45	
+2428	˥˧	ss							vd	p	none	none	none	53	
+939	˦˧	ss							vd	p	none	none	none	43	
+2424	˨˥	ss							vd	p	none	none	none	25	
+2764	˥˨	ss							vd	p	none	none	none	none	
+559	˥˩	ss							vd	p	none	none	none	51	
+560	˩˥	ss							vd	p	none	none	none	15	
+2272	˦˥˦	ss							vd	p	none	none	none	454	
+1811	˦˨	ss							vd	p	none	none	none	52	
+1812	˨˦	ss							vd	p	none	none	none	24	
+440	˧˨	ss							vd	p	none	none	none	32	
+470	˨˧	ss							vd	p	none	none	none	23	
+228	˩˨	ss							vd	p	none	none	none	12	
+231	˧	ss							vd	p	none	none	none	33	
+467	˥˧˥	ss							vd	p	none	none	none	535	
+1855	˦˨˦	ss							vd	p	none	none	none	424	
+940	˦˩	ss							vd	p	none	none	none	51	
+441	˥	ss							vd	p	none	none	none	55	
+443	˦	ss							vd	p	none	none	none	44	
+442	˨	ss							vd	p	none	none	none	22	
+409	˩	ss							vd	p	none	none	none	11	
+515	˧˨ˤ	ss							vd	p	none	ph	none	32	
+439	˧˨˥	ss							vd	p	none	none	none	435	
+526	˧˦	ss							vd	p	none	none	none	34	
+2070	˧˦˧	ss							vd	p	none	none	none	343	
+426	˧˥	ss							vd	p	none	none	none	35	
+419	˧˩	ss							vd	p	none	none	none	31	
+412	˨˩	ss							vd	p	none	none	none	21	
+2685	˥˨˧	ss							vd	p	none	none	none	523	
+2686	˧˥˨	ss							vd	p	none	none	none	352	
+1830	˨˦˧	ss							vd	p	none	none	none	243	
+2163	˧˨˧	ss							vd	p	none	none	none	323	
+1856	˨˦˨	ss							vd	p	none	none	none	242	
+1866	˨˥˩	ss							vd	p	none	none	none	251	
+1831	˨˧˨	ss							vd	p	none	none	none	232	
+547	˨˧˩	ss							vd	p	none	none	none	231	
+2231	˦ː	ss							vd	p	none	none	long	44	
+2232	˨ː	ss							vd	p	none	none	long	22	
+1835	↓	ss							vd	p	none	none	ds	none	
+1834	↓˦	ss							vd	p	none	none	ds	44	
+1833	↓˦˨	ss							vd	p	none	none	ds	42	
+1832	˦↓˦	ss							vd	p	none	none	ds	44	
+2481	↓˦↓˦	ss							vd	p	none	none	ds	44	
+1423	ɐˤ	v	o	c	none				vd	p	none	ph	none	none	
+12	a	v	o	f	none				vd	p	none	none	none	none	
+1947	ä	v	o	f	none				vd	p	c	none	none	none	
+477	ă	v	o	f	none				vd	p	none	none	brev	none	
+157	ɑ	v	o	b	none				vd	p	none	none	none	none	
+437	ɑ̃˞	v	o	b	n				vd	p	none	r	none	none	
+250	ã	v	o	f	n				vd	p	none	none	none	none	
+546	ã̆	v	o	f	n				vd	p	none	none	brev	none	
+2221	aˀ	v	o	f	none				vd	ge	none	glt	none	none	
+2340	a̙	v	o	f	none				vd	p	ret	none	none	none	
+73	a̟	v	o	f	none				vd	p	adv	none	none	none	
+664	a̠	v	o	f	none				vd	p	ret	none	none	none	
+894	ã̟	v	o	b	n				vd	p	adv	none	none	none	
+259	ɐ	v	o	c	none				vd	p	none	none	none	none	
+385	ɒ	v	o	b	none				vd	p	none	none	none	none	
+701	aˑ	v	o	f	none				vd	p	none	none	hl	none	
+434	a˞	v	o	f	none				vd	p	none	r	none	none	
+1445	aˤ	v	o	f	none				vd	p	none	ph	none	none	
+2865	ɑ̈	v	o	b	none				vd	p	c	none	none	none	
+1375	ɐ̆	v	o	c	none				vd	p	none	none	brev	none	
+1353	ɒ̆	v	o	b	r				vd	p	none	none	brev	none	
+1234	ɐ̃	v	o	c	n				vd	p	none	none	none	none	
+892	ɑ̃	v	o	b	n				vd	p	none	none	none	none	
+930	ɒ̃	v	o	b	nr				vd	p	none	none	none	none	
+1629	ãˤ	v	o	f	n				vd	p	none	ph	none	none	
+1780	ɑ̝	v	o	b	none				vd	p	rzd	none	none	none	
+1722	ɒ̝	v	o	b	r				vd	p	rzd	none	none	none	
+430	a̟˞	v	o	f	none				vd	p	adv	r	none	none	
+1617	ɐ̹̆	v	o	c	r				vd	p	none	none	brev	none	
+7	aː	v	o	f	none				vd	p	none	none	long	none	
+2358	aː̃	v	o	f	n				vd	p	nas	none	long	none	
+222	ãː	v	o	f	n				vd	p	none	none	long	none	
+2336	a̙ː	v	o	f	none				vd	p	ret	none	long	none	
+72	a̟ː	v	o	f	none				vd	p	adv	none	long	none	
+1867	a̠ː	v	o	f	none				vd	p	ret	none	long	none	
+893	ã̟ː	v	o	f	none				vd	p	adv	none	long	none	
+794	ɐː	v	o	c	none				vd	p	none	none	long	none	
+152	ɑː	v	o	b	none				vd	p	none	none	long	none	
+280	ɒː	v	o	b	r				vd	p	none	none	long	none	
+1620	aˤː	v	o	f	none				vd	p	none	ph	long	none	
+2864	ɑ̈ː	v	o	b	none				vd	p	c	none	long	none	
+1158	ɑ̃ː	v	o	b	n				vd	p	none	none	long	none	
+1228	ɒ̃ː	v	o	b	nr				vd	p	nas	none	long	none	
+1650	ãˤː	v	o	f	n				vd	p	none	ph	long	none	
+392	a̟̙ː	v	o	f	none				vd	p	adv	none	long	none	
+2400	aɔ	v	o om	f b	none				vd	p	none	none	none	none	
+23	æ	v	no	f	none				vd	p	none	none	none	none	
+2056	ae	v	o cm	f f	none				vd	p	none	none	none	none	
+463	æ̃	v	no	f	n				vd	p	none	none	none	none	
+1597	ae̞	v	o cm	f f	none				vd	p	lwd	none	none	none	
+2846	æ̞̃	v	no	f	n				vd	p	lwd	none	none	none	
+1488	aɛ	v	o om	f	none				vd	p	none	none	none	none	
+124	æˤ	v	no	f	none				vd	p	none	ph	none	none	
+1640	ae̞ˤ	v	o cm	f f	none				vd	p	lwd	ph	none	none	
+1627	ãẽ̞ˤ	v	o cm	f f	n				vd	p	lwd	ph	none	none	
+1967	ɑe	v	o cm	b f	none				vd	p	none	none	none	none	
+18	æː	v	no	f	none				vd	p	none	none	long	none	
+744	æ̃ː	v	no	f	n				vd	p	none	none	long	none	
+2081	æe	v	no cm	f f	none				vd	p	none	none	none	none	
+1327	æe̯	v	no cm	f f	none				vd	p	none	none	brev	none	
+1311	æẽ̯	v	no cm	f f	un				vd	p	none	none	none	none	
+1697	æi	v	no c	f f	none				vd	p	none	none	none	none	
+2309	æɪ	v	no nc	f nf	none				vd	p	none	none	none	none	
+2263	æu	v	no c	f b	none				vd	p	none	none	none	none	
+1721	æʉ	v	no c	f c	none				vd	p	none	none	none	none	
+1849	aˠ	v	o	f	none				vd	p	none	v	none	none	
+2332	a̙ˠ	v	o	f	none				vd	p	ret	v	none	none	
+2885	aʰ	v	o	f	none			poa	vd	p	none	none	none	none	
+626	ai	v	o c	f f	none				vd	p	none	none	none	none	
+2012	aɪ	v	o nc	f nf	none				vd	p	none	none	none	none	
+1552	aɨ	v	o c	f c	none				vd	p	none	none	none	none	
+2191	ai̯	v	o c	f f	none				vd	p	none	none	none	none	
+2257	ãi	v	o c	f f	nu				vd	p	none	none	none	none	
+1575	ãĩ	v	o c	f f	n				vd	p	none	none	none	none	
+1600	a̟i	v	o c	f f	none				vd	p	adv	none	none	none	
+1601	ã̟ĩ	v	o c	f f	n				vd	p	adv	none	none	none	
+640	ɐi	v	no c	c f	none				vd	p	none	none	none	none	
+2246	ɑi	v	o c	b f	none				vd	p	none	none	none	none	
+2384	ɑ̃ĩ	v	o c	b f	n				vd	p	none	none	none	none	
+2286	aj	v	o c	f f	none				vd	p	none	none	none	none	
+2874	aʲ	v	o c	f f	none				vd	p	none	j	none	none	
+2879	ãʲ	v	o c	f f	n				vd	p	nas	j	none	none	
+1534	aɯ	v	o c	f b	none				vd	p	none	none	none	none	
+1959	ao	v	o cm	f b	ur				vd	p	none	none	none	none	
+1487	ao̞	v	o cm	f b	ur				vd	p	lwd	none	none	none	
+1630	ao̞ˤ	v	o cm	f b	ur				vd	p	lwd	ph	none	none	
+1681	ãõ̞ˤ	v	o cm	f b	ur				vd	p	lwd	ph	none	none	
+2389	ɑo	v	o cm	b	ur				vd	p	none	none	none	none	
+2385	ɑ̃õ	v	o cm	b	nur				vd	p	nas	none	none	none	
+1412	au	v	o c	f b	ur				vd	p	none	none	none	none	
+2188	au̯	v	o c	f b	ur				vd	p	none	none	brev	none	
+2057	aʊ	v	o nc	f b	ur				vd	p	none	none	none	none	
+2233	ɐu	v	o c	c b	ur				vd	p	none	none	none	none	
+2387	ɑu	v	o c	b b	ur				vd	p	none	none	none	none	
+2308	ɑʊ	v	o nc	b nb	ur				vd	p	none	none	none	none	
+2341	aw	v	o c	f b	none				vd	p	none	none	none	none	
+2041	ay	v	o c	f f	ur				vd	p	none	none	none	none	
+76	ɔ	v	om	b	r				vd	p	none	none	none	none	
+464	ɔ̆	v	om	b	r				vd	p	none	none	brev	none	
+529	ɔ̃	v	om	b	nr				vd	p	nas	none	none	none	
+2333	ɔ̙	v	om	b	r				vd	p	ret	none	none	none	
+2717	ɔ̝	v	om	b	r				vd	p	rzd	none	none	none	
+351	ɔ̯	v	om	b	r				vd	p	none	none	breve	none	
+890	ɔˑ	v	om	b	none				vd	p	none	none	hl	none	
+1424	ɔˤ	v	om	b	r				vd	p	none	ph	none	none	
+71	ɔː	v	om	b	r				vd	p	none	none	long	none	
+747	ɔ̃ː	v	om	b	nr				vd	p	nas	none	long	none	
+397	ɔ̘ː	v	om	b	r				vd	p	adv	none	long	none	
+2335	ɔ̙ː	v	om	b	r				vd	p	ret	none	long	none	
+2712	ɔ̝ː	v	om	b	r				vd	p	rzd	none	long	none	
+1670	ɔ̃ˤː	v	om	b	nr				vd	p	nas	ph	long	none	
+1965	ɔɛ	v	om om	b f	ru				vd	p	none	none	none	none	
+595	ɔə	v	om m	b c	ru				vd	p	none	none	none	none	
+1418	ɔi	v	om c	b f	ru				vd	p	none	none	none	none	
+2240	ɔɪ	v	om nc	b nf	ru				vd	p	none	none	none	none	
+1579	ɔ̃ĩ	v	om nc	b nf	nru				vd	p	nas	none	none	none	
+1313	ɔo̯	v	om o	b b	r				vd	p	none	none	breve	none	
+1337	ɔõ̯	v	om o	b b	r				vd	p	none	none	breve	none	
+2165	ɔu	v	om c	b b	r				vd	p	none	none	none	none	
+21	e	v	cm	f	none				vd	p	none	none	none	none	
+427	ə˞	v	m	c	none				vd	p	r	none	none	none	
+1957	ë	v	cm	f	r				vd	p	c	none	none	none	
+542	ĕ	v	cm	f	none				vd	p	none	none	brev	none	
+590	ẽ	v	cm	f	n				vd	p	none	none	none	none	
+425	ə̃˞	v	m	c	n				vd	p	r	none	none	none	
+2218	eˀ	v	cm	f	none				vd	ge	none	glt	none	none	
+2438	e̘	v	cm	f	none				vd	p	adv	none	none	none	
+1372	e̙	v	cm	f	none				vd	p	ret	none	none	none	
+2074	e̝	v	cm	f	none				vd	p	rzd	none	none	none	
+203	e̞	v	cm	f	none				vd	p	lwd	none	none	none	
+1112	e̠	v	cm	f	none				vd	p	ret	none	none	none	
+2337	ɛ̙	v	om	f	none				vd	p	ret	none	none	none	
+266	e̯	v	cm	f	none				vd	p	none	none	brev	none	
+808	ĕ̞	v	cm	f	none				vd	p	lwd	none	brev	none	
+239	ẽ̞	v	cm	f	n				vd	p	lwd	none	none	none	
+24	ɛ	v	om	f	none				vd	p	none	none	none	none	
+226	ə	v	m	c	none				vd	p	none	none	none	none	
+416	ɘ	v	cm	c	none				vd	p	none	none	none	none	
+156	ɜ	v	om	c	none				vd	p	none	none	none	none	
+158	ɞ	v	om	c	r				vd	p	none	none	none	none	
+2047	eˑ	v	cm	f	none				vd	p	none	none	hl	none	
+2576	eˤ	v	cm	f	none				vd	p	none	ph	none	none	
+551	ɛ̆	v	om	f	none				vd	p	none	none	brev	none	
+205	ə̆	v	m	c	none				vd	p	none	none	brev	none	
+342	ɛ̃	v	om	f	n				vd	p	none	none	none	none	
+565	ə̃	v	m	c	n				vd	p	none	none	none	none	
+1514	ɘ̃	v	cm	c	n				vd	p	none	none	none	none	
+1331	ɜ̃	v	om	c	n				vd	p	none	none	none	none	
+549	ɛ̆̃	v	om	f	n				vd	p	none	none	brev	none	
+204	e̞̠	v	cm	f	none				vd	p	lwd	none	none	none	
+2715	ɛ̝	v	om	f	none				vd	p	rzd	none	none	none	
+2086	ɛ̞	v	om	f	none				vd	p	lwd	none	none	none	
+474	ə̟	v	m	c	none				vd	p	adv	none	none	none	
+135	e̞ˤ	v	cm	f	none				vd	p	lwd	ph	none	none	
+346	ɛ̯	v	om	f	none				vd	p	none	none	brev	none	
+561	ə̯	v	m	c	none				vd	p	none	none	brev	none	
+886	ɛˑ	v	om	f	none				vd	p	none	none	hl	none	
+2046	əˑ	v	m	c	none				vd	p	none	none	hl	none	
+11	eː	v	cm	f	none				vd	p	none	none	long	none	
+2855	ëː	v	cm	f	none				vd	p	c	none	long	none	
+780	ẽː	v	cm	f	n				vd	p	none	none	long	none	
+395	e̘ː	v	cm	f	none				vd	p	adv	none	long	none	
+162	e̞ː	v	cm	f	none				vd	p	lwd	none	long	none	
+265	ẽ̞ː	v	cm	f	n				vd	p	lwd	none	long	none	
+77	ɛː	v	om	f	none				vd	p	none	none	long	none	
+241	əː	v	m	c	none				vd	p	none	none	long	none	
+555	ɘː	v	cm	c	none				vd	p	none	none	long	none	
+1606	ɜː	v	om	c	none				vd	p	none	none	long	none	
+692	ɛ̃ː	v	om	f	n				vd	p	none	none	long	none	
+745	ə̃ː	v	m	c	n				vd	p	none	none	long	none	
+1592	ɘ̃ː	v	cm	c	n				vd	p	none	none	long	none	
+390	ɛ̘ː	v	om	f	none				vd	p	adv	none	long	none	
+2331	ɛ̙ː	v	om	f	none				vd	p	ret	none	long	none	
+394	ə̘ː	v	m	c	none				vd	p	adv	none	long	none	
+2713	ɛ̝ː	v	om	f	none				vd	p	rzd	none	long	none	
+1946	ea	v	cm o	f b	none				vd	p	none	none	none	none	
+1749	e̞a	v	cm o	f b	none				vd	p	lwd	none	none	none	
+2401	eɔ	v	cm om	f b	ur				vd	p	none	none	none	none	
+1485	ɛ̃ɔ̃	v	om om	f b	n				vd	p	none	none	none	none	
+2007	eə	v	cm m	f c	none				vd	p	none	none	none	none	
+2691	eɘ	v	cm m	f c	none				vd	p	none	none	none	none	
+1599	e̞ə	v	cm m	f c	none				vd	p	lwd	none	none	none	
+596	ɛə	v	om m	f c	none				vd	p	none	none	none	none	
+2255	ɛ̃ə	v	om m	f c	nu				vd	p	none	none	none	none	
+1850	eˠ	v	cm	f	none				vd	p	none	v	none	none	
+1852	ɛˠ	v	om	f	none				vd	p	none	v	none	none	
+2334	ɛ̙ˠ	v	om	f	none				vd	p	ret	v	none	none	
+2883	eʰ	v	cm	f	none			poa	vd	p	none	none	none	none	
+417	ei	v	cm c	f f	none				vd	p	none	none	none	none	
+2013	eɪ	v	om nc	f nf	none				vd	p	none	none	none	none	
+518	eĩ	v	cm c	f f	un				vd	p	none	none	none	none	
+384	ei̙	v	cm c	f f	none				vd	p	ret	none	none	none	
+2193	ei̯	v	cm c	f f	none				vd	p	none	none	brev	none	
+2386	ẽĩ	v	cm c	f f	n				vd	p	none	none	none	none	
+1541	e̞i	v	cm c	f f	none				vd	p	lwd	none	none	none	
+1674	ẽ̞ĩ	v	cm c	f f	n				vd	p	lwd	none	none	none	
+727	ɛi	v	om c	f f	none				vd	p	none	none	none	none	
+2164	ɛɪ	v	om nc	f nf	none				vd	p	none	none	none	none	
+1555	əi	v	m c	c f	none				vd	p	none	none	none	none	
+386	əɨ̙	v	m c	c c	none				vd	p	ret	none	none	none	
+2695	ɘi	v	m c	c f	none				vd	p	none	none	none	none	
+1429	ɜi	v	om c	f f	none				vd	p	none	none	none	none	
+997	ɜɪ̯	v	om nc	f nf	none				vd	p	none	none	none	none	
+2317	ej	v	cm c	f f	none				vd	p	none	none	none	none	
+2480	eʲ	v	cm c	f f	none				vd	p	none	j	none	none	
+2166	ɛj	v	om c	f f	none				vd	p	none	none	none	none	
+1533	ɛɯ	v	om c	f b	none				vd	p	none	none	none	none	
+1554	əɯ	v	m c	c b	none				vd	p	none	none	none	none	
+2220	eo	v	cm cm	f b	ur				vd	p	none	none	none	none	
+1611	e̞o̞	v	cm cm	f b	ur				vd	p	lwd	none	none	none	
+2841	ɛo	v	om cm	f b	ur				vd	p	none	none	none	none	
+1484	ɛo̞	v	om cm	f b	ur				vd	p	lwd	none	none	none	
+1978	eu	v	cm c	f b	ur				vd	p	none	none	none	none	
+2205	eu̯	v	cm c	f b	ur				vd	p	none	none	brev	none	
+2405	eʊ	v	cm nc	f nb	ur				vd	p	none	none	none	none	
+1551	e̞u	v	cm c	f b	ur				vd	p	lwd	none	none	none	
+1656	ẽ̞ũ	v	cm c	f b	nur				vd	p	lwd	none	none	none	
+2325	ɛu	v	om c	f nb	ur				vd	p	none	none	none	none	
+2238	ɛʊ	v	om nc	f nb	ur				vd	p	none	none	none	none	
+1530	əu	v	m c	c b	ur				vd	p	none	none	none	none	
+2319	ɛw	v	om c	f b	ur				vd	p	none	none	none	none	
+2840	əy	v	m c	c f	ur				vd	p	none	none	none	none	
+22	ɤ	v	cm	b	none				vd	p	none	none	none	none	
+777	ɤ̃	v	cm	b	n				vd	p	none	none	none	none	
+475	ɤ̞	v	cm	b	none				vd	p	lwd	none	none	none	
+1474	ɤ̟	v	cm	b	none				vd	p	adv	none	none	none	
+1136	ɤ̯	v	cm	b	none				vd	p	none	none	none	none	
+778	ɤ̞̃	v	cm	b	n				vd	p	lwd	none	none	none	
+454	ɤ˞	v	cm	b	none				vd	p	none	r	none	none	
+1808	ɤ̞̟̃	v	cm	b	n				vd	p	lwd	none	none	none	
+60	ɤː	v	cm	b	none				vd	p	none	none	long	none	
+769	ɤ̃ː	v	cm	v	n				vd	p	none	none	long	none	
+755	ɤ̞ː	v	cm	b	none				vd	p	lwd	none	long	none	
+1743	ɤi	v	cm c	b f	none				vd	p	none	none	none	none	
+25	i	v	c	f	none				vd	p	none	none	none	none	
+81	ɪ	v	nc	nf	none				vd	p	none	none	none	none	
+260	ɪ̈	v	nc	nf	none				vd	p	c	none	none	none	
+2767	ï	v	c	f	none				vd	p	c	none	none	none	
+536	ĭ	v	c	f	none				vd	p	none	none	brev	none	
+804	ɪ̆	v	nc	nf	none				vd	p	none	none	brev	none	
+274	ĩ	v	c	f	n				vd	p	none	none	none	none	
+332	ɪ̃	v	nc	nf	n				vd	p	none	none	none	none	
+74	ɨ	v	c	c	none				vd	p	none	none	none	none	
+809	ɨ̆	v	c	c	none				vd	p	none	none	brev	none	
+601	ɨ̃	v	c	c	n				vd	p	none	none	none	none	
+2224	iˀ	v	c	f	none			pog	vd	ge	none	glt	none	none	
+2442	i̘	v	c	f	none				vd	p	adv	none	none	none	
+1370	ɪ̙	v	nc	nf	none				vd	p	ret	none	none	none	
+2440	i̙	v	c	f	none				vd	p	ret	none	none	none	
+2804	i̜	v	c	f	none				vd	p	none	none	none	none	
+2689	ɪ̝	v	c	nf	none				vd	p	rzd	none	none	none	
+2716	i̞	v	c	f	none				vd	p	lwd	none	none	none	
+210	ɪ̠	v	nc	nf	none				vd	p	ret	none	none	none	
+1547	i͓	v	c	f	none				vd	p	mc	none	none	none	
+352	ɪ̯	v	nc	nf	none				vd	p	none	none	brev	none	
+2889	ɨ̘	v	c	c	none				vd	p	adv	none	none	none	
+2803	ɨ̜	v	c	c	none				vd	p	none	none	none	none	
+1479	ɨ̞	v	c	c	none				vd	p	lwd	none	none	none	
+888	iˑ	v	c	f	none				vd	p	none	none	hl	none	
+1774	ɨ̞̃	v	c	c	n				vd	p	lwd	none	none	none	
+1425	ɪˤ	v	nc	nf	none				vd	p	none	ph	none	none	
+1440	iˤ	v	c	f	none				vd	p	none	ph	none	none	
+2848	ɨˑ	v	c	c	none				vd	p	none	none	hl	none	
+849	ɨ˞	v	c	c	none				vd	p	none	r	none	none	
+6	iː	v	c	f	none				vd	p	none	none	long	none	
+281	ɪː	v	nc	nf	none				vd	p	none	none	long	none	
+998	ɪ̈ː	v	nc	nf	none				vd	p	none	none	long	none	
+251	ĩː	v	c	f	n				vd	p	none	none	long	none	
+764	ɪ̃ː	v	nc	nf	n				vd	p	none	none	long	none	
+82	ɨː	v	c	c	none				vd	p	none	none	long	none	
+1283	ɨ̃ː	v	c	c	n				vd	p	none	none	long	none	
+1373	i̙ː	v	c	f	none				vd	p	ret	none	long	none	
+2339	ɪ̙ː	v	nc	nf	none				vd	p	ret	none	long	none	
+2696	ɪ̝ː	v	nc	nf	none				vd	p	rzd	none	long	none	
+2714	i̞ː	v	c	f	none				vd	p	lwd	none	long	none	
+1793	iˤː	v	c	f	none				vd	p	none	ph	long	none	
+2505	iːe	v	c cm	f f	none				vd	p	none	none	long	none	
+2504	iːɛ	v	c om	f f	none				vd	p	none	none	long	none	
+1086	ia	v	c o	f f	none				vd	p	none	none	none	none	
+2078	ɪa	v	nc o	f f	none				vd	p	none	none	none	none	
+2080	iã	v	c o	f f	un				vd	p	none	none	none	none	
+2082	ɪã	v	nc o	f f	un				vd	p	none	none	none	none	
+1545	ia̟	v	c o	f f	none				vd	p	adv	none	none	none	
+1605	ɨa	v	c o	f f	none				vd	p	none	none	none	none	
+1904	iaː	v	c o	f f	none				vd	p	none	none	long	none	
+1088	iæ	v	c no	f f	none				vd	p	none	none	none	none	
+2141	iau	v	c o c	f f b	ur				vd	p	none	none	none	none	
+2270	iɔ	v	c om	f b	ur				vd	p	none	none	none	none	
+545	ie	v	c cm	f f	none				vd	p	none	none	none	none	
+552	iẽ	v	c cm	f f	un				vd	p	none	none	none	none	
+1276	ie̞	v	c cm	f f	none				vd	p	lwd	none	none	none	
+1717	ɪe̞	v	nc cm	f f	none				vd	p	lwd	none	none	none	
+1085	iɛ	v	c om	f f	none				vd	p	none	none	none	none	
+2373	ɪɛ	v	c om	f f	none				vd	p	none	none	none	none	
+1509	iə	v	c m	f c	none				vd	p	none	none	none	none	
+1692	ĩẽ̞	v	c cm	f f	n				vd	p	lwd	none	none	none	
+2256	ĩə	v	c m 	f c	nu				vd	p	none	none	none	none	
+1728	ɨə	v	c m	f c	none				vd	p	none	none	none	none	
+2269	ieː	v	c cm	f f	none				vd	p	none	none	long	none	
+2271	iɛː	v	c om	f f	none				vd	p	none	none	long	none	
+1783	iˠ	v	c	f	none				vd	p	none	v	none	none	
+1851	ɪˠ	v	nc	nf	none				vd	p	none	v	none	none	
+1782	ĩˠ	v	c	f	n				vd	p	none	v	none	none	
+2338	ɪ̙ˠ	v	nc	nf	none				vd	p	ret	v	none	none	
+2884	iʰ	v	c	f	none			poa	vd	p	none	none	none	none	
+422	ɪi	v	nc c	nf f	none				vd	p	none	none	none	none	
+2261	iɨ	v	c c	f c	none				vd	p	none	none	none	none	
+1577	ɨi	v	c c	c f	none				vd	p	none	none	none	none	
+1576	ɨ̃ĩ	v	c c	c f	n				vd	p	none	none	none	none	
+2217	io	v	c cm	f b	ur				vd	p	none	none	none	none	
+1240	io̞	v	c cm	f b	ur				vd	p	lwd	none	none	none	
+1369	ioː	v	c cm	f b	ur				vd	p	none	none	long	none	
+2160	iou	v	c cm c	f b b	ur				vd	p	none	none	none	none	
+1609	iu	v	c c	f b	ur				vd	p	none	none	none	none	
+2402	iʊ	v	c nc	f nb	ur				vd	p	none	none	none	none	
+1799	iʌ	v	c om	f b	none				vd	p	none	none	none	none	
+2079	ɪʌ	v	nc om	f b	none				vd	p	none	none	none	none	
+2009	ja	v	c o	f b	none				vd	p	none	none	none	none	
+2805	jãː	v	c o	f f	none				vd	p	none	none	long	none	
+2192	jai̯	v	c o c	f b f	none				vd	p	none	none	brev	none	
+2190	jau̯	v	c o c	f b b	ur				vd	p	none	none	brev	none	
+2006	jɔ	v	c om	f b	ur				vd	p	none	none	none	none	
+2203	je	v	c cm	f f	none				vd	p	none	none	none	none	
+2321	jɛ	v	c om	f f	none				vd	p	none	none	none	none	
+2197	jeu̯	v	c cm c	f f	ur				vd	p	none	none	brev	none	
+2201	jo	v	c cm	f b	ur				vd	p	none	none	none	none	
+2008	ju	v	c c	f b	ur				vd	p	none	none	none	none	
+56	ɯ	v	c	b	none				vd	p	none	none	none	none	
+199	ɯ̆	v	c	b	none				vd	p	none	none	brev	none	
+528	ɯ̃	v	c	b	n				vd	p	none	none	none	none	
+403	ɯ̞	v	c	b	none				vd	p	lwd	none	none	none	
+1475	ɯ͓	v	c	b	none				vd	p	mc	none	none	none	
+1723	ɯ̞̆	v	c	b	none				vd	p	lwd	none	brev	none	
+1162	ɯ̞̯	v	c	b	none				vd	p	lwd	none	none	none	
+17	ɯː	v	c	b	none				vd	p	none	none	long	none	
+760	ɯ̃ː	v	c	b	n				vd	p	none	none	long	none	
+1729	ɯa	v	c o	b b	none				vd	p	none	none	none	none	
+1511	ɯə	v	c m	b c	none				vd	p	none	none	none	none	
+2258	ɯ̃ə	v	c m	b c	n				vd	p	none	none	none	none	
+1616	ɯi	v	c c	b f	none				vd	p	none	none	none	none	
+1797	ɯʌ	v	c om	b b	none				vd	p	none	none	none	none	
+5	o	v	cm	b	r				vd	p	none	none	none	none	
+1892	ö	v	cm	b	r				vd	p	none	none	none	none	
+1223	ŏ	v	cm	b	r				vd	p	none	none	brev	none	
+337	õ	v	cm	b	nr				vd	p	none	none	none	none	
+725	ɵ	v	cm	c	r				vd	p	none	none	none	none	
+59	ø	v	cm	f	r				vd	p	none	none	none	none	
+553	ŏ̃	v	cm	b	nr				vd	p	none	none	brev	none	
+1796	ɵ̃	v	cm	c	nr				vd	p	none	none	none	none	
+2223	oˀ	v	cm	b	r			pog	vd	p	none	glt	none	none	
+2434	o̘	v	cm	b	r				vd	p	adv	none	none	none	
+2432	o̙	v	cm	b	r				vd	p	ret	none	none	none	
+2071	o̝	v	cm	b	r				vd	p	rzd	none	none	none	
+207	o̞	v	cm	b	r				vd	p	lwd	none	none	none	
+261	o̯	v	cm	b	r				vd	p	none	none	none	none	
+273	õ̞	v	cm	b	r				vd	p	lwd	none	none	none	
+62	ɵ̞	v	cm	c	r				vd	p	lwd	none	none	none	
+588	ø̞	v	cm	f	r				vd	p	lwd	none	none	none	
+1699	ø̠	v	cm	f	r				vd	p	ret	none	none	none	
+2044	oˑ	v	cm	b	r				vd	p	none	none	hl	none	
+1354	ɵ̞̆	v	cm	c	r				vd	p	lwd	none	brev	none	
+2066	o˞	v	cm	b	r				vd	p	none	r	none	none	
+2649	oˤ	v	cm	b	r				vd	p	none	ph	none	none	
+2661	õˤ	v	cm	b	nr				vd	p	none	ph	none	none	
+1143	o̞̟	v	cm	b	r				vd	p	adv	none	none	none	
+667	ɶ̝	v	o	f	r				vd	p	rzd	none	none	none	
+1456	o̞ˤ	v	cm	b	r				vd	p	lwd	ph	none	none	
+1647	õ̞ˤ	v	cm	b	nr				vd	p	lwd	ph	none	none	
+98	ø̞ˤ	v	cm	f	r				vd	p	lwd	ph	none	none	
+1130	ˀo̯	v	cm	b	r			prg	vd	p	none	glt	none	none	
+10	oː	v	cm	b	r				vd	p	none	none	long	none	
+714	õː	v	cm	b	nr				vd	p	none	none	long	none	
+2396	ɵː	v	cm	c	r				vd	p	none	none	long	none	
+899	øː	v	cm	f	r				vd	p	none	none	long	none	
+387	o̘ː	v	cm	b	r				vd	p	none	none	long	none	
+154	o̞ː	v	cm	b	r				vd	p	lwd	none	long	none	
+263	õ̞ː	v	cm	b	nr				vd	p	lwd	none	long	none	
+65	ɵ̞ː	v	cm	c	r				vd	p	lwd	none	long	none	
+1203	ø̞ː	v	cm	f	r				vd	p	lwd	none	long	none	
+1639	o̞ˤː	v	cm	b	r				vd	p	lwd	ph	long	none	
+731	oːu	v	cm c	b b	r				vd	p	none	none	long	none	
+1948	oa	v	cm o	b f	ru				vd	p	none	none	none	none	
+1652	o̞a	v	cm o	b f	ru				vd	p	lwd	none	none	none	
+1688	o̞aˤ	v	cm o	b f	ru				vd	p	lwd	ph	none	none	
+1646	õ̞ã	v	cm o	b f	nru				vd	p	lwd	none	none	none	
+1654	õ̞ãˤ	v	cm o	b f	nru				vd	p	lwd	ph	none	none	
+611	œ	v	om	f	r				vd	p	none	none	none	none	
+2058	oe	v	cm cm	b f	ru				vd	p	none	none	none	none	
+1226	œ̃	v	om	f	nr				vd	p	none	none	none	none	
+2010	oe̞	v	cm cm	b f	ru				vd	p	lwd	none	none	none	
+2403	oɛ	v	cm om	b f	ru				vd	p	none	none	none	none	
+2694	oɘ	v	cm m	b c	ru				vd	p	none	none	none	none	
+2690	øɘ	v	cm m	f c	ru				vd	p	none	none	none	none	
+1662	o̞e̞	v	cm cm	b f	ru				vd	p	lwd	none	none	none	
+1092	œː	v	om	f	r				vd	p	none	none	long	none	
+2693	œi	v	om c	f f	ru				vd	p	none	none	none	none	
+2692	œu	v	om c	f b	r				vd	p	none	none	none	none	
+2167	œy	v	om c	f f	r				vd	p	none	none	none	none	
+1964	oi	v	cm c	b f	ru				vd	p	none	none	none	none	
+2404	oɪ	v	cm nc	b nf	ru				vd	p	none	none	none	none	
+2185	oi̯	v	cm c	b f	ru				vd	p	none	none	breve	none	
+1243	o̞i	v	cm c	b f	ru				vd	p	lwd	none	none	none	
+1644	o̞iˤ	v	cm c	b f	ru				vd	p	lwd	ph	none	none	
+1602	õ̞ĩ	v	cm c	b f	nru				vd	p	lwd	none	none	none	
+1664	õ̞ĩˤ	v	cm c	b f	nru				vd	p	lwd	ph	none	none	
+2342	oj	v	cm	b f	r				vd	p	none	none	none	none	
+2881	oʲ	v	cm c	b f	r				vd	p	none	j	none	none	
+2880	õʲ	v	cm c	b f	nr				vd	p	none	j	none	none	
+519	ou	v	cm c	b b	r				vd	p	none	none	none	none	
+517	oũ	v	cm c	b b	nr				vd	p	none	none	none	none	
+388	ou̙	v	cm c	b b	r				vd	p	none	none	none	none	
+2195	ou̯	v	cm c	b b	r				vd	p	none	none	breve	none	
+2030	oʊ	v	cm nc	b nb	r				vd	p	none	none	none	none	
+2388	õũ	v	cm c	b b	nr				vd	p	none	none	none	none	
+406	o̞u	v	cm c	b b	r				vd	p	lwd	none	none	none	
+2323	ow	v	cm c	b b	r				vd	p	none	none	none	none	
+1426	ʊˤ	v	nc	nb	r				vd	p	none	ph	none	none	
+9	u	v	c	b	r				vd	p	none	none	none	none	
+1894	ü	v	c	b	r				vd	p	none	none	none	none	
+544	ŭ	v	c	b	r				vd	p	none	none	brev	none	
+243	ũ	v	c	b	nr				vd	p	nas	none	none	none	
+176	ʉ	v	c	c	r				vd	p	none	none	none	none	
+543	ŭ̃	v	c	b	nr				vd	p	none	none	brev	none	
+1618	ʉ̆	v	c	c	r				vd	p	none	none	brev	none	
+2014	ʉ̃	v	c	c	r				vd	p	none	none	none	none	
+2225	uˀ	v	c	b	r			pog	vd	p	none	glt	none	none	
+2436	u̘	v	c	b	r				vd	p	adv	none	none	none	
+2430	u̙	v	c	b	r				vd	p	ret	none	none	none	
+2802	u̜	v	c	b	r				vd	p	none	none	none	none	
+2710	u̞	v	c	b	r				vd	p	lwd	none	none	none	
+1549	u͓	v	c	b	r				vd	p	mc	none	none	none	
+1779	ʉ̞	v	c	c	r				vd	p	lwd	none	none	none	
+2355	ʉ̟	v	c	c	r				vd	p	adv	none	none	none	
+64	ʊ	v	nc	nb	r				vd	p	none	none	none	none	
+889	uˑ	v	c	b	r				vd	p	none	none	hl	none	
+1462	uˤ	v	c	b	r				vd	p	none	ph	none	none	
+520	ʊ̈	v	nc	nb	r				vd	p	c	none	none	none	
+733	ʊ̆	v	nc	nb	r				vd	p	none	none	brev	none	
+324	ʊ̃	v	nc	nb	r				vd	p	none	none	none	none	
+2173	ũˤ	v		b	r				vd	p	none	ph	none	none	
+1367	ʊ̙	v	nc	nb	r				vd	p	ret	none	none	none	
+356	ʊ̯	v	nc	nb	r				vd	p	none	none	brev	none	
+15	uː	v	c	b	r				vd	p	none	none	long	none	
+1899	üː	v	c	b	r				vd	p	none	none	long	none	
+217	ũː	v	c	b	nr				vd	p	none	none	long	none	
+656	ʉː	v	nc	c f	r				vd	p	none	none	long	none	
+2711	u̞ː	v	c	b	r				vd	p	lwd	none	long	none	
+285	ʊː	v	nc	nb	r				vd	p	none	none	long	none	
+1792	uˤː	v	c	b	r				vd	p	none	ph	long	none	
+863	ʊ̈ː	v	nc	nb	r				vd	p	c	none	long	none	
+771	ʊ̃ː	v	nc	nb	r				vd	p	none	none	long	none	
+1368	ʊ̙ː	v	nc	nb	r				vd	p	ret	none	long	none	
+2506	uːa	v	c o	b f 	ru				vd	p	none	none	long	none	
+2503	uːʌ	v	c om	b b	ru				vd	p	none	none	long	none	
+1008	ua	v	c o	b f	ru				vd	p	none	none	none	none	
+2806	uã	v	c o	b f	ru				vd	p	none	none	none	none	
+2085	ʊa	v	nc o	nb b	ru				vd	p	none	none	none	none	
+1905	uaː	v	c o	b f	ru				vd	p	none	none	long	none	
+2807	uãː	v	c o	b f	ru				vd	p	none	none	long	none	
+2138	uai	v	c o c	b f f	ru				vd	p	none	none	none	none	
+1090	uɔ	v	c om 	b b	r				vd	p	none	none	none	none	
+2372	ʊɔ	v	nc om	nb b	r				vd	p	none	none	none	none	
+1936	ue	v	c cm	b f	ru				vd	p	none	none	none	none	
+2076	uẽ	v	c cm	b f	ru				vd	p	none	none	none	none	
+1076	uɛ	v	c om	b f	ru				vd	p	none	none	none	none	
+1510	uə	v	c m	b c	ru				vd	p	none	none	none	none	
+2254	ũə	v	c m	b c	nru				vd	p	none	none	none	none	
+2084	ʊe	v	nc cm	nb f	ru				vd	p	none	none	none	none	
+2158	uei	v	c cm c	b f f	ru				vd	p	none	none	none	none	
+2882	uʰ	v	c	b	r			poa	vd	p	none	none	none	none	
+624	ui	v	c c	b f	ru				vd	p	none	none	none	none	
+1069	uɪ	v	c nc	b nf	ru				vd	p	none	none	none	none	
+2260	uɨ	v	c c	b c	ru				vd	p	none	none	none	none	
+2202	ui̯	v	c c	b f	ru				vd	p	none	none	breve	none	
+1603	ũĩ	v	c c	b f	ru				vd	p	none	none	none	none	
+2275	ʉi	v	c c	c f	ru				vd	p	none	none	none	none	
+1598	ʊi	v	nc c	nb f	ru				vd	p	none	none	none	none	
+2239	ʊɪ	v	nc nc	nb nf	ru				vd	p	none	none	none	none	
+2322	uj	v	c c	b f	ru				vd	p	none	none	none	none	
+554	uo	v	c cm	b b	r				vd	p	none	none	none	none	
+402	ʊu	v	nc c	nb b	r				vd	p	none	none	none	none	
+1798	uʌ	v	c om	b b	ru				vd	p	none	none	none	none	
+2842	uy	v	c c	b f	r				vd	p	none	none	none	none	
+227	ʌ	v	om	b	none				vd	p	none	none	none	none	
+779	ʌ̃	v	om	b	n				vd	p	none	none	none	none	
+398	ʌ̯	v	om	b	none				vd	p	none	none	none	none	
+587	ʌː	v	om	b	none				vd	p	none	none	long	none	
+768	ʌ̃ː	v	om	b	n				vd	p	none	none	long	none	
+2259	ʌə	v	om m	b c	none				vd	p	none	none	none	none	
+2075	ʌi	v	om c	b f	none				vd	p	none	none	none	none	
+2196	wa	v	c o	b f	ru				vd	p	none	none	none	none	
+2189	wai̯	v	c o c	b f f	ru				vd	p	none	none	breve	none	
+2194	we	v	c om	b f	ru				vd	p	none	none	none	none	
+2011	wə	v							vd	p	none	none	none	none	
+2187	wei̯	v	c om c	b f f	ru				vd	p	none	none	breve	none	
+2200	wi	v	c c	b f	ru				vd	p	none	none	none	none	
+2198	wo	v	c cm	b b	r				vd	p	none	none	none	none	
+58	y	v	c	f	r				vd	p	none	none	none	none	
+703	ʏ	v	nc	nf	r				vd	p	none	none	none	none	
+897	y̆	v							vd	p	none	none	brev	none	
+1094	ỹ	v	c	f	r				vd	p	nas	none	none	none	
+1912	yʼ	v	c	f	r			pog	vd	ge	none	glt	none	none	
+2573	ˀy	v	c	f	r			prg	vd	p	none	glt	none	none	
+1173	yː	v	c	f	r				vd	p	none	none	long	none	
+2161	ye	v	c om	f f	ru				vd	p	none	none	none	none	
+2837	yə	v	c m	f c	ru				vd	p	none	none	none	none	
+2727	å	v	o	f	none				vl	p	none	none	none	none	
+576	ḁ	v	o	f	none				vl	p	none	none	none	none	
+961	e̥	v	cm	f	none				vl	p	none	none	none	none	
+582	e̞̥	v	cm	f	none				vl	p	none	none	none	none	
+616	ə̥	v	m	c	none				vl	p	none	none	none	none	
+2561	e̥ː	v	cm	f	none				vl	p	none	none	long	none	
+449	i̥	v	c	f	none				vl	p	none	none	none	none	
+654	ɨ̥	v	c	c	none				vl	p	none	none	none	none	
+652	o̞̥	v	cm	b	r				vl	p	lwd	none	none	none	
+459	u̥	v	c	b	r				vl	p	none	none	none	none	

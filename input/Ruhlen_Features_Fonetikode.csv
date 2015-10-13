@@ -1,0 +1,495 @@
+Ruhlen Glyph	PHOIBLE Glyph	General Class	V-V.	V-H.	V-C.	C-P.	C-M.	C-S.	Phon.	Init.	Pri.	2nd	Pros.	Tone.	Notes	N-Phoible	N-Ruhlen
+!ʰ	kǃʰ	c				a	clk	poa	vl	vi	none	none	none	none		0	36
+ǁ		c				a	clk	s	vl	vi	none	l	none	none		0	43
+ǁˀ		c				a	clk	pog	vl	vi	none	l	none	none		0	29
+ǁʰ		c				a	clk	poa	vl	vi	none	l	none	none		0	38
+ǁʱ		c				a	clk	poa	vd	vi	none	l	none	none		0	3
+ǁˀʰ		c				a	clk	poag	vl	vi	none	l	none	none		0	2
+ǁkˣˀ		c				a	clk	pog	vl	vi	none	l	none	none		0	1
+ǁˣ		c				a	clk	c	vl	vi	none	l	none	none		0	26
+ǁˣˀ		c				a	clk	pog	vl	vi	none	l	none	none		0	17
+ɗ̤		c				a	s	s	vd	gi	none	none	none	none		0	1
+dˡ	dl	c				a	s	c	vd	p	none	l	none	none		0	17
+dʳ	dr	c				a	s	c	vd	p	none	r	none	none		0	11
+ᵈtʰ		c				a	s	poa	pvd	p	none	none	none	none		0	2
+ᵈtˢˀ		c				a	af	pog	pvd	p	none	none	none	none		0	2
+ᵈtˢʰ		c				a	af	poa	pvd	p	none	none	none	none		0	2
+ᵈtˢˣ		c				a	af	c	pvd	p	rzd	v	none	none		0	1
+dˣ		c				a	af	c	vd	p	rzd	v	none	none		0	1
+dᶻ	dz	c				a	af	c	vd	p	none	none	none	none		0	431
+dᶻˀ		c				a	af	pog	vd	p	none	none	none	none		0	1
+d̤ᶻ	d̤z	c				a	af	c	b	p	none	none	none	none		0	8
+dᶻʱ		c				a	af	poa	vd	p	none	v	none	none		0	2
+dᶻˣ		c				a	af	c	vf	p	rzd	v	none	none		0	1
+ᵈzˣ		c				a	f	c	pvd	p	rzd	v	none	none		0	1
+dᶻᵞ	dzˠ	c				a	af	c	vd	p	none	v	none	none		0	2
+dᵞ	dˠ	c				a	s	s	vd	p	none	v	none	none		0	2
+G!		c				a	clk	c	vd	vi	none	none	none	none		0	1
+ɡ!	ɡǃ	c				a	clk	c	vd	vi	none	none	none	none		0	30
+G!ʰ		c				a	clk	poa	vd	vi	none	none	none	none		0	1
+ɡ!ˀʰ		c				a	clk	poa, pog	vd	vi	none	none	none	none		0	2
+ɡ!kˣˀ		c				a	clk	pog	vd	vi	rzd	v	none	none		0	4
+ɡ!n		c				a	clk	pon	vd	vi	none	none	none	none		0	9
+ɡ!ˣ		c				a	clk	c	vd	vi	rzd	v	none	none		0	4
+Gǁ		c				a	clk	c	vd	vi	none	l	none	none		0	1
+Gǁʰ		c				a	clk	poa	vd	vi	none	l	none	none		0	1
+ɡǁˀʰ		c				a	clk	poa, pog	vd	vi	none	l	none	none		0	2
+ɡǁkˣˀ		c				a	clk	pog	vd	vi	none	l	none	none		0	4
+ɡǁn		c				a	clk	pon	vd	vi	none	l	none	none		0	14
+ɡǁˣ	ɡǁx	c				a	clk	c	vd	vi	none	l	none	none		0	8
+ʰtˢ		c				a	af	pra	vl	p	none	none	none	none		0	2
+ľ	lˀ	c				a	a	pog	vd	ge	none	none	none	none		0	42
+ɬˀ	ɬʼ	c				a	f	pog	vl	ge	none	l	none	none		0	17
+ɬ̣		c				a	f	s	vl	p	ret	l	none	none		0	2
+l˜		c				a	a	pon	vl	p	nas	none	none	none		0	1
+ɬʰ		c				a	f	poa	vl	p	none	l	none	none		0	1
+lᵚ	lˠ	c				a	a	c	vd	p	none	v	none	none		0	27
+l̥ᵚ		c				a	a	c	vl	p	none	v	none	none		0	1
+n˜		c				a	n	pon	vd	p	none	none	none	none		0	1421
+n˜̥		c				a	n	pon	vl	p	none	none	none	none		0	79
+nǁ	ŋǁ	c				a	clk	prn	vl	vi	none	l	none	none		0	38
+n̥ǁ	ŋ̥ǁ	c				a	clk	prn	vl	vi	none	l	none	none		0	2
+nǁʰ		c				a	clk	prn	vl	vi	none	l	none	none		0	1
+nǁʱ		c				a	clk	prn	vl	vi	none	l	none	none		0	3
+nǁˀʰ		c				a	clk	prn	vl	vi	none	l	none	none		0	2
+n̥ǁʰ		c				a	clk	prn	vl	vi	none	l	none	none		0	3
+nǁn		c				a	clk	prn	vl	vi	none	l	none	none		0	2
+nǁˣ		c				a	clk	prn	vl	vi	none	l	none	none		0	3
+ⁿd	nd	c				a	s	prn	vd	p	none	none	none	none		0	191
+ⁿdʲ	ndʲ	c				a	s	prn	vd	p	none	j	none	none		0	3
+ⁿdˡ	ndl	c				a	s	prn	vd	p	none	l	none	none		0	9
+ⁿdᶻ	ndz	c				a	af	prn	vd	p	none	none	none	none		0	13
+nʱ	nɦ	c				a	n	s	vd	p	none	none	none	none		0	2
+ⁿɾ	nɾ	c				a	t	prn	vd	p	none	r	none	none		0	6
+ⁿs		c				a	f	prn	vl	ge	none	l	none	none		0	0
+ⁿt		c				a	s	prn	vl	ge	none	l	none	none		0	2
+ⁿtʰ		c				a	s	prn	vl	ge	none	l	none	none		0	1
+ⁿtˡˀ		c				a	s	prn	vl	ge	none	l	none	none		0	9
+ⁿtˢ		c				a	af	prn	vl	p	none	l	none	none		0	1
+ⁿtˢʰ		c				a	af	prn	vl	p	none	l	none	none		0	1
+ⁿz	nz	c				a	f	prn	vd	p	none	none	none	none		0	12
+ᵑ!ᶢ		c				a	clk	c	vd	vi	none	none	none	none		0	10
+ᵑǁ	ŋǁ	c				a	clk	prn	vl	vi	none	l	none	none		0	1
+ᵑǁᶢ		c				a	clk	c	vd	vi	none	l	none	none		0	10
+qǁˀ		c				a	clk	pog	vl	vi	none	l	none	none		0	1
+ř	r̝	c				a	tr	s	vd	p	rzd	none	none	none		0	9
+ɹ́		c				a	a	s	vd	p	none	none	none	none	Unknown diacritic: accute accent on consonant	0	1
+ɹ̥		c				a	a	s	vl	p	none	none	none	none		0	1
+ˀɾ		c				a	t	prg	vd	ge	none	none	none	none		0	5
+ɾ˜	ɾ̃	c				a	t	s	vd	p	nas	none	none	none		0	3
+rᶻ̌		c				a	tr	s	vd	p	rzd	none	none	none		0	3
+sʹ	sʼ	c				a	f	pog	vl	ge	none	none	none	none		0	1
+t̯		c				a	s	s	vl	p	none	none	none	none		0	57
+tːˡ		c				a	s	s	vl	p	none	l	long	none		0	3
+tːˡˀ		c				a	s	pog	vl	ge	none	l	long	none		0	3
+tˡ	tl	c				a	af	c	vl	p	none	l	none	none		0	73
+tˡˀ		c				a	af	pog	vl	ge	none	l	none	none		0	154
+tˡ̥	tl	c				a	af	c	vl	p	none	l	none	none		0	1
+tˡʰ	tɬʰ	c				a	af	poa	vl	p	none	l	none	none		0	16
+tˡ̥ʰ	tɬʰ	c				a	af	poa	vl	p	none	l	none	none		0	1
+t̪ᵚ		c				a	s	poa	vl	p	none	v	none	none		0	1
+tʳ		c				a	s	s	vl	p	none	r	none	none		0	16
+tˢ	ts	c				a	af	c	vl	p	none	none	none	none		0	1161
+tˢˀ	tsʼ	c				a	af	pog	vl	ge	none	none	none	none		0	309
+tˢʰ	tsʰ	c				a	af	poa	vl	p	none	none	none	none		0	336
+tˢʱ	tsʱ	c				a	af	poa	vl	p	none	none	none	none		0	2
+tˢˀʷ	tsʷʼ	c				a	af	pog	vl	ge	none	w	none	none		0	1
+tˢˣ		c				a	af	c	vl	p	rzd	v	none	none		0	20
+tˣ		c				a	af	c	vl	p	rzd	v	none	none		0	18
+tˣˀ		c				a	af	pog	vl	ge	rzd	v	none	none		0	5
+zʹ	zˀ	c				a	f	pog	vd	ge	none	none	none	none		0	1
+ˀz		c				a	f	prg	vd	p	none	none	none	none		0	0
+zʱ		c				a	f	poa	vd	p	none	none	none	none		0	2
+tç		c				ap	af	c	vl	p	none	none	none	none		2	0
+tçʰ		c				ap	af	poa	vl	p	none	none	none	none		1	0
+ɡd		c				av	s	c	vd	p	none	none	none	none		0	1
+kt		c				av	s	c	vl	p	none	none	none	none		0	1
+B	ʙ	c				b	tr	s	vd	p	none	none	none	none		0	6
+ɓ̤		c				b	s	s	b	gi	none	none	none	none		0	1
+ˀbˡ		c				b	s	prg	vd	p	none	l	none	none		0	2
+bᵚ	bˠ	c				b	s	s	vd	p	none	v	none	none		0	1
+ᵇpʰ		c				b	s	poa	pvd	p	none	r	none	none		0	1
+bɹ		c				b	s	c	vd	p	none	r	none	none		0	1
+bͮ		c				b	s	s	vd	p	none	none	none	15	Unknown diacritic (rising tone?)	0	16
+bᵝ	bβ	c				b	af	c	vd	p	none	none	none	none		0	1
+Gʘ	ɢʘ	c				b	clk	c	vd	vi	none	none	none	none		0	1
+Gʘʰ		c				b	clk	poa	vd	vi	none	none	none	none		0	1
+ɡʘkˣˀ		c				b	clk	pog	vd	vi	rzd	v	none	none		0	1
+ɡʘˣ		c				b	clk	c	vd	vi	rzd	v	none	none		0	1
+mᶛ	mˤ	c				b	n	s	vd	p	none	ph	none	none	Unkown diacritic: low back rounded vowel	0	2
+ͫb	mb	c				b	s	prn	vd	p	none	none	none	none		0	188
+ͫbˡ		c				b	s	prn	vd	p	none	l	none	none		0	1
+ͫbʷ	mbʷ	c				b	s	prn	vd	p	none	w	none	none		0	1
+mʱ	mɦ	c				b	n	poa	vd	p	none	none	none	none		0	2
+mˡ		c				b	n	s	vd	p	none	l	none	none		0	5
+m̥ˡ		c				b	s	s	vl	p	none	l	none	none		0	3
+mᵚ		c				b	n	s	vd	p	none	v	none	none		0	1
+ͫp	mp	c				b	s	prn	vl	p	none	none	none	none		0	2
+ͫpˀ	mpʼ	c				b	s	pog	vl	ge	none	none	none	none		0	1
+ͫpʰ	mpʰ	c				b	s	poa	vl	p	none	none	none	none		0	3
+nʘ	ŋʘ	c				b	clk	prn	vl	vi	none	none	none	none		0	4
+n̥ʘ	ŋ̥ʘ	c				b	clk	prn	vl	vi	none	none	none	none		0	1
+nʘʱ		c				b	clk	poa	vd	vi	none	none	none	none		0	1
+P		c				b	s	s	vl	p	none	none	none	none	Anomalous Capitalization	0	2
+ɸˀ	ɸʼ	c				b	f	pog	vl	ge	none	none	none	none		0	1
+pˡʰ		c				b	s	poa	vl	p	none	l	none	none		0	5
+pᶲ	pɸ	c				b	af	c	vl	p	none	none	none	none		0	3
+qʘˀ		c				b	clk	pog	vl	vi	none	l	none	none		0	1
+ʘ		c				b	clk	c	vl	vi	none	none	none	none		0	5
+ʘˀ		c				b	clk	pog	vl	vi	none	none	none	none		0	3
+ʘʰ		c				b	clk	poa	vl	vi	none	none	none	none		0	3
+ʘʱ		c				b	clk	poa	vd	vi	none	none	none	none		0	1
+ʘkˣˀ		c				b	clk	pog	vl	vi	none	none	none	none		0	1
+ʘˣ		c				b	clk	c	vl	vi	none	none	none	none		0	3
+ʘˣˀ		c				b	clk	pog	vl	vi	none	none	none	none		0	1
+β˜		c				b	f	pon	vd	p	nas	none	none	none		0	1
+bd		c				ba	af	c	vd	p	none	none	none	none		0	1
+bɗ		c				ba	af	c	vd	gi	none	none	none	none		0	0
+bdᶻ		c				ba	af	c	vd	p	none	none	none	none		0	0
+bɮ		c				ba	af	c	vd	gi	none	none	none	none		0	0
+bᶻ̌	bz	c				ba	af	c	vd	p	none	none	none	15	Unknown diacritic (rising tone?)	0	2
+dᵝ		c				ba	af	c	vd	p	none	none	none	none		0	1
+mn˜		c				ba	n	pon	vd	p	none	none	none	none		0	0
+nm		c				ba	n	c	vd	p	none	none	none	none		0	0
+pˡ		c				ba	s	c	vl	p	none	l	none	none		0	6
+pˢ		c				ba	s	c	vl	p	none	none	none	none		0	2
+ɸˢ		c				ba	f	c	vl	p	none	none	none	none		0	1
+ptˢ		c				ba	af	c	vl	p	none	none	none	none		0	0
+tᴮ	t̪ʙ	c				ba	tr	c	vd	p	none	none	none	none		0	1
+tp		c				ba	s	c	vl	p	none	none	none	none		0	0
+tᶲʰ		c				ba	af	poa	vl	p	none	none	none	none		0	1
+ͫbͮ	mbv	c				bld	af	prn	vd	p	none	none	none	none		0	10
+ͫpᶠˀ		c				bld	af	prn	vl	ge	none	none	none	none		0	9
+pᶠ	pf	c				bld	af	c	vl	p	none	none	none	none		0	57
+pᶠˀ		c				bld	af	pog	vl	p	none	none	none	none		0	2
+pᶠʰ		c				bld	af	poa	vl	p	none	none	none	none		0	1
+bɡ̌		c				bpa	af	c	vd	p	none	none	none	none		0	0
+pč		c				bpa	af	c	vl	p	none	none	none	none		0	0
+pˢ̌ˀ		c				bpa	s	pog	vl	p	none	none	none	none		0	2
+pˢ̌ʰ		c				bpa	s	poa	vl	p	none	none	none	none		0	2
+/		c				d	clk	s	vl	vi	none	none	none	none		0	44
+/ˀ	kǀʼ	c				d	clk	pog	vl	ge	none	none	none	none		0	30
+/ʰ		c				d	clk	poa	vl	vi	none	none	none	none		0	39
+/ʱ		c				d	clk	poa	vd	vi	none	none	none	none		0	3
+/ˀʰ		c				d	clk	poag	vl	vi	none	none	none	none		0	2
+/kˣˀ		c				d	clk	pog	vl	vi	none	va	none	none		0	1
+/ˣ		c				d	clk	c	vl	vi	none	vf	none	none		0	26
+/ˣˀ		c				d	clk	pog	vl	vi	none	vf	none	none		0	17
+d̯	d̪	c				d	s	s	vd	p	none	none	none	none	Unknown diacritic, under hemi-circle. Assuming dental.	0	30
+dᶞ	d̪ð	c				d	af	c	vd	p	none	none	none	none		0	2
+d̯ᶞ	d̪ð	c				d	af	c	vd	p	none	none	none	none	Unknown diacritic, under hemi-circle. Assuming dental.	0	1
+ᵈt̪ˀ		c				d	s	prg	pvd	p	none	none	none	none		0	1
+ᵈt̪ˣ		c				d	af	c	pvd	p	rzd	v	none	none		0	1
+G/		c				d	clk	c	vd	vi	none	none	none	none		0	1
+ɡ/	ɡǀ	c				d	clk	c	vd	vi	none	none	none	none		0	37
+G/ʰ		c				d	clk	poa	vd	vi	none	none	none	none		0	1
+ɡ/ˀʰ		c				d	clk	poa, pog	vd	vi	none	none	none	none		0	2
+ɡ/kˣˀ		c				d	clk	pog	vd	vi	rzd	v	none	none		0	4
+ɡ/n		c				d	clk	pon	vd	vi	none	none	none	none		0	14
+ɡ/ˣ	ɡǀx	c				d	clk	c	vd	vi	rzd	v	none	none		0	6
+l̯	l̪	c				d	a	c	vd	p	none	l	none	none	Unknown diacritic, under hemi-circle. Assuming dental.	0	38
+n̯	n̪	c				d	n	s	vd	p	none	none	none	none	Unknown diacritic, under hemi-circle. Assuming dental.	0	72
+ˀn̪	ˀn̪̥	c				d	n	prg	vl	p	none	none	none	none		0	0
+n/	ŋǀ	c				d	clk	prn	vl	vi	none	none	none	none		0	40
+n̥/	ŋ̥ǀ	c				d	clk	prn	vl	vi	none	none	none	none		0	2
+ˀn/	ʼŋǀ	c				d	clk	prg	vl	ge	none	none	none	none		0	1
+n/ʰ	ŋǀʰ	c				d	clk	poa	vl	vi	none	none	none	none		0	2
+n/ʱ	ŋǀʰ	c				d	clk	poa	vd	vi	none	none	none	none		0	3
+n/ˀʰ	ŋǀʰ	c				d	clk	poa, pog	vl	vi	none	none	none	none		0	2
+n̥/ʰ	ŋ̥ǀ͓ʰ	c				d	clk	poa	vl	vi	mc	none	none	none		0	3
+n/n		c				d	clk	c	vd	vi	nas	none	none	none		0	2
+n/ˣ		c				d	clk	c	vl	vi	nas	none	none	none		0	3
+ⁿd̪	nd̪	c				d	s	prn	vd	p	none	none	none	none		0	1
+ⁿ̯d̯	n̪d̪	c				d	s	prn	vd	p	none	none	none	none		0	1
+ⁿd̪ᶻ	n̪d̪z̪	c				d	af	prn	vd	p	none	none	none	none		0	3
+n̪ᵚ		c				d	n	s	vd	p	none	v	none	none		0	1
+ᵑ/	ŋǀ	c				d	clk	prn	vl	vi	none	none	none	none		0	2
+ᵑ/ᶢ		c				d	clk	prn	vl	vi	none	none	none	none		0	11
+q/		c				d	clk	c	vl	vi	none	none	none	none		0	10
+q/ˀ		c				d	clk	pog	vl	vi	none	none	none	none		0	1
+q/ʰ		c				d	clk	poa	vl	vi	none	none	none	none		0	1
+ˀs̪		c				d	f	prg	vl	ge	none	none	none	none		0	1
+s̪ːˀ		c				d	f	pog	vl	ge	none	none	long	none		0	3
+t̯ʰ		c				d	s	s	vl	p	none	none	none	none		0	1
+ˀt̪ʰ		c				d	s	prg,poa	vl	p	none	none	none	none		0	2
+tᶿ	t̪θ	c				d	af	c	vl	p	none	none	none	none		0	8
+tᶿˀ	t̪θʼ	c				d	af	pog	vl	ge	none	none	none	none		0	43
+tᶿʰ	t̪θʰ	c				d	af	poa	vl	p	none	none	none	none		0	6
+z̪ʲ		c				d	f	s	vd	p	none	j	none	none		0	1
+ɡᵞ		c				g	f	s	vd	p	none	v	none	none		0	2
+ˀh		c				g	f	prg	vl	p	none	none	none	none		0	1
+h˜	h̃	c				g	f	s	vl	p	nas	none	none	none		0	11
+hᵚ		c				g	f	c	vl	p	none	v	none	none		0	1
+ʔ˜		c				g	s	pon	vl	p	nas	none	none	none		0	2
+ʔʰ		c				g	s	poa	vl	p	none	none	none	none		0	1
+ˀð		c				i	f	prg	vd	p	none	none	none	none		0	2
+fˀ	fʼ	c				ld	f	pog	vl	ge	none	none	none	none		0	4
+fç		c				ld	f	c	vl	p	none	none	none	none		0	0
+fs		c				ld	f	c	vl	p	none	none	none	none		0	0
+fˢ̌		c				ld	f	c	vl	p	none	none	none	none		0	2
+ͫv	mv	c				ld	f	c	vd	p	none	w	none	none		0	3
+ᵑͫɡb	ŋmɡb	c				lv	s	prn	vd	p	none	none	none	none		0	5
+pˀkˣˀ		c				lv	af	pog	vl	p	none	none	none	none		0	1
+w˜	w̃	c				lv	a	s	vd	p	nas	none	none	none		0	13
++		c				p	clk	s	vl	vi	none	none	none	none	Unknown transcription; palatal click assumed	0	0
+ǂ		c				p	clk	s	vl	vi	none	none	none	none		0	22
+ǂˀ		c				p	clk	pog	vl	vi	none	none	none	none		0	20
+ǂˀ		c				p	clk	pog	vl	vi	none	none	none	none		0	0
+ǂʰ		c				p	clk	poa	vl	vi	none	none	none	none		0	21
+ǂʱ		c				p	clk	poa	vd	vi	none	none	none	none		0	3
+ǂˀʰ		c				p	clk	poag	vl	vi	none	none	none	none		0	2
+ǂkˣˀ		c				p	clk	pog	vl	vi	none	va	none	none		0	1
+ǂkˣˀ		c				p	clk	pog	vl	vi	none	va	none	none		0	0
+ǂˣ		c				p	clk	c	vl	vi	none	vf	none	none		0	19
+ǂˣ		c				p	clk	c	vl	vi	none	vf	none	none		0	0
+ǂˣˀ		c				p	clk	pog	vl	vi	none	vf	none	none		0	15
+cʹ	cʼ	c				p	s	pog	vl	ge	none	none	none	none		0	35
+cˀ	cʼ	c				p	s	pog	vl	ge	none	none	none	none		0	15
+cʹˀ	cʼ	c				p	s	pog	vl	ge	none	none	none	none		0	0
+c̣	c	c				p	s	s	vl	p	ret	none	none	none	Unknown diacrtic (underdot); assuming retracted	0	1
+c̥	c	c				p	s	s	vl	p	none	none	none	none		0	5
+c̯	c	c				p	s	s	vl	p	none	none	none	none	Redundant non-syllabic diacritic	0	3
+ç̟	ç̟	c				p	f	s	vl	p	adv	none	none	none		1	0
+çː	çː	c				p	f	s	vl	p	none	none	long	none		1	0
+c̣ː		c				p	f	s	vl	p	ret	none	long	none	Unknown diacrtic (underdot); assuming retracted. Extra length not accounted for (does not occur in PHOIBLE)	0	1
+cːː	cː	c				p	s	s	vl	p	none	none	long	none		0	1
+cᶛ	c	c				p	s	s	vl	p	none	ph	none	none	Unknown diacritic (low back rounded vowel); assuming rounded	0	78
+cçʼ	cçʼ	c				p	af	pog	vl	ge	none	none	none	none		3	0
+cçː		c				p	af	c	vl	p	none	none	long	none		2	0
+cʲ̱		c				p	s	s	vl	p	ret	j	none	none		0	1
+çʲ		c				p	f	s	vl	p	none	j	none	none		3	0
+cʲː		c				p	s	s	vl	p	none	j	long	none		0	10
+cʲʷ		c				p	s	s	vl	p	none	jw	long	none		0	1
+cᵚ		c				p	s	s	vl	p	none	v	long	none		0	12
+cᴺ		c				p	s	s	vl	p	nas	none	long	none		0	1
+Gǂ		c				p	clk	c	vd	vi	none	none	none	none		0	1
+Gǂʰ		c				p	clk	poa	vd	vi	none	none	none	none		0	1
+ɡǂˀʰ		c				p	clk	poa, pog	vd	vi	none	none	none	none		0	2
+ɡǂkˣˀ		c				p	clk	pog	vd	vi	none	none	none	none		0	4
+ɡǂn		c				p	clk	pon	vd	vi	none	none	none	none		0	8
+ɡǂˣ		c				p	clk	c	vd	vi	rzd	v	none	none		0	2
+ɥ˜	ɥ̃	c				p	a	s	vd	p	nas	none	none	none		0	1
+ʰcᴺ		c				p	s	pra, pon	vl	p	none	none	none	none		0	1
+ɟ́		c				p	s	s	vd	p	none	none	none	none	Unknown diacritic: accute accent on consonant	0	3
+j̤		c				p	a	s	b	p	none	none	none	none		0	2
+j^		c				p	a	s	vd	p	none	none	none	none	Unknown diacritic: Circumflex?	0	4
+ȷ˜	j̃	c				p	a	s	vd	p	nas	none	none	none		0	6
+n̥˜	ɲ̥	c				p	n	s	vl	p	none	none	none	none		0	6
+ˀn˜		c				p	n	prg	vd	ge	none	none	none	none		0	3
+nǂ	ŋǂ	c				p	clk	prn	vl	vi	none	none	none	none		0	18
+n̥ǂ		c				p	clk	prn	vl	vi	none	none	none	none		0	1
+nǂʱ		c				p	clk	prn	vl	vi	none	none	none	none		0	3
+nǂˀʰ		c				p	clk	prn	vl	vi	none	none	none	none		0	2
+n̥ǂʰ		c				p	clk	prn	vl	vi	none	none	none	none		0	3
+nǂn		c				p	clk	prn	vl	vi	none	none	none	none		0	2
+nǂˣ		c				p	clk	prn	vl	vi	none	none	none	none		0	1
+ᴺc		c				p	s	prn	vl	p	none	none	none	none		0	248
+ⁿ̃ɟ	ɲɟ	c				p	s	prn	vd	p	none	none	none	none		0	20
+ⁿ̃ž	ɲʒ	c				p	f	prn	vd	p	none	none	none	none		0	4
+ʎ̣		c				p	a	s	vd	p	none	none	none	none		0	1
+ʎᵚ		c				p	a	s	vd	p	none	v	none	none		0	1
+!	ǃ	c				pa	clk	s	vl	vi	none	none	none	none		0	39
+!ˀ		c				pa	clk	pog	vl	vi	none	none	none	none		0	26
+!ʱ		c				pa	clk	poa	vd	vi	none	none	none	none		0	3
+!ˀʰ		c				pa	clk	poag	vl	vi	none	none	none	none		0	2
+!kˣˀ		c				pa	clk	pog	vl	vi	none	va	none	none		0	1
+!ˣ		c				pa	clk	c	vl	vi	none	vf	none	none		0	22
+!ˣˀ		c				pa	clk	pog	vl	vi	none	vf	none	none		0	16
+č	tʃ	c				pa	af	c	vl	p	none	none	none	none		0	1733
+čˀ	tʃʼ	c				pa	af	pog	vl	ge	none	none	none	none		0	368
+č̣	t̠ʃ	c				pa	af	c	vl	p	ret	none	none	none	Unknown diacrtic (underdot); assuming retracted	0	32
+č̣ˀ	t̠ʃˀ	c				pa	af	pog	vl	ge	ret	none	none	none	Unknown diacrtic (underdot)	0	9
+čː		c				pa	af	c	vl	p	none	none	long	none		0	6
+čʰ	tʃʰ	c				pa	af	poa	vl	p	none	none	none	none		0	335
+č̣ʰ	t̠ʃʰ	c				pa	af	poa	vl	p	ret	none	none	none		0	7
+čʰʷ		c				pa	af	poa	vl	p	ret	w	none	none		0	1
+čʲ		c				pa	af	s	vl	p	none	j	none	none		0	0
+čʷ	tʃʷ	c				pa	af	c	vl	p	ret	w	none	none		0	1
+cˣ		c				pa	af	c	vl	p	ret	none	none	none		0	7
+čˣ	t̠ʃx	c				pa	af	c	vl	p	ret	none	none	none		0	6
+ᵈčˀ		c				pa	af	pog	pvd	ge	none	none	none	none		0	1
+ᵈžʰ		c				pa	af	poa	pvd	p	none	v	none	none		0	1
+ᵈžˣ		c				pa	f	c	pvd	p	rzd	v	none	none		0	1
+ɠ̌		c				pa	af	c	vd	vi	none	none	none	none		0	2
+ɡ̌	dʒ	c				pa	af	c	vd	p	none	none	none	none		0	901
+ɡ̣̌	d̠ʒ	c				pa	af	c	vd	p	ret	none	none	none		0	5
+ɡ̤̌	d̤ʒ̤	c				pa	af	c	b	p	none	none	none	none		0	46
+ɡ̰̌		c				pa	af	c	c	p	none	none	none	none		0	1
+ˀɡ̌		c				pa	af	pog	vd	ge	none	none	none	none		0	5
+ɡ̌ː		c				pa	af	c	vd	p	none	none	long	none		0	6
+ɡ̌ʷ		c				pa	af	c	vd	p	none	w	none	none		0	1
+ʰč		c				pa	af	pra	vl	p	none	none	none	none		0	2
+ᶡčˀ		c				pa	af	c	pvd	p	none	none	none	none		0	1
+ᶡčʰ		c				pa	af	c	pvd	p	none	none	none	none		0	1
+n!	ŋǃ	c				pa	clk	prn	vl	vi	none	none	none	none		0	33
+n̥!	ŋ̥ǃ	c				pa	clk	prn	vl	vi	none	none	none	none		0	2
+ˀn!	ʼŋǃ	c				pa	clk	prg	vl	ge	none	none	none	none		0	1
+n!ʰ	ŋǃʰ	c				pa	clk	poa	vl	vi	none	none	none	none		0	1
+n!ʱ		c				pa	clk	poa	vd	vi	none	none	none	none		0	3
+n!ˀʰ		c				pa	clk	poa, pog	vl	vi	none	none	none	none		0	2
+n̥!ʰ		c				pa	clk	poa	vl	vi	none	none	none	none		0	3
+n!n		c				pa	clk	c	vd	vi	nas	none	none	none		0	2
+n!ˣ		c				pa	clk	c	vl	vi	none	none	none	none		0	1
+ⁿ̃čʰ	n̠t̠ʃʰ	c				pa	af	poa	vl	p	ret	none	none	none		0	1
+ⁿ̃ɡ̌		c				pa	af	prn	vd	p	none	none	none	none		0	52
+ⁿ̃ɡ̣̌		c				pa	af	prn	vd	p	none	none	none	none		0	1
+ᵑ!	ŋǃ	c				pa	clk	prn	vl	vi	none	none	none	none		0	1
+q!	qǃ	c				pa	clk	c	vl	vi	none	none	none	none		0	7
+q!ˀ		c				pa	clk	pog	vl	vi	none	none	none	none		0	1
+q!ʰ		c				pa	clk	poa	vl	vi	none	none	none	none		0	1
+qǂˀ		c				pa	clk	pog	vl	vi	none	none	none	none		0	1
+ɾ̌		c				pa	t	s	vd	p	none	none	none	none		0	1
+š	ʃ	c				pa	f	s	vl	p	none	none	none	none		0	1583
+šˀ	ʃˀ	c				pa	f	pog	vl	ge	none	none	none	none		0	23
+ṣ̌		c				pa	f	s	vl	p	ret	none	none	none		0	62
+ṣˀ	ʃˀ	c				pa	f	pog	vl	ge	none	none	none	none		0	4
+šːˀ		c				pa	f	pog	vl	p	none	none	long	none		0	3
+šʰ	ʃʰ	c				pa	f	poa	vl	p	none	none	none	none		0	4
+šʲ	ʃʲ	c				pa	f	s	vl	p	none	j	none	none		0	2
+šʷ	ʃʷ	c				pa	f	s	vl	p	none	w	none	none		0	2
+ž	ʒ	c				pa	f	s	vd	p	none	none	none	none		0	576
+ẓ̌		c				pa	f	s	vd	p	ret	none	none	none		0	19
+žʱ		c				pa	f	s	vd	p	none	none	none	none		0	2
+ʕˀ	ʕʼ	c				ph	s	pog	vd	ge	none	none	none	none		0	4
+ʕˀʷ	ʕʷʼ	c				ph	a	pog	vd	ge	none	w	none	none		0	5
+ḍ	ɖ	c				r	s	s	vd	p	none	none	none	none	Assuming retroflex for underdot with coronal	0	254
+ḍˀ		c				r	s	pog	vd	ge	none	none	none	none		0	1
+ɗ̣	ᶑ	c				r	i	s	vd	gi	none	none	none	none		0	22
+d̤̣	ɖ̤	c				r	s	s	b	p	none	none	none	none		0	42
+ḍ̰	ɖ̰	c				r	s	s	c	p	none	none	none	none		0	1
+ˀɗ̣	ᶑʼ	c				r	s	pog	vd	ge	none	none	none	none		0	4
+ḍː	ɖː	c				r	s	s	vd	p	none	none	long	none		0	1
+ḍʳ	ɖr	c				r	s	c	vd	p	none	r	none	none		0	2
+ḍᶻ	ɖʐ	c				r	af	c	vd	p	none	none	none	none		0	7
+ḷ	ɭ	c				r	a	s	vd	p	none	l	none	none		0	165
+ḷ̌		c				r	a	s	vd	p	none	l	none	none	Unkown diacritic: caron 	0	10
+ḷ̤		c				r	a	s	b	p	none	l	none	none		0	2
+ḷ̥	ɭ̥	c				r	a	s	vl	p	none	l	none	none		0	1
+ṇ	ɳ	c				r	n	s	vd	p	none	none	none	none		0	207
+ṇ̤	ɳ̤	c				r	n	s	b	p	none	none	none	none		0	1
+ṇ̥	ɳ̥	c				r	n	s	vl	p	none	none	none	none		0	2
+ⁿḍ	ɳɖ	c				r	s	prn	vd	p	none	none	none	none		0	7
+ɾ̣̤	ɽ̤	c				r	t	s	b	p	none	none	none	none		0	6
+ṛ	ɻ	c				r	a	s	vd	p	none	none	none	none	Retroflex trills are theoretically impossible. Assuming approximant	0	77
+ṛ̥		c				r	a	s	vl	p	none	none	none	none		0	3
+ɹ̣	ɻ	c				r	a	s	vd	p	none	none	none	none		0	145
+ɹ̣̥		c				r	a	s	vl	p	none	none	none	none		0	1
+ɾ̣	ɽ	c				r	t	s	vd	p	none	none	none	none		0	91
+rᵚ		c				r	a	s	vd	p	none	v	none	none		0	2
+ṛʷ		c				r	a	s	vd	p	none	w	none	none		0	1
+ṣ	ʂ	c				r	f	s	vl	p	none	none	none	none		0	96
+ṭ	ʈ	c				r	s	s	vl	p	none	none	none	none		0	423
+ṭˀ	ʈˀ	c				r	s	pog	vl	ge	none	none	none	none		0	42
+ṭʰ	ʈʰ	c				r	s	poa	vl	p	none	none	none	none		0	216
+ṭʳ	ʈr	c				r	s	c	vl	p	none	r	none	none		0	3
+ṭˢ	ʈʂ	c				r	s	s	vl	p	none	none	none	none		0	32
+ṭˢˀ	ʈʂʼ	c				r	af	pog	vl	ge	none	none	none	none		0	6
+ṭˢʰ	ʈʂʰ	c				r	af	poa	vl	p	none	none	none	none		0	23
+ẓ	ʐ	c				r	f	s	vd	p	none	none	none	none		0	25
+z̥̣		c				r	f	s	vl	p	none	none	none	none		0	1
+ˀẓ		c				r	f	prg	vd	p	none	none	none	none		0	1
+ͨN		c				u	n	s	vd	p	none	none	none	none	Unknown diacritic: superscript C	0	1
+G	ɢ	c				u	s	s	vd	p	none	none	none	none		0	41
+ᴳqʰ		c				u	s	poa	pvd	p	none	none	none	none		0	1
+Gʷ	ɢʷ	c				u	s	s	vd	p	none	w	none	none		0	2
+ᴺG	ɴɢ	c				u	n	prn	vd	p	none	none	none	none		0	2
+qːᵡ	qχː	c				u	af	c	vl	p	none	none	long	none		0	5
+qːᵡˀ	qχˀː	c				u	af	c	vl	p	none	none	long	none		0	4
+qᶛ	qˤ	c				u	s	s	vl	p	none	ph	none	none		0	1
+qʰʷ	qʷʰ	c				u	s	poa	vl	p	none	w	none	none		0	4
+qˀʷ	qʷˀ	c				u	s	pog	vl	ge	none	w	none	none		0	112
+qᵡ	qχ	c				u	af	c	vl	p	none	none	none	none		0	18
+qᵡˀ	qχʼ	c				u	af	pog	vl	ge	none	none	none	none		0	17
+qᵡʰ		c				u	af	poa	vl	p	none	none	none	none		0	2
+qᵡʷ		c				u	af	c	vl	p	none	w	none	none		0	1
+qᵡˀʷ		c				u	af	pog	vl	p	none	w	none	none		0	1
+R	ʀ	c				u	tr	s	vd	p	none	none	none	none		0	2
+ʁˀ		c				u	f	pog	vd	p	none	none	none	none		0	0
+ˀʁ		c				u	f	prg	vd	p	none	none	none	none		0	0
+ˀʁʷ		c				u	f	prg	vd	p	none	w	none	none		0	0
+ɡ́		c				v	s	s	vd	p	none	none	none	none	Unknown diacritic: accute accent on consonant	0	0
+ɠ̤		c				v	s	s	b	gi	none	none	none	none		0	1
+ɡˀ		c				v	s	pog	vd	p	none	none	none	none		0	1
+ˀɣ		c				v	f	prg	vd	ge	none	none	none	none		0	1
+ɡ^		c				v	s	s	vd	p	none	none	none	none	Unknown diacritic: Circumflex?	0	2
+ɣ˜		c				v	f	s	vd	p	none	none	none	none		0	2
+ɡːʷ		c				v	s	s	vd	p	none	w	long	none		0	6
+ᶢkʰ		c				v	s	poa	pvd	p	none	none	none	none		0	2
+k^		c				v	s	c	vl	p	none	none	long	none	Uknown diacritic: Circumflex	0	2
+kːˣ	kxː	c				v	af	c	vl	p	none	none	long	none		0	4
+kːˣˀ		c				v	af	pog	vl	p	none	none	long	none		0	2
+kˀʲ		c				v	s	pog	vl	ge	none	l	none	none		0	1
+kˡ		c				v	s	c	vl	ge	none	l	none	none		0	1
+kˡˀ		c				v	s	pog	vl	ge	none	l	none	none		0	9
+kᵚ		c				v	af	c	vl	p	none	v	none	none		0	1
+kˀʷ	kʷˀ	c				v	s	pog	vl	ge	none	w	none	none		0	141
+kˣ	kx	c				v	af	c	vl	p	none	none	none	none		0	11
+kˣˀ	kxʼ	c				v	af	pog	vl	ge	none	none	none	none		0	22
+L	ʟ	c				v	a	s	vd	p	none	l	none	none		0	12
+L̥		c				v	a	s	vl	p	none	l	none	none		0	1
+ŋˀ		c				v	n	pog	vd	p	none	none	none	none		0	2
+ŋ^		c				v	n	s	vd	p	none	none	none	none	Unknown diacritic: Circumflex?	0	3
+ᵑɡ	nɡ	c				v	s	prn	vd	p	none	none	none	none		0	180
+ᵑɡʷ	ŋɡʷ	c				v	s	prn	vd	p	none	w	none	none		0	6
+ᵑk	ŋk	c				v	s	prn	vl	p	none	none	none	none		0	4
+ᵑkʰ	ŋkʰ	c				v	s	poa	vl	p	none	none	none	none		0	1
+ᵑkʷ	ŋkʷ	c				v	s	prn	vl	p	none	w	none	none		0	0
+ŋᵚ		c				v	n	s	vd	p	none	v	none	none		0	1
+ˀŋʷ		c				v	n	prg	vd	p	none	w	none	none		0	6
+xˀ	xʼ	c				v	f	pog	vl	ge	none	none	none	none		0	4
+xʰ	xh	c				v	f	poa	vl	p	none	none	none	none		0	1
+xˀʷ	xʷʼ	c				v	f	pog	vl	ge	none	w	none	none		0	1
+ɑ̯		v	o	b	none				vd	p	none	none	nsyl	none		0	1
+e̅		v	cm	f	none				vd	p	none	none	none	none	Unkown diacritic: bar over	0	1
+e˃		v	cm	f	none				vd	p	none	none	none	none	Unkown diacritic: Greater than	0	1
+ʮ															Unknown symbol; No feature assignment possible	0	225
+ʯ															Unknown symbol; No feature assignment possible	0	313
+ʮˀ																0	1
+ʯˀ																0	2
+ʮː																0	1
+ʯʷ															Unknown symbol; No feature assignment possible	0	114
+ʯˀʷ																0	1
+I	ɪ	v	nc	nf	none				vd	p	none	none	none	none		0	583
+I̤	ɪ̤	v	nc	nf	none				b	p	none	none	none	none		0	2
+ɨ̅		v	c	c	none				b	p	none	none	none	none	Unknown diacritic: Combining bar over	0	1
+i̱	i	v	c	f	none				vd	p	ret	none	none	none		0	2
+ɨ̤		v	c	c	none				b	p	none	none	none	none		0	2
+ɨ̯		v	c	c	none				vd	p	none	none	nsyl	none		0	3
+ɯ̌		v	c	b	none				vd	p	none	none	none	none	Unknown diacritic: Hacek	0	1
+ɯ̯	ɯ	v	c	b	none				vd	p	none	none	nsyl	none		0	4
+n+															Unknown symbol: plus sign, might be palatal click?	0	0
+nasalharmony															Unknown symbol; No feature assignment possible	0	39
+o˂		v	cm	b	r				vd	p	none	none	none	none	Unknown diacrtic: Less than	0	1
+u̱	u̙	v	c	b	r				vd	p	ret	none	none	none		0	2
+v̆		v			n				vd	p	ret	none	brev	none		0	2
+v̊		v			n				vl	p	none	none	none	none		0	17
+v̅		v			n				vl	p	none	none	none	none	Unkown diacritic: bar-through	0	3
+vˀ		v			n			pog	vd	p	none	none	none	none		0	3
+v̥		v			n				vl	p	none	none	none	none		0	11
+v̰		v			n				c	p	none	none	none	none		0	39
+v̱		v			n				vd	p	ret	none	none	none		0	3
+v̤̅		v			n				b	p	none	none	none	none	Unkown diacritic: bar-through	0	1
+ˀv		v			n			prg	vd	p	none	none	none	none		0	1
+vˀ_v		v			n			pog	vd	p	none	none	none	none		0	1
+v˜		v			n				vd	p	nas	none	none	none		0	682
+v˜̤		v			n				b	p	nas	none	none	none		0	4
+v˜̰		v			n				c	p	nas	none	none	none		0	9
+v˜ː		v			n				vd	p	nas	none	long	none		0	210
+v˜ᶛ		v			n				vd	p	nas	ph	none	none		0	4
+vː̤		v			n				b	p	none	none	long	none		0	1
+vː̰		v			n				c	p	none	none	long	none		0	1
+v̤ː		v			n				b	p	none	none	long	none		0	8
+v̰ː		v			n				c	p	none	none	long	none		0	7
+̅vː		v			n				vd	p	none	none	long	none	Unkown diacritic: Macron	0	2
+̱vː		v			n				vd	p	ret	none	none	none		0	1
+vᶛ		v			n				vd	p	none	ph	none	none	Uknown diacritic: Circumflex	0	6
+vj^		v			n				vd	p	none	none	none	none	Unknown diacritic: Circumflex?	0	0
+vowelharmony															Unknown symbol; No feature assignment possible	0	221
+vowelharmony_TR															Unknown symbol; No feature assignment possible	0	1
+vˀv		v			n			pog	vd	p	none	none	none	none		0	0
+vz															Unclear: abstract vowel or labiodental-alveolar fricative?	0	0
+vʔ															Unclear: abstract vowel post-glottalized labiodental fricative?	0	0
+Y	ʏ	v	nc	nf	r				vd	p	none	none	none	none		0	45
+ʯʷ	χʷ	c				u	f	s	vl	p	none	w	none	none			
+ʯ	χ	c				u	f	s	vl	p	none	none	none	none			
+ʮ	θ	c				i	f	s	vl	p	none	none	none	none			
