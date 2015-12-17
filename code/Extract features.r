@@ -100,7 +100,7 @@ for( i in 1:nrow(phoible.inventories) )
 # Keep only those with actual data:
 phoible.inventories <- phoible.inventories[ tokeep, ];
 phoible.inventories <- phoible.inventories[ order(phoible.inventories$UULID), ];
-save(phoible.inventories, file="../output/inventories-phoible.RData", compress="xz");
+save(phoible.inventories, file="../output/inventories-phoible.RData", compress="gzip");
   
 # The Ruhlen (Creanza et al., 2015) inventories, extracted from the SI files pnas.1424033112.sd01.txt and pnas.1424033112.sd02.txt (see description of the format in these files):
 # Get the segments from pnas.1424033112.sd02.txt:
@@ -116,7 +116,7 @@ rhulen.inventories <- rhulen.inventories[, -(12:19)];
 rhulen.inventories <- rhulen.inventories[ order(rhulen.inventories$UULID), ];
 # Give them appropriate names:
 names(rhulen.inventories)[12:ncol(rhulen.inventories)] <- rhulen.segments;
-save(rhulen.inventories, file="../output/inventories-rhulen.RData", compress="xz");
+save(rhulen.inventories, file="../output/inventories-rhulen.RData", compress="gzip");
 # Remove from Ruhlen the "c" and "v" (and variants):
 rhulen.inventories <- rhulen.inventories[, -c(grep("c",names(rhulen.inventories),fixed=TRUE), grep("v",names(rhulen.inventories),fixed=TRUE))];
 
@@ -540,6 +540,10 @@ feature.defs <- c(feature.defs, "dental.c"=".cfv_dental.c");
 feature.defs <- c(feature.defs, "alveolar.c"=".cfv_alveolar.c");
 .cfv_alveolar.c_F <- cmpfun( function(x){ .(x,"GC:c") & .(x,"CP:a"); } )
 .cfv_alveolar.c_P <- cmpfun( function(x){ .(x,"-syll") & .(x,"0labiodent") & .(x,"+coronal") & .(x,"+anterior") & .(x,"-distrib"); } )
+
+feature.defs <- c(feature.defs, "dental_alveolar.c"=".cfv_dental_alveolar.c");
+.cfv_dental_alveolar.c_F <- cmpfun( function(x){ .cfv_dental.c_F(x) | .cfv_alveolar.c_F(x); } )
+.cfv_dental_alveolar.c_P <- cmpfun( function(x){ .cfv_dental.c_P(x) | .cfv_alveolar.c_P(x); } )
 
 feature.defs <- c(feature.defs, "palatoalveolar.c"=".cfv_palatoalveolar.c");
 .cfv_palatoalveolar.c_F <- cmpfun( function(x){ .(x,"GC:c") & .(x,"CP:pa"); } )
@@ -1079,9 +1083,9 @@ count.features <- function(inventory, inventory.name="", use.system=c("phoible",
     return (pho[order(pho$Phoneme),]);
   }
   
-  # Apply the counting functions (defined by a suffix, "M" or "P") to the given segments subset:
+  # Apply the counting functions (defined by a suffix, "F" or "P") to the given segments subset:
   # Return a list with the counts (for the features that could be counted) and the text to be exported to the logfile
-  do.counting <- function( suffix=c("M","P"), segments.subset, uulid, log.file.name=NULL )
+  do.counting <- function( suffix=c("F","P"), segments.subset, uulid, log.file.name=NULL )
   {
     counts <- rep(-Inf,length(feature.defs)); names(counts) <- names(feature.defs);
     logtext <- NULL;
@@ -1115,13 +1119,13 @@ count.features <- function(inventory, inventory.name="", use.system=c("phoible",
   {
     log.file <- paste0("../output/logs/", inventory.name, "--fonetikode-features.csv");
     phonemes.to.use <- phonemes.fonetikode;
-    suffix <- "M";
+    suffix <- "F";
   } else if( use.system == "ruhlen" )
   { 
     log.file <- paste0("../output/logs/", inventory.name, "--fonetikode-features.csv");
     phonemes.rhulen.extended <- rbind(phonemes.rhulen, phonemes.fonetikode[,-1]); # Ruhlen's must be concatenated to Fonetikode:
     phonemes.to.use <- phonemes.rhulen.extended;
-    suffix <- "M";
+    suffix <- "F";
   } else
   {
     stop(paste0("Unknown system '", use.system, "'!\n"));

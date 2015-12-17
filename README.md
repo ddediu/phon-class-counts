@@ -1,10 +1,10 @@
-# Features (and feature counts) from PHOIBLE and Ruhlen's databases
+# Features (and feature counts) from PHOIBLE and Ruhlen's datasbases
 
 **Dan Dediu** ([Dan.Dediu@mpi.nl](mailto:Dan.Dediu@mpi.nl)) and **Scott Moisik** ([Scott.Moisik@mpi.nl](mailto:Scott.Moisik@mpi.nl))[^0]
 
 Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands
 
-October 2015, version 1.0
+December 2015, version 1.1
 
 
 ## Introduction
@@ -123,8 +123,8 @@ In summary, the `R` script `./code/Extract features.r` needs several input files
 | phoible_Features_Fonetikode.csv              	| ./input       	| input  	| CSV, TAB-separated, no quotes 	| The Fonetikode feature system for Phoible                                                                                                                                                                         	|
 | Ruhlen_Features_Fonetikode.csv               	| ./input       	| input  	| CSV, TAB-separated, no quotes 	| The Fonetikode feature system for Ruhlen                                                                                                                                                                          	|
 | languages-info.csv                           	| ./output      	| output 	| CSV, TAB-separated, no quotes 	| Subset of code_mappings_iso_wals_autotyp_glottolog.csv relevant for the Phoible and Ruheln databases                                                                                                          	|
-| inventories-phoible.RData                    	| ./output      	| output 	| XZ-compressed RData           	| Cached Phoible inventories                                                                                                                                                                                    	|
-| inventories-rhulen.RData                     	| ./output      	| output 	| XZ-compressed RData           	| Cached Ruhlen inventories                                                                                                                                                                                     	|
+| inventories-phoible.RData                    	| ./output      	| output 	| GZip2-compressed RData           	| Cached Phoible inventories                                                                                                                                                                                    	|
+| inventories-rhulen.RData                     	| ./output      	| output 	| GZip2s-compressed RData           	| Cached Ruhlen inventories                                                                                                                                                                                     	|
 | counts-fonetikode.csv                        	| ./output      	| output 	| CSV, TAB-separated, no quotes 	| Category counts for the Phoible database using the Fonetikode feature system                                                                                                                                      	|
 | counts-moran.csv                             	| ./output      	| output 	| CSV, TAB-separated, no quotes 	| Category counts for the Phoible database using the Phoible feature system                                                                                                                                     	|
 | counts-ruhlen.csv                            	| ./output      	| output 	| CSV, TAB-separated, no quotes 	| Category counts for the Ruhlen database using the Fonetikode feature system                                                                                                                                       	|
